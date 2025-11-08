@@ -4,6 +4,24 @@ title:  "La gestion désastreuse du HDMI ARC/eARC par Samsung"
 date:   2025-11-08 16:30:00 +0100
 categories: divers
 ---
+- [Les télés et moi](#les-télés-et-moi)
+- [Les barres de son et moi](#les-barres-de-son-et-moi)
+- [Quelques définitions pour comprendre](#quelques-définitions-pour-comprendre)
+  - [HDMI](#hdmi)
+  - [CEC](#cec)
+  - [ARC et eARC](#arc-et-earc)
+  - [Transfert, Passthrough](#transfert-passthrough)
+- [Le début des problèmes](#le-début-des-problèmes)
+  - [Panasonic SC-HTB15, pourquoi changer ?](#panasonic-sc-htb15-pourquoi-changer-)
+  - [Et puis y'a la Samsung...](#et-puis-ya-la-samsung)
+  - [Tizen, les applications internes](#tizen-les-applications-internes)
+  - [La barre de son Sony HT-A3000](#la-barre-de-son-sony-ht-a3000)
+- [Les emmerdes, ça vole toujours en escadrille](#les-emmerdes-ça-vole-toujours-en-escadrille)
+  - [eARC, pas le bon son en TNT, perte de son aléatoire](#earc-pas-le-bon-son-en-tnt-perte-de-son-aléatoire)
+  - [ARC, eARC, Passthough, oui mais des fois seulement](#arc-earc-passthough-oui-mais-des-fois-seulement)
+- [Entre deux maux, il faut choisir le moindre](#entre-deux-maux-il-faut-choisir-le-moindre)
+- [Est-ce seulement Samsung ?](#est-ce-seulement-samsung-)
+- [Que faire ?](#que-faire-)
 
 Les télés et moi
 ================
