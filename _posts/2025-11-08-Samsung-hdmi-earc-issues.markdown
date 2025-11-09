@@ -1,9 +1,12 @@
 ---
-layout: post
+layout: default
 title:  "La gestion désastreuse du HDMI ARC/eARC par Samsung"
 date:   2025-11-08 16:30:00 +0100
+description: Quand on voit ça, on se demande comment Samsung peut être le leader des ventes de téléviseurs.
 categories: divers
 ---
+Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
 - [Les télés et moi](#les-télés-et-moi)
 - [Les barres de son et moi](#les-barres-de-son-et-moi)
 - [Quelques définitions pour comprendre](#quelques-définitions-pour-comprendre)
