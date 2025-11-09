@@ -25,6 +25,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 - [Entre deux maux, il faut choisir le moindre](#entre-deux-maux-il-faut-choisir-le-moindre)
 - [Est-ce seulement Samsung ?](#est-ce-seulement-samsung-)
 - [Que faire ?](#que-faire-)
+- [Quelques sources](#quelques-sources)
 
 Les télés et moi
 ================
@@ -52,7 +53,14 @@ Comme HDMI est une norme, si un fabricant vend de l'équipement avec le support 
 CEC
 ---
 
-**CEC**, *Consumer Electronic Control* permet le pilotage combiné des appareils HDMI. C'est en gros ce qui va permettre ce petit monde de dialoguer, et dans la pratique, c'est ce qui permet d'utiliser, par exemple, la même télécommande pour changer le volume de la télé et qui va en fait le modifier sur la barre de son, ou de naviguer dans les menus de votre box Android avec la télécommande de votre TV, ou d'allumer et d'éteindre tous les équipements en appuyant sur le bouton off de cette même télécommande.
+**CEC**, *Consumer Electronic Control* permet le pilotage combiné des appareils HDMI. C'est en gros ce qui va permettre ce petit monde de dialoguer, et dans la pratique, c'est ce qui permet d'utiliser, par exemple, la même télécommande pour changer le volume de la télé et qui va en fait le modifier sur la barre de son, ou de naviguer dans les menus de votre box Android avec la télécommande de votre TV, ou d'allumer et d'éteindre tous les équipements en appuyant sur le bouton off de cette même télécommande. CEC étant peut-être trop compliqué pour l'utilisateur, pour le prendre encore un peu plus pour un idiot chaque fabricant lui donne un autre petit nom à lui:
+* **Anynet+** chez Samsung
+* **Bravia Sync/Link** chez Sony
+* **Viera link** chez Panasonic
+* **Easylink** chez Philips
+* etc. Sauf UN: Hitachi, qui utilise **HDMI-CEC** (merci à eux)
+
+Pour utiliser ARC et eARC, CEC doit être activé.
 
 ARC et eARC
 -----------
@@ -92,7 +100,7 @@ Un aparté sur les applications internes: elles tournent sous **Tizen**, un syst
 La barre de son Sony HT-A3000
 -----------------------------
 
-On saute en octobre 2025. Pour des raisons personnelles, j’ai eu beaucoup de temps libre à la maison (c'est fini). Je regardais de temps en temps les barres de son, car la petite Panasonic ne supportait pas les formats récents, et je constatais la présence de beaucoup de choses stupides, notamment les barres de moins de 300€ ne supportant que le PCM ou le fameux Dolby Atmos. Pour des formats plus évolués, il fallait mettre bien plus cher. Et puis trouver une barre de son correcte sans caisson de basse (qui je le rappelle, prend de la place en plus de risquer de faire sauter son voisin quand c’est fort), c’est compliqué. Je tombe par hasard sur une description du modèle Sony HT-A3000 (et ses sœurs A5000 et A7000). Descriptif [Sony HT-A3000](https://www.sony.fr/electronics/barres-de-son/ht-a3000 "Sony HT-A3000") Et là je me dis qu’il y a un truc. Notamment, des basses suffisantes pour mon usage dans un petit format, ce que je confirme par ailleurs, le support de tous les formats Dolby et DTS les plus courants, et la compatibilité eARC pour les exploiter ! 700 euros à sa sortie, ouille… Mais je finis par la négocier à 170€ à un particulier. Aussitôt reçue, aussitôt branchée. Et très vite, il y a un truc qui cloche. Et ce n’est pas la barre de son.
+On saute en octobre 2025. Pour des raisons personnelles, j’ai eu beaucoup de temps libre à la maison (c'est fini). Je regardais de temps en temps les barres de son, car la petite Panasonic ne supportait pas les formats récents, et je constatais la présence de beaucoup de choses stupides, notamment les barres de moins de 300€ ne supportant que le PCM ou le fameux Dolby Atmos. Pour des formats plus évolués, il fallait mettre bien plus cher. Et puis trouver une barre de son correcte sans caisson de basse (qui je le rappelle, prend de la place en plus de risquer de faire sauter son voisin quand c’est fort), c’est compliqué. Je tombe par hasard sur une description du modèle **Sony HT-A3000** (et ses sœurs A5000 et A7000). Descriptif [Sony HT-A3000](https://www.sony.fr/electronics/barres-de-son/ht-a3000 "Sony HT-A3000") Et là je me dis qu’il y a un truc. Notamment, des basses suffisantes pour mon usage dans un petit format, ce que je confirme par ailleurs, le support de tous les formats Dolby et DTS les plus courants, et la compatibilité eARC pour les exploiter ! 700 euros à sa sortie, ouille… Mais je finis par la négocier à 170€ à un particulier. Aussitôt reçue, aussitôt branchée. Et très vite, il y a un truc qui cloche. Et ce n’est pas la barre de son.
 
 Les emmerdes, ça vole toujours en escadrille
 ============================================
@@ -135,34 +143,35 @@ Je retourne sur ma Fire TV, je lance les pistes Dolby, c’est bon (y compris At
 
 Je viens donc de comprendre à ce moment, l’origine de mon problème de 2022. je continue, et dans les réglages de la FireTV, il y a un réglage du mode Surround: meilleure correspondance, Dolby Digital, Dolby Digital Plus. Si je passe sur Dolby Digital Plus, le téléviseur dégrise le mode Transfert, mais si le boîtier envoie autre chose que du Dolby, il le grise à nouveau ! Autrement dit, Samsung empêche sciemment de choisir le mode Transfert sur des critères aberrants. 
 
-J’en suis là. Je ne vois plus trop quoi faire.
+J’en suis là. Je ne vois plus trop quoi faire côté télé ou barre de son.
 
 Entre deux maux, il faut choisir le moindre
 ===========================================
 
-En général:
+**En général**:
 * Le mode Transfert (passthrough) ne fonctionne pas ni en TNT, ni avec les applications internes Tizen. Uniquement (quand c’est possible) en HDMI.
 
-En mode  eARC:
+**En mode eARC**:
 * Pas de son Dolby en TNT
 * Coupures de son aléatoires en sortie de veille de la télé si sortie numérique en Auto
 * Le passage en sortie PCM règle le problème.
-* Le mode Transfert (passthrough) est disponible et fonctionne
+* Le mode Transfert (passthrough) est disponible et fonctionne ()
 * Il faut sans arrêt aller dans les menus pour passer de PCM à Auto ou Transfert selon qu’on utilise la TNT, les applications internes ou un boîtier de streaming HDMI.
 
-En mode ARC:
+**En mode ARC**:
 * Son Dolby en TNT
 * Pas de coupures son en sortie de veille même en Auto
 * Le mode Transfert (passthrough) ne peut être forcé.
 * Le mode transfert n’est activable uniquement si le boîtier de streaming sort du Dolby Digital Plus (!)
+* Dans ce cas, Dolby fonctionne, DTS aussi, mais pas le DTS-HD (DTS:X)
 
-Ce qu’il faudrait, et que Samsung ne permet pas:
+**Ce qu’il faudrait, et que Samsung ne permet pas**:
 * Son Dolby en TNT en eARC
 * Pas de coupures son en eARC si la sortie numérique est Auto.
-* Autoriser le mode Transfert (passthrough) en ARC.
+* Autoriser le mode Transfert (passthrough) en ARC **TOUT LE TEMPS**.
 * Autoriser une gestion personnalisée des réglages internes et de chaque port HDMI (tel réglage en TNT, tel réglage sur HDMI1, …)
 
-La conclusion est qu’il est impossible d’avoir quelque chose de cohérent avec ce téléviseur Samsung.
+La conclusion est qu’il est impossible d’avoir quelque chose de cohérent avec ce téléviseur Samsung. Pour regarder la TNT, je dois passer en ARC. Pour passer sur mon boitier de streaming (Fire TV), si je veux du DTS:X ou Atmos lossless, je dois passer en eARC.
 
 Est-ce seulement Samsung ?
 ==========================
@@ -173,14 +182,21 @@ Est-ce pareil avec les autres marques de téléviseurs ? Sur certains forums, on
 Que faire ?
 ===========
 
-Alors, que faire ? Il faudrait que j’arrive à convaincre Madame de changer de TV ? Mais dans le fond Madame a un peu raison en disant qu’elle fonctionnait très bien avant de changer de barre de son ! Eh oui, ma petite barre Panasonic ARC, recevait bien du Dolby en TNT avec la télé. Et pourtant, le dysfonctionnement était déjà là, caché dans les réglages de Transfert (throughput) impossibles avec le boîtier de streaming. Changer de téléviseur, et de marque, c’est prendre le risque d’avoir le même problème, ou d’autres. Pas sûr qu’un vendeur accepte de me voir débarquer avec ma barre de son et ma clé Fire TV chez Darty ou Boulanger :) Et donc, acheter à distance et renvoyer à chaque fois une télé ? Je ne sais pas. 
+Alors, que faire ? Il faudrait que j’arrive à convaincre Madame de changer de TV ? Mais dans le fond Madame a un peu raison en disant qu’elle fonctionnait très bien avant de changer de barre de son ! Eh oui, ma petite barre Panasonic ARC, recevait bien du Dolby en TNT avec la télé. Et pourtant, le dysfonctionnement était déjà là, caché dans les réglages de Transfert (throughput) impossibles avec le boîtier de streaming. Changer de téléviseur, et de marque, c’est prendre le risque d’avoir le même problème, ou d’autres. Pas sûr qu’un vendeur accepte de me voir débarquer avec ma barre de son et ma clé Fire TV chez Darty ou Boulanger :) Et donc, acheter à distance et renvoyer à chaque fois une télé ? 
 
-Quelques sources:
+Autre possibilité, utiliser un boitier extracteur audio pour barre de son, par exemple le [FeinTech AX340](https://www.amazon.fr/FeinTech-AX340-Switch-Extracteur-audio/dp/B0FBRZ29DF), qui va intercepter le signal de sortie de ce qui est connecté dessus pour le renvoyer directement vers la barre de son: on évite le téléviseur. Le coût est élevé, et ça rajoute un équipement.
 
-https://fr.wikipedia.org/wiki/High-Definition_Multimedia_Interface
-https://en.community.sonos.com/home-theater-229129/no-sound-from-arc-when-using-youtube-on-samsung-tv-6885315
-https://www.samsung.com/fr/support/tv-audio-video/what-is-earc-and-how-to-set-on-samsung-smart-tv/
-https://www.samsung.com/latin_en/support/tv-audio-video/no-sound-from-your-samsung-soundbar/
-https://www.reddit.com/r/samsung/comments/166nbp0/samsung_smarttv_suddenly_no_sound_via_arc/
+En attendant, je prends l'habitude de rester en ARC en regardant la télé, mais de passer en eARC pour le boitier de streaming. Et surtout, il ne faut pas oublier de revenir en ARC, sinon, pas de TNT Dolby, perte de son irrégulière en changeant de chaine, etc. !
+
+Dans un prochain article, j'expliquerai comment, avec une Fire TV Stick ou un Fire TV Cube, jouer correctement tous les formats audio en mode transfert (passthrough).
+
+# Quelques sources
+
+* [Wikipedia HDMI](https://fr.wikipedia.org/wiki/High-Definition_Multimedia_Interface)
+* [La communauté râle aussi](https://en.community.sonos.com/home-theater-229129/no-sound-from-arc-when-using-youtube-on-samsung-tv-6885315)
+* [Configuration eARC par Samsung](https://www.samsung.com/fr/support/tv-audio-video/what-is-earc-and-how-to-set-on-samsung-smart-tv/)
+* [Que faire si pas de son selon Samsung](https://www.samsung.com/latin_en/support/tv-audio-video/no-sound-from-your-samsung-soundbar/)
+* [Ca râle sur Reddit aussi](https://www.reddit.com/r/samsung/comments/166nbp0/samsung_smarttv_suddenly_no_sound_via_arc/)
+
 Et tellement d’autres…
 
