@@ -135,7 +135,7 @@ Je suis borné, alors je continue. Mon postulat est simple: si ça marche en ARC
 
 *Le son passe en Dolby !*
 
-Je retourne sur ma Fire TV, je lance les pistes Dolby, c’est bon (y compris Atmos). Je lance les pistes DTS: rien, pas de son. Mais quelle est donc cette sorcellerie ? Deux choses. Dans Kodi le dispositif Audio a été modifé (RAW à la place de IEC), et dans les réglages de la TV, le mode Transfert est grisé ! Mais c’est une blague ! Et là je lis, sur le côté, que le mode transfert ne fonctionne qu’en eARC, pas en ARC… Mais, Samsung, mais vous êtes fous ? Bon, si je remets IEC dans Kodi, et que je retourne jouer ma piste DTS, ça fonctionne. MAIS, le DTS:X (HD/MA), je n'ai pas de son: il faut être en eARC... On ne peut pas avoir le beurre, et l'argent du beurre.
+Je retourne sur ma Fire TV, je lance les pistes Dolby, c’est bon (y compris Atmos). Je lance les pistes DTS: rien, pas de son. Mais quelle est donc cette sorcellerie ? Deux choses. Dans Kodi le dispositif Audio a été modifé (RAW à la place de IEC), et dans les réglages de la TV, le mode Transfert est grisé ! Mais c’est une blague ! Et là je lis, sur le côté, que le mode transfert ne fonctionne qu’en eARC, pas en ARC… Mais, Samsung, mais vous êtes fous ? Bon, si je remets IEC dans Kodi, et que je retourne jouer ma piste DTS, ça fonctionne. MAIS, le DTS:X (HD/MA), je n'ai pas de son: il faut être en eARC... On ne peut pas avoir le beurre, et l'argent du beurre. Je remarque que selon le type de flux audio, sur la télé Transfert est sélectionné ou non, mais ne peut pas être forcé.
 
 ![Samsung pas de passthrough](/assets/img/2025-11-08/06-arc-transfert.jpg)
 
