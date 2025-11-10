@@ -123,7 +123,7 @@ Puis, aléatoirement, en allumant la télé, il n’y a pas de son du tout. Je c
 ARC, eARC, Passthough, oui mais des fois seulement
 --------------------------------------------------
 
-Allons maintenant voir ce qui se passe avec un boîtier de streaming, à savoir pour moi une clé Fire TV Stick 4K Max puis une Fire TV Cube. Magie : l’option Transfert (passthrough) apparaît dans le choix de sortie audio numérique du téléviseur ! Oui mais comme on est en PCM, et pas en auto, il faut y retourner à chaque fois pour changer le paramètre, puis penser à remettre PCM quand on revient sur la TNT. Quelle sorcellerie ! Je continue, je lance Kodi, vérifie les paramètres Passthrough, et magie ! DTS s’affiche sur la barre, voire même DTS:X avec le contenu de test (on trouve des BluRays de test DTS et Dolby un peu partout). Pour le Dolby Atmos, il faut une piste UltraHD et activer le surround sur la barre de son, et hop, elle affiche Dolby Atmos ! Mais alors, tout fonctionne ? La barre de son, oui, est impeccable ! La télé Samsung non. Outre le bug du silence (y compris par les haut-parleurs) en sortie de veille, pourquoi le son n’est-il pas correct en TNT ?
+Allons maintenant voir ce qui se passe avec un boîtier de streaming, à savoir pour moi une clé Fire TV Stick 4K Max puis une Fire TV Cube. Magie : l’option Transfert (passthrough) apparaît dans le choix de sortie audio numérique du téléviseur ! Oui mais comme on est en PCM, et pas en auto, il faut y retourner à chaque fois pour changer le paramètre, puis penser à remettre PCM quand on revient sur la TNT. Quelle sorcellerie ! Je continue, je lance Kodi, vérifie les paramètres Passthrough (j'écrirai un article sur la configuration de Kodi), et magie ! DTS s’affiche sur la barre, voire même DTS:X avec le contenu de test (on trouve des Blurays de test DTS et Dolby un peu partout0, qu'on peut extraire et mettre sur un partage ou un support USB). Pour le Dolby Atmos, il faut une piste UltraHD et activer le surround sur la barre de son, et hop, elle affiche Dolby Atmos ! Mais alors, tout fonctionne ? La barre de son, oui, est impeccable ! La télé Samsung non. Outre le bug du silence (y compris par les haut-parleurs) en sortie de veille, pourquoi le son n’est-il pas correct en TNT ?
 
 ![Samsung en ARC](/assets/img/2025-11-08/04-samsung-arc-auto.jpg)
 
@@ -135,7 +135,7 @@ Je suis borné, alors je continue. Mon postulat est simple: si ça marche en ARC
 
 *Le son passe en Dolby !*
 
-Je retourne sur ma Fire TV, je lance les pistes Dolby, c’est bon (y compris Atmos). Je lance les pistes DTS: rien, pas de son. Mais quelle est donc cette sorcellerie ? Dans les réglages de la TV, le mode Transfert est grisé ! Mais c’est une blague ! Et là je lis, sur le côté, que le mode transfert ne fonctionne qu’en eARC, pas en ARC… Mais, Samsung, mais vous êtes fous ? 
+Je retourne sur ma Fire TV, je lance les pistes Dolby, c’est bon (y compris Atmos). Je lance les pistes DTS: rien, pas de son. Mais quelle est donc cette sorcellerie ? Deux choses. Dans Kodi le dispositif Audio a été modifé (RAW à la place de IEC), et dans les réglages de la TV, le mode Transfert est grisé ! Mais c’est une blague ! Et là je lis, sur le côté, que le mode transfert ne fonctionne qu’en eARC, pas en ARC… Mais, Samsung, mais vous êtes fous ? Bon, si je remets IEC dans Kodi, et que je retourne jouer ma piste DTS, ça fonctionne. MAIS, le DTS:X (HD/MA), je n'ai pas de son: il faut être en eARC... On ne peut pas avoir le beurre, et l'argent du beurre.
 
 ![Samsung pas de passthrough](/assets/img/2025-11-08/06-arc-transfert.jpg)
 
