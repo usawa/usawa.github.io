@@ -145,6 +145,8 @@ Je viens donc de comprendre à ce moment, l’origine de mon problème de 2022. 
 
 J’en suis là. Je ne vois plus trop quoi faire côté télé ou barre de son.
 
+En fait, sur Reddit je suis tombé sur ce message qui résume très bien la situation _Les téléviseurs Samsung avec eARC sont connus pour avoir des problèmes._
+
 Entre deux maux, il faut choisir le moindre
 ===========================================
 
@@ -193,7 +195,9 @@ Dans un prochain article, j'expliquerai comment, avec une Fire TV Stick ou un Fi
 # Quelques sources
 
 * [Wikipedia HDMI](https://fr.wikipedia.org/wiki/High-Definition_Multimedia_Interface)
-* [La communauté râle aussi](https://en.community.sonos.com/home-theater-229129/no-sound-from-arc-when-using-youtube-on-samsung-tv-6885315)
+* [Les téléviseurs Samsung avec eARC sont connus pour avoir des problèmes](https://www.reddit.com/r/sonos/comments/199e5ft/earc_mode_on_samsung_tv_started_randomly_having/?tl=fr)
+* [La communauté Samsung râle aussi](https://en.community.sonos.com/home-theater-229129/no-sound-from-arc-when-using-youtube-on-samsung-tv-6885315)
+* [La communauté râle encore ici](https://eu.community.samsung.com/t5/t%C3%A9l%C3%A9viseurs/dolby-atmos-indisponible-avec-barre-de-son/td-p/9219778/page/2)
 * [Configuration eARC par Samsung](https://www.samsung.com/fr/support/tv-audio-video/what-is-earc-and-how-to-set-on-samsung-smart-tv/)
 * [Que faire si pas de son selon Samsung](https://www.samsung.com/latin_en/support/tv-audio-video/no-sound-from-your-samsung-soundbar/)
 * [Ca râle sur Reddit aussi](https://www.reddit.com/r/samsung/comments/166nbp0/samsung_smarttv_suddenly_no_sound_via_arc/)
