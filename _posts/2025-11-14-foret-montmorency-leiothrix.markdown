@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Découverte de la forêt de Montmorency et du léiothrix jaune"
+title:  "Découverte de la forêt de Montmorency et du Léiothrix jaune"
 date:   2025-11-14 18:45:00 +0100
 description: Les randonnées en forêt de Montmorency sont propices à de belles découvertes, notamment un oiseau très particulier.
 categories: balade
@@ -17,7 +17,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 - [La faune](#la-faune)
   - [Une faune pas si classique](#une-faune-pas-si-classique)
   - [Rencontre avec la faune](#rencontre-avec-la-faune)
-- [Le léiothrix jaune](#le-léiothrix-jaune)
+- [Le Léiothrix jaune](#le-léiothrix-jaune)
   - [Une belle rencontre](#une-belle-rencontre)
   - [Pourquoi ici ?](#pourquoi-ici-)
   - [Un oiseau d’Asie](#un-oiseau-dasie)
@@ -113,7 +113,7 @@ Je rencontre aussi régulièrement des renards, en lisière du côté de Saint-B
 
 *Deux renards, à environ 50 mètres*
   
-# Le léiothrix jaune
+# Le Léiothrix jaune
 
 ## Une belle rencontre
 
@@ -139,7 +139,7 @@ Le principal risque pour cette espèce, du moins en forêt de Montmorency, reste
 
 ## Où l’observer ?
 
-Où voir le léiothrix jaune ? Partout, pardi \! Le long des chemins, en forêt, sur les côtés, dans les taillis, broussailles et branchages. Je l’observe quasiment chaque semaine, et je l’entends, parfois sans le voir, à chaque marche en forêt. Il suffit d’être attentif. Une fois habitué, son chant est reconnaissable entre mille. Ils sont généralement par paire (couple ?), donc on les voit par multiples de deux. Je vous conseille d’installer l’application Merlin Bird: elle capte les chants des oiseaux et vous indique en direct à quelle espèce le chant appartient. Et quand les léiothrix jaunes sont nombreux, ils font un sacré vacarme \! Je me souviens d’un soir de juillet sur la route du Prieuré, c’était impressionnant \! Il ne se sauve pas directement, il recule lentement, sautillant de branche en branche, et il est assez simple à observer une fois détecté. Profitez \!
+Où voir le Léiothrix jaune ? Partout, pardi \! Le long des chemins, en forêt, sur les côtés, dans les taillis, broussailles et branchages. Je l’observe quasiment chaque semaine, et je l’entends, parfois sans le voir, à chaque marche en forêt. Il suffit d’être attentif. Une fois habitué, son chant est reconnaissable entre mille. Ils sont généralement par paire (couple ?), donc on les voit par multiples de deux. Je vous conseille d’installer l’application Merlin Bird: elle capte les chants des oiseaux et vous indique en direct à quelle espèce le chant appartient. Et quand les Léiothrix jaunes sont nombreux, ils font un sacré vacarme \! Je me souviens d’un soir de juillet sur la route du Prieuré, c’était impressionnant \! Il ne se sauve pas directement, il recule lentement, sautillant de branche en branche, et il est assez simple à observer une fois détecté. Profitez \!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HG0RYPz6ze4?si=UU6rOTNNhiaszrp7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
