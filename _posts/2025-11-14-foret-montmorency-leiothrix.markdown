@@ -13,7 +13,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
   - [Un beau massif dans le Val d'Oise](#un-beau-massif-dans-le-val-doise)
   - [Des lieux remarquables](#des-lieux-remarquables)
   - [La plus grande carrière de gypse d’Europe](#la-plus-grande-carrière-de-gypse-deurope)
-  - [Le problème du châtaigner](#le-problème-du-châtaigner)
+  - [Le problème du châtaignier](#le-problème-du-châtaignier)
 - [La faune](#la-faune)
   - [Une faune pas si classique](#une-faune-pas-si-classique)
   - [Rencontre avec la faune](#rencontre-avec-la-faune)
@@ -64,13 +64,13 @@ Peu su, au sud-ouest de la forêt se trouve la base aérienne 921, qui avait fer
 
 On le sait peu non plus, mais la forêt est aussi la plus grande carrière de gypse d’Europe \! 1500 hectares. Les carrières souterraines, à 80 mètres sous la forêt, très actives, sont exploitées par les entreprises Lafarge et Placoplatre : un million de tonnes exploitées par an, soit 50% de la production française. Il a fallu aménager des accès spécifiques, et le sous-sol, un vrai gruyère, est parcouru d’énormes galeries qu’il faut remblayer après exploitation. On trouve en surface, au milieu des arbres, des cheminées d’aération de ces galeries. L’été quand il fait chaud, le courant d’air provoqué amène un air froid et humide à proximité, pas forcément désagréable.
 
-## Le problème du châtaigner
+## Le problème du châtaignier
 
 Côté flore, la forêt était constituée à plus de 70% (voire 90% au milieu du XXème siècle), de châtaigniers, surexploités jusqu’aux années 1980, moment où l’Etat a racheté la plupart des parcelles. Le reste est constitué de chênes, bouleaux, hêtres et divers résineux dont le Pin Sylvestre. On y trouve aussi une espèce de fougère rare, l’osmonde royale. Ce manque de diversité est le malheur de la forêt de Montmorency. Tout d’abord, la forêt a été surexploitée, est vieillissante et le renouvellement des arbres pas assuré. Ensuite, depuis la fin des années 1990, l’humidité et les températures douces, effets du réchauffement climatique, ont vu la maladie de l’encre réapparaître. Cet organisme filamenteux s’attaque aux racines du châtaignier et va le détruire plus ou moins progressivement. L’arbre n’arrivant plus à “pomper” assez de nutriment, il va mourir après une période de trois à six ans, parfois très brutalement. Un effet très visible est la perte du feuillage à la cime des arbres. 
 
 ![maladie-encre](/assets/img/2025-11-14/maladie-encre.jpg)
 
-*La maladie de l'encre empêche la sève d'atteindre la cime. Le châtaigner perd ses feuilles.*
+*La maladie de l'encre empêche la sève d'atteindre la cime. Le châtaignier perd ses feuilles.*
 
 On ne peut pas lutter contre cette maladie lorsqu’elle est installée. On peut trouver ou greffer des espèces plus résistantes, drainer le sol, etc., mais la solution radicale qui semble avoir été retenue par l’ONF est l’abattage de nombreuses parcelles, coupes rases souvent incomprises par les défenseurs de la nature. J’ai moi-même pu être choqué quand, au détour du sentier, je me suis retrouvé devant … rien … Mais les parcelles sont ensuite plantées de nouvelles espèces : chênes rouvres, merisiers, érables, cèdres ou pins. À terme la forêt sera transfigurée. 
 
