@@ -19,7 +19,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 # Marre de Samsung
 
-Lorsque j'ai narré mes désastreuses aventures avec la gestion eARC de mon téléviseur Samsung, j'avais émis l'hypothèse d'utiliser un switch externe pour envoyer le son directement à la barre de son. Malgré le fait que je réussissais toujours, finalement, à obtenir ce que je voulais, j'ai constaté de nouveaux problèmes ces derniers jours lors de tests plus poussés, et surtout un, gênant:
+Lorsque j'ai narré mes désastreuses aventures avec la gestion eARC de mon téléviseur Samsung, j'avais émis l'hypothèse d'utiliser un commutateur externe pour envoyer le son directement à la barre de son. Malgré le fait que je réussissais toujours, finalement, à obtenir ce que je voulais, j'ai constaté de nouveaux problèmes ces derniers jours lors de tests plus poussés, et surtout un, gênant:
 
 **J'ai un décalage entre le son et l'image en DTS ou Dolby TrueHD**
 
@@ -38,7 +38,7 @@ Le AX340 permet de connecter d'un à quatre appareils en HDMI 2.1, un télévise
 
 ![Le Feintech AX340](/assets/img/2025-11-21/feintech_340.jpg)
 
-La différence avec le AX310 est la présence du switch 4xHDMI. Le AX310 n'a qu'une seule entrée HDMI, et un réglage manuel possible de la compatibilité EDID (Extended Display Identification Data) pour optimiser les modes vidéo et audio supportés. Finalement, l'idée de ne pas utiliser les ports HDMI de mon téléviseur ou d'étendre leur nombre m'a bien plu.
+La différence avec le AX310 est la présence du commutateur quatre ports HDMI. Le AX310 n'a qu'une seule entrée HDMI, et un réglage manuel possible de la compatibilité EDID (Extended Display Identification Data) pour optimiser les modes vidéo et audio supportés. Finalement, l'idée de ne pas utiliser les ports HDMI de mon téléviseur ou d'étendre leur nombre m'a bien plu.
 
 # Connexions, avant et après
 
