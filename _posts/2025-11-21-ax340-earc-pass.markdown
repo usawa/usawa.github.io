@@ -1,0 +1,73 @@
+---
+layout: default
+title:  "Feintech AX340, contourner le téléviseur"
+date:   2025-11-21 18:30:00 +0100
+description: Cet appareil permet de se passer de la gestion eARC du téléviseur Samsung
+categories: 
+- earc
+- televiseur
+- hdmi
+---
+Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
+- [Marre de Samsung](#marre-de-samsung)
+- [Présentation du AX340](#présentation-du-ax340)
+- [Connexions, avant et après](#connexions-avant-et-après)
+- [Résultat ?](#résultat-)
+- [Des soucis ?](#des-soucis-)
+- [Conclusion](#conclusion)
+
+# Marre de Samsung
+
+Lorsque j'ai narré mes désastreuses aventures avec la gestion eARC de mon téléviseur Samsung, j'avais émis l'hypothèse d'utiliser un switch externe pour envoyer le son directement à la barre de son. Malgré le fait que je réussissais toujours, finalement, à obtenir ce que je voulais, j'ai constaté de nouveaux problèmes ces derniers jours lors de tests plus poussés, et surtout un, gênant:
+
+**J'ai un décalage entre le son et l'image en DTS ou Dolby TrueHD**
+
+Mais pas toujours. C'est aléatoire. Et puis, j'en ai marre de devoir modifier les réglages son du téléviseur quand je veux utiliser mon Fire TV cube (ou autre). Alors, j'ai cassé la tirelire, et j'ai acheté le fameux **Feintech AX340**, à 169€. J'ai hésité avec le AX310 qui est 50€ moins cher. Et je l'ai mauvaise cette semaine, parce qu'avec le Black Friday, deux semaines après mon achat, le AX340 est tombé à 139€. Trop tard, c'est fait, mais c'est rageant.
+
+[Lien vers le Feintech AX340](https://feintech.eu/en/collections/hdmi-audio-extractor-fur-earc-soundbars/products/ax340-hdmi-2-1-audio-extractor-4-in-1-out-earc-soundbar-earc-tv)
+
+[Lien vers le Feintech AX310](https://feintech.eu/en/collections/hdmi-audio-extractor-fur-earc-soundbars/products/ax310-hdmi-2-1-audio-extractor-hdmi-earc)
+
+
+Feintech est allemand, mais les produits sont des modèles chinois. En passant par eux ou Amazon, c'est la garantie d'avoir une... Garantie, justement ! Si vous n'êtes pas pressés (et que l'absence de réelle garantie ne vous fait pas peur), on trouve ces modèles sous d'autres noms sur des sites comme AliExpress. Tapez juste **hdmi earc pass** dans la barre de recherche.
+
+# Présentation du AX340
+
+Le AX340 permet de connecter d'un à quatre appareils en HDMI 2.1, un téléviseur, une barre de son, est compatible (e)ARC, et va renvoyer le son vers la barre de son HDMI, qu'il vienne du téléviseur ou des appareil HDMI, sans aucune perte (transfert, pass, passthrough). La vidéo sortira toujours vers le téléviseur (ou le projecteur). Comme c'est du HDMI 2.1, Dolby TrueHD et DTS:X, sans perte de qualité (lossless), ainsi que le 4K 120Hz ou 8K 60Hz, sont supportés. Il faut utiliser des câbles Ultra High Speed, non fournis. Une petite télécommande permet de passer d'une entrée à une autre, mais comme le CEC est supporté, ça active tout dès que je commute sur le bon port HDMI de ma télé.
+
+![Le Feintech AX340](/assets/img/2025-11-21/feintech_340.jpg)
+
+La différence avec le AX310 est la présence du switch 4xHDMI. Le AX310 n'a qu'une seule entrée HDMI, et un réglage manuel possible de la compatibilité EDID (Extended Display Identification Data) pour optimiser les modes vidéo et audio supportés. Finalement, l'idée de ne pas utiliser les ports HDMI de mon téléviseur ou d'étendre leur nombre m'a bien plu.
+
+# Connexions, avant et après
+
+Avant d'avoir le boitier, tout passait par le téléviseur. La norme HDMI (e)ARC garantissait normalement le transfert direct de mes équipements vers la barre de son sans rien changer. On a déjà vu dans un précédent article que c'était plus qu'aléatoire, voire désastreux. Si on ajoute en plus le décalage image/son, ça devient inutilisable.
+
+![Installation HDMI initiale](/assets/img/2025-11-21/plan_hdmi_soundbar_1.jpg)
+
+*Installation initiale, tout passe par le téléviseur (e)ARC*
+
+Avec le commutateur HDMI, tous les équipements sont connectés aux ports HDMI de celui-ci. Le téléviseur reste présent pour envoyer son propre son vers la barre de son. La barre de son est connectée sur le port eARC spécifié. Ainsi, je profite de quatre ports HDMI de commutateur, mais aussi, si je n'ai pas besoin d'audio évoluée, des deux ports libres du téléviseur. Bon plan !
+
+![Installation HDMI avec commutateur](/assets/img/2025-11-21/plan_hdmi_soundbar_2.jpg)
+
+*Installation avec le AX340*
+
+Ainsi, le son des divers équipements (boitier de streaming, console de jeux, lecteur BR, ...) est envoyé directement à la barre de son sans passer par le téléviseur, espérant ainsi ne plus subir les désagréments de celui-ci. Est-ce que la promesse est tenue ?
+
+# Résultat ?
+
+Oui, promesse tenue ! Quel plaisir ! Je passe sur ma Fire TV Cube, je lance Kodi, je joue mes démos DTS:X et Dolby Atmos et ça marche directement ! Plus besoin d'aller manipuler les réglages du téléviseur ! Je disais que Vimu ne me sortait de de DTS : et bien si ! Avec les bons réglages (qui ne fonctionnaient pas avant, interceptés par le téléviseur), j'ai du DTS ! Le transfert (passthrough) fonctionne ! VLC et Plex restent malheureusement en simple Dolby. Là, le problème est logiciel.
+
+Et le son du téléviseur ? En passant en eARC, rien ne change, le son continue à sortir en PCM et pas en Dolby. Je suis donc resté en ARC, et sans avoir de Dolby Atmos, j'obtiens tout de même le son Dolby de base, déjà bien mieux. C'est donc la démonstration parfaite du défaut de gestion du son et du eARC par Samsung.
+
+# Des soucis ?
+
+Rien n'est jamais parfait et j'ai remarqué deux petits problèmes.
+* Le AX340 supporte parfaitement le CEC. Si j'éteins ma télé, il se met en veille. Si j'allume la télé, il se rallume, puis il rallume la barre de son. Le délai entre les diverses mises en route ajoute entre 10 et 15 secondes sans son. Ce souci se règle facilement en empêchant l'extinction automatique (appuyer 3 secondes sur le bouton eARC du commutateur).
+* Le second pourrait poser des soucis à plus long terme (mais j'ai la garantie): il semble que le AX340 chauffe un peu fort, avec une plage de fonctionnement 10-40°. C'est assez compact mais ça dissipe mal. J'ai trouvé des commentaires de clients dont le commutateur est tombé en panne, ou perd le son et l'image si trop chaud. Je touche du bois.
+
+# Conclusion
+
+C'est simple. Ça fonctionne exactement comme ça le devrait avec le téléviseur. Et je continue à dire que c'est totalement anormal qu'un constructeur délivre quelque chose d'aussi mauvaise qualité, a priori, d'après les forums, sur toute sa gamme. Grave quand on délivre aussi des barres de son, de ce fait pas compatibles avec ses propres téléviseurs. Je vous encourage à bien vous renseigner avant de vous lancer dans l'achat d'un téléviseur ou d'une barre de son, pour en vérifier la compatibilité. Si la barre de son propose un ou plusieurs ports HDMI en entrée, c'est encore mieux. C'est devenu rare depuis l'apparition du (e)ARC, et c'est dommage.
