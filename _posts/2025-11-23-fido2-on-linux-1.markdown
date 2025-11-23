@@ -193,7 +193,7 @@ Enter the same PIN again:
 ```
 
 ## Lier sa clé à son compte
-Chaque clé physique est personnelle. Chaque clé dispose d'une signature. Il faut l'associer à votre compte Linux, l'enregistrer, en la plaçant dans un fichier. Si vous avez plusieurs clés, elles doivent être ajoutées sur la même ligne. Cette clé n'est pas un secret en tant que tel: elle ne peut pas être réutilisée depuis une autre clé, puisque générée dynamiquement au moment de l'exécution de la commande. Si vous relancez la commande, vous en obtiendrez une autre. Vous devez cependant vous assurer que personne d'autre que vous ne peut modifier votre fichier (644), ou, tout simplement, interdire l'accès à tous sauf à vous (PAM étant root, il pourra lire votre fichier).
+Chaque clé physique est personnelle. Chaque clé dispose d'une signature. Il faut l'associer à votre compte Linux, l'enregistrer, en la plaçant dans un fichier. Si vous avez plusieurs clés, elles doivent être ajoutées sur la même ligne. Cette clé n'est pas un secret en tant que tel: elle ne peut pas être réutilisée depuis une autre clé, puisque générée dynamiquement au moment de l'exécution de la commande. Si vous relancez la commande, vous en obtiendrez une autre. Vous devez cependant vous assurer que personne d'autre que vous ne peut modifier votre fichier (droits 644), ou, tout simplement, interdire l'accès à tous sauf à vous (PAM étant root, il pourra lire votre fichier).
 
 ```
 seb@Y13:~$ mkdir -p ~/.config/fido2
@@ -217,7 +217,7 @@ Si on ne veut pas le code PIN, alors on retire +pin, ça demandera uniquement de
 > **CAUTION**
 > Toujours ouvrir une ou plusieurs sessions en root avant de modifier les fichiers PAM, et les sauvegarder avant modification. Ça pourrait être l'unique moyen de vous en sortir en cas d'erreur.
 
-On va maintenant tester avec **sudo**. Pour ce premier test, on va rendre optionnel l'utilisation de la clé. Si elle est présente, elle sera demandée, mais même en cas d'absence ou d'erreur, le mot de passe sera demandé. Il nous faut modifier la configuration **PAM** *Pluggable Authentication Module*, qui gère tous les mécanismes d'authentification sous Linux.
+On va maintenant tester avec **sudo**. Pour ce premier test, on va rendre optionnelle l'utilisation de la clé. Si elle est présente, elle sera demandée, mais même en cas d'absence ou d'erreur, le mot de passe sera demandé. Il nous faut modifier la configuration **PAM** *Pluggable Authentication Module*, qui gère tous les mécanismes d'authentification sous Linux.
 
 Dans **/etc/pam.d/sudo**:
 
@@ -257,7 +257,7 @@ auth    sufficient   pam_u2f.so nouserok authfile=.config/fido2/u2f_keys cue
 ### Ça se passe côté client 
 Si vous modifiez la configuration PAM pour un serveur **sshd**, ça ne fonctionnera pas (comme s'il ne se passait rien). Et c'est parfaitement logique: on utilise un client SSH pour se connecteur sur un serveur, ce qui signifie que la clé, logique ou physique, doit être sur le client. Et quasiment toutes les versions des clients SSH supportent les clés FIDO2 depuis des années (merci Yubikey), quel que soit le système d'exploitation.
 
-L'astuce consiste à générer une clé SSH côté client qui sera stockée dans la clé physioque FIDO2, avec ou sans passphrase, avec ou sans validation par code PIN. C'est donc sur le client que la clé doit être connectée.
+L'astuce consiste à générer une clé SSH côté client qui sera stockée dans la clé physique FIDO2, avec ou sans passphrase, avec ou sans validation par code PIN. C'est donc sur le client que la clé doit être connectée.
 
 ```
 seb@Y13:~$ ssh-keygen -t ed25519-sk -O resident -O verify-required -C "seb@toto.fr"
