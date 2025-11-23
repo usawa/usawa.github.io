@@ -94,7 +94,7 @@ Mon modèle est la [Thetis PRO-A](https://thetis.io/fr/products/thetis-pro-a-fid
 
 ![Thetis Pro-A](/assets/img/2025-11-23/thetis.jpg) 
 
-La clé permet une authentification sans mot de passe. En gros, on insère la clé, on se connecte au service souhaité, ce service attend une action, on appuie sur un bouton de la clé, et hop, on est connecté. Eventuellement, 
+La clé permet une authentification sans mot de passe. En gros, on insère la clé, on se connecte au service souhaité, ce service attend une action, on appuie sur un bouton de la clé, et hop, on est connecté. Éventuellement, on peut demander à saisir un code PIN.
 
 Dit comme ça, ça parait très simple, et en réalité, une fois la configuration en place, ça l'est. Mais il y a un certain nombre d'étapes préalables, évidemment. Sous Windows, le fabricant fournit généralement un petit logiciel avec interface graphique pour gérer tout ça. Sous Linux, c'est souvent en ligne de commande (il existe des interfaces comme [fido2-manage](https://github.com/token2/fido2-manage)). 
 
