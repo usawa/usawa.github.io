@@ -1,13 +1,9 @@
 ---
 layout: default
 title:  "Les bases de l'authentification, clé de sécurité FIDO2 sous Linux et Windows"
-date:   2025-11-23 18:30:00 +0100
+date:   2025-11-23 17:30:00 +0100
 description: Quelle est la différence entre identification et authentification ? Qu'est-ce que l'authentification multifacteur et pourquoi c'est important ? Comment utiliser une clé de sécurité physique sous Linux et Windows ?
 categories: 
-- linux
-- sécurité
-- fido2
-- mfa
 - authentification
 ---
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
