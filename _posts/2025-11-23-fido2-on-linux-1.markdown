@@ -9,7 +9,7 @@ categories:
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 > **NOTE**
-> Je pense poster cet article aussi sur LinuxFR. Je mettrai cette page à jour pour fournir le lien quand ce sera le cas.
+> cet article a été posté en tant que journal sur [LinuxFR](https://linuxfr.org/users/usawa/journaux/les-bases-de-l-authentification-cle-de-securite-fido2-sous-linux-et-windows)
 
 - [Les grands principes de l'authentification](#les-grands-principes-de-lauthentification)
   - [l'identité](#lidentité)
