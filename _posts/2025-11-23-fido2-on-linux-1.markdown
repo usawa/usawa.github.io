@@ -221,7 +221,7 @@ On va maintenant tester avec **sudo**. Pour ce premier test, on va rendre option
 
 Dans **/etc/pam.d/sudo**:
 
-L'ordre des lignes est important. Notamment pour les lignes **auth** liées à l'authentification. Elles sont lues et traitées dans leur ordre d'apparition. Et la première validée (authentification OK) peut suffire même si d'autres sont présentes. Ici, si on veut tout de même la saisie du mot de passe, on place la ligne après *@include common-auth*, Sinon, on la place avant.
+L'ordre des lignes est important. Notamment pour les lignes **auth** liées à l'authentification. Elles sont lues et traitées dans leur ordre d'apparition. Et la première validée (authentification OK) peut suffire même si d'autres sont présentes. Ici, si on veut tout de même la saisie du mot de passe, on place la ligne après *@include common-auth*, sinon, on la place avant.
 
 ```
 auth    sufficient   pam_u2f.so nouserok authfile=.config/fido2/u2f_keys cue
@@ -255,7 +255,7 @@ auth    sufficient   pam_u2f.so nouserok authfile=.config/fido2/u2f_keys cue
 
 ## Le cas de SSH
 ### Ça se passe côté client 
-Si vous modifiez la configuration PAM pour un serveur **sshd**, ça ne fonctionnera pas (comme s'il ne se passait rien). Et c'est parfaitement logique: on utilise un client SSH pour se connecteur sur un serveur, ce qui signifie que la clé, logique ou physique, doit être sur le client. Et quasiment toutes les versions des clients SSH supportent les clés FIDO2 depuis des années (merci Yubikey), quel que soit le système d'exploitation.
+Si vous modifiez la configuration PAM pour un serveur **sshd**, ça ne fonctionnera pas (comme s'il ne se passait rien). Et c'est parfaitement logique: on utilise un client SSH pour se connecter sur un serveur, ce qui signifie que la clé, logique ou physique, doit être sur le client. Et quasiment toutes les versions des clients SSH supportent les clés FIDO2 depuis des années (merci Yubikey), quel que soit le système d'exploitation.
 
 L'astuce consiste à générer une clé SSH côté client qui sera stockée dans la clé physique FIDO2, avec ou sans passphrase, avec ou sans validation par code PIN. C'est donc sur le client que la clé doit être connectée.
 
