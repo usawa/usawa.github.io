@@ -333,4 +333,4 @@ Pas mal, hein ?
 
 # Le mot de la fin
 
-On voit clairement la pertinence de l'existence des clés physiques, l'utilité qu'elles peuvent avoir, et finalement la facilité utilisation une fois la clé et le système configurés. Ces clés peuvent avoir d'autres usages, notamment pour se connecter à de nombreux services, sur le web ou non. Ainsi, de nombreux développeurs s'en servent pour pousser leur code sur les dépôts Github, et d'autres utilisateurs pour des services comme gmail, par exemple, avec une authentification intégrée aux navigateurs web. Je vous souhaite beaucoup d'amusement.
+On voit clairement la pertinence de l'existence des clés physiques, l'utilité qu'elles peuvent avoir, et finalement la facilité d'utilisation une fois la clé et le système configurés. Ces clés peuvent avoir d'autres usages, notamment pour se connecter à de nombreux services, sur le web ou non. Ainsi, de nombreux développeurs s'en servent pour pousser leur code sur les dépôts Github, et d'autres utilisateurs pour des services comme gmail, par exemple, avec une authentification intégrée aux navigateurs web. Je vous souhaite beaucoup d'amusement.
