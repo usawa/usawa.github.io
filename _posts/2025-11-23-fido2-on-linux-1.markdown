@@ -139,7 +139,7 @@ root@Y13:/dev# ls -l input/by-id/usb-Thetis_Security_Key_FE25_-event-kbd
 lrwxrwxrwx 1 root root 10 nov.  23 17:25 input/by-id/usb-Thetis_Security_Key_FE25_-event-kbd -> ../event12
 ```
 
-Les détail sont intéressants, puisqu'une partie du périphérique est d'ailleurs détectée comme un clavier. Logique, puisqu'il y a un bouton physique sur la clé, donc, si vous voulez, une touche de clavier. Mais aussi Chip/SmartCard, puisqu'on va pouvoir écrire dessus pour y stocker des clés.
+Les s sont intéressants, puisqu'une partie du périphérique est d'ailleurs détectée comme un clavier. Logique, puisqu'il y a un bouton physique sur la clé, donc, si vous voulez, une touche de clavier. Mais aussi Chip/SmartCard, puisqu'on va pouvoir écrire dessus pour y stocker des clés.
 
 ```
 Bus 001 Device 007: ID 1ea8:fe25 Thetis Security Key(FE25)
