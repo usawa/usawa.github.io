@@ -38,7 +38,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 Quand on se connecte à un service, on doit s'identifier.
 
-S'**identifier**, c'est qui on est (ou pour qui en souhaite se faire passer). Par exemple, vos prénoms et nom, votre pseudo, votre identifiant pour vous connecter à votre machine au bureau, votre adresse email, etc.
+S'**identifier**, c'est qui on est (ou pour qui on souhaite se faire passer). Par exemple, vos prénoms et nom, votre pseudo, votre identifiant pour vous connecter à votre machine au bureau, votre adresse email, etc.
 
 ## L'authentification
 
@@ -67,7 +67,7 @@ Vous entendrez parler aussi de **2FA**, c'est le cas le plus courant où il vous
 Pour se connecter sur un ordinateur distant, via un réseau (privé, ou public), on utilise un protocole sécurisé: la connexion est codée (chiffrée), et on doit décliner son identité et s'authentifier. La plupart des systèmes d'exploitation (Unix - Linux, MacOS, mais aussi Windows) peuvent utiliser **SSH** *Secure Shell*. Windows peut aussi utiliser **RDP** *Remote Desktop Protocol* pour l'environnement graphique.
 
 ### Les clés et le chiffrement asymétrique 
-Le serveur SSH (la machine sur laquelle on souhaite se connecter) peut accepter plusieurs méthodes d'authentification. La plus connue est le mot de passe: vous entrez votre identifiant, puis votre mot de passe (c'est le client qui demande le mot de passe, pas le serveur), qui est ensuite chiffré, envoyé au serveur et comparé avec celui qui y est stocké. S'ils correspondent, alors vous êtes autorisés à vous connecter. Vous venez d'utiliser une authentification de type "*quelque chose que vous connaissez*".
+Le serveur SSH (la machine sur laquelle on souhaite se connecter) peut accepter plusieurs méthodes d'authentification. La plus connue est le mot de passe: vous entrez votre identifiant, puis votre mot de passe (c'est le client qui demande le mot de passe, pas le serveur), qui est ensuite chiffré, envoyé au serveur et comparé avec celui qui y est stocké. S'ils correspondent, alors vous êtes autorisé à vous connecter. Vous venez d'utiliser une authentification de type "*quelque chose que vous connaissez*".
 
 Une autre méthode consiste à utiliser des clés cryptographiques, en fait une **clé privée** et une **clé publique**. On abordera ici cette notion de manière très élémentaire, mais la clé privée ne doit jamais quitter votre ordinateur (ou votre smartphone), et ne doit jamais être divulguée. La clé publique, elle, peut être déployée partout ou vous souhaitez vous connecter, par exemple sur le compte de la machine sur laquelle vous souhaitez vous connecter. Quand vous vous connectez, vous précisez une clé privée que vous souhaitez utiliser. La machine distante va chiffrer un message avec votre clé publique et vous l'envoyer. Seule la clé privée associée à cette clé publique peut décoder ce message. Même la clé publique ne peut pas décoder le message qu'elle a encodé. Durant cette phase, appelée le challenge (il existe une étape où le client doit répondre à un challenge mathématique basé sur les clés), le serveur envoie au client sa clé publique, que le client utilisera pour envoyer sa réponse. Si tout correspond (le serveur a bien reçu ce qui était attendu lors du challenge), ils se partageront une clé de session utilisée cette fois pour un chiffrement symétrique.
 
@@ -269,7 +269,7 @@ seb@Y13:~$ ssh-keygen -t ed25519-sk -O resident -O verify-required -C "seb@toto.
 ### Test sous Windows
 En entreprise, notamment dans les très grosses, les postes de travail sont normalisés, et bien généralement, Windows reste la règle (rassurez-vous, quand c'est bien fait ça passe très bien). Nous allons donc tenter d'utiliser la clé, pourtant configurée sous Linux, sous Windows. FIDO2 est une norme ouverte, n'oubliez pas !  
 
-Comme expliqué ci-dessus, on énéère une clé SSH qui sera stockée sur la clé FIDO2, depuis Powershell (oui, j'aime Powershell):
+Comme expliqué ci-dessus, on génère une clé SSH qui sera stockée sur la clé FIDO2, depuis Powershell (oui, j'aime Powershell):
 
 ```
 PS C:\Users\sebas> ssh-keygen -t ed25519-sk -O resident -O verify-required -C "your_email@example.com"
