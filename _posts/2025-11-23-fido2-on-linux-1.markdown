@@ -8,7 +8,7 @@ categories:
 ---
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
-> [!NOTE]  
+> **NOTE**
 > Je pense poster cet article aussi sur LinuxFR. Je mettrai cette page à jour pour fournir le lien quand ce sera le cas.
 
 - [Les grands principes de l'authentification](#les-grands-principes-de-lauthentification)
@@ -165,6 +165,7 @@ Il faut installer quelques paquetages pour disposer des commandes et bibliothèq
 
 ```
 seb@Y13:~$ sudo apt install fido2-tools pamu2fcfg libpam-u2f
+
 ```
 
 Pour vérifier si la clé FIDO2 est bien reconnue:
@@ -175,6 +176,7 @@ seb@Y13:~$ fido2-token -L
 ```
 
 Vous devez associer un **code PIN** à votre clé. Ce code vous sera demandé lors de certaines actions d'administration, ou lorsque vous tenterez de vous connecter si vous le précisez. Si la clé n'a pas encore de code PIN:
+
 ```
 seb@Y13:~$ fido2-token -S /dev/hidraw2
 Enter new PIN for /dev/hidraw2:
@@ -182,6 +184,7 @@ Enter the same PIN again:
 ```
 
 Si vous souhaitez changer de code PIN:
+
 ```
 seb@Y13:~$ fido2-token -C /dev/hidraw2
 Enter current PIN for /dev/hidraw2:
@@ -199,9 +202,11 @@ chmod 600 ~/.config/fido2/u2f_keys
 ```
 
 On obtient par exemple:
+
 ```
-seb:6fIc9zAqwHYar+Um+SIb2uGL057+I47GBULIWcKMDlFfhnpsRJPW5sDvRNtYViDL1/kOcUyncTfeBkWXHwDoxpXf5KfJBsTYmlEYvmDsL8bQXZAG+bRKV387ZP7ho9n,RN1HoKBMTwF2XujeaELfemdRf10IMrVgkF245puFOtIn4WILX9tpuwiZOpjAdYTi8aILosAEUa60vlUABymHRw==,es256,+presence+pin
+seb:6fIc9zAq...BymHRw==,es256,+presence+pin
 ```
+
 Petite explication rapide sur des deux dernières valeurs
 * **presence**: affiche le message *please touch the device*.
 * **pin**: demande par défaut le code PIN lors d'une authentification
@@ -209,7 +214,7 @@ Petite explication rapide sur des deux dernières valeurs
 Si on ne veut pas le code PIN, alors on retire +pin, ça demandera uniquement de toucher le bouton de la clé.
 
 ## Premier test avec sudo
-> [!CAUTION]  
+> **CAUTION**
 > Toujours ouvrir une ou plusieurs sessions en root avant de modifier les fichiers PAM, et les sauvegarder avant modification. Ça pourrait être l'unique moyen de vous en sortir en cas d'erreur.
 
 On va maintenant tester avec **sudo**. Pour ce premier test, on va rendre optionnel l'utilisation de la clé. Si elle est présente, elle sera demandée, mais même en cas d'absence ou d'erreur, le mot de passe sera demandé. Il nous faut modifier la configuration **PAM** *Pluggable Authentication Module*, qui gère tous les mécanismes d'authentification sous Linux.
@@ -222,11 +227,14 @@ L'ordre des lignes est important. Notamment pour les lignes **auth** liées à l
 auth    sufficient   pam_u2f.so nouserok authfile=.config/fido2/u2f_keys cue
 @include common-auth
 ```
+
 Pour rendre obligatoire l'utilisation de la clé, remplacer *sufficient* par *
 **required**.
+
 ```
 auth    required    pam_u2f.so   cue authfile=.config/fido2/u2f_keys
 ```
+
 Quelques détails sur les options:
 * **cue**: affiche le message demandant de cliquer
 * **authfile**: chemin absolu, ou relatif au répertoire personnel
@@ -250,17 +258,19 @@ auth    sufficient   pam_u2f.so nouserok authfile=.config/fido2/u2f_keys cue
 Si vous modifiez la configuration PAM pour un serveur **sshd**, ça ne fonctionnera pas (comme s'il ne se passait rien). Et c'est parfaitement logique: on utilise un client SSH pour se connecteur sur un serveur, ce qui signifie que la clé, logique ou physique, doit être sur le client. Et quasiment toutes les versions des clients SSH supportent les clés FIDO2 depuis des années (merci Yubikey), quel que soit le système d'exploitation.
 
 L'astuce consiste à générer une clé SSH côté client qui sera stockée dans la clé physioque FIDO2, avec ou sans passphrase, avec ou sans validation par code PIN. C'est donc sur le client que la clé doit être connectée.
+
 ```
 seb@Y13:~$ ssh-keygen -t ed25519-sk -O resident -O verify-required -C "seb@toto.fr"
 ```
-* **Resident** : la clé est résidente, stockée sur la clé FIDO2. Le code PIN sera demandé pour l'y stocker. Cette clé pourra être utilisée partout où la clé FIDO2 est reconnue (Linux, Windows, MacOS, ...). Une référence sera aussi copiée sur disque (~/.ssh/) mais sera inutile sans la clé FIDO2.
 
+* **Resident** : la clé est résidente, stockée sur la clé FIDO2. Le code PIN sera demandé pour l'y stocker. Cette clé pourra être utilisée partout où la clé FIDO2 est reconnue (Linux, Windows, MacOS, ...). Une référence sera aussi copiée sur disque (~/.ssh/) mais sera inutile sans la clé FIDO2.
 * **verify-required** : le code PIN sera demandé.
 
 ### Test sous Windows
 En entreprise, notamment dans les très grosses, les postes de travail sont normalisés, et bien généralement, Windows reste la règle (rassurez-vous, quand c'est bien fait ça passe très bien). Nous allons donc tenter d'utiliser la clé, pourtant configurée sous Linux, sous Windows. FIDO2 est une norme ouverte, n'oubliez pas !  
 
 Comme expliqué ci-dessus, on énéère une clé SSH qui sera stockée sur la clé FIDO2, depuis Powershell (oui, j'aime Powershell):
+
 ```
 PS C:\Users\sebas> ssh-keygen -t ed25519-sk -O resident -O verify-required -C "your_email@example.com"
 Generating public/private ed25519-sk key pair.
@@ -291,6 +301,7 @@ The key's randomart image is:
 ```
 
 On obtient, comme sous Linux, deux fichiers dans le *.ssh*. 
+
 ```
 PS C:\Users\sebas\.ssh> dir
 
