@@ -519,7 +519,7 @@ Et on teste. Et ça fonctionne.
 
 ## Plan B
 
-Si ça vous semble compliqué, il y a un plan B ! Il n'a pas fonctionné chez moi sous Windows, mais il a fonctionné sur Android. Dans la doc, il existe une dernière chance : ajouter « **|verifypeer=false** » à la fin de l'URL. Et ça marche... Tout ça pour ça (mais c'était instructif). C'est l'équivalent d'un « no ssl check » qui ne va pas vérifier si le certificat, et donc le site, est de confiance. Mais le flux réseau reste chiffré.
+Si ça vous semble compliqué, il y a un plan B ! Il n'a pas fonctionné chez moi sous Windows, mais il a fonctionné sur Android. Dans la doc, il existe une dernière chance : ajouter « **verifypeer=false** » à la fin de l'URL. Et ça marche... Tout ça pour ça (mais c'était instructif). C'est l'équivalent d'un « no ssl check » qui ne va pas vérifier si le certificat, et donc le site, est de confiance. Mais le flux réseau reste chiffré.
 
 ![Kodi Webdav HTTPS avec verifypeer](/assets/img/2025-11-28/kodi-webdav-https-2.jpg)
 
