@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Monter un serveur Webdav pour partager ses fichiers multimedia"
+title:  "Monter un serveur Webdav pour partager ses fichiers multimédias"
 date:   2025-11-28 17:30:00 +0100
 description: Si les lecteurs multimédias comme Kodi ou VLS peuvent accéder à des partages SMB (Windows), certains boitiers souffrent de lenteur. Voici comment mettre en place un partage Webdav, utilisant le protocole HTTP(S). Et se tirer les cheveux (s'il en reste) avec Kodi.
 categories: 
