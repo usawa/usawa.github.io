@@ -8,6 +8,15 @@ categories:
 ---
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
+- [Se préparer](#se-préparer)
+- [Trace GPS et étapes](#trace-gps-et-étapes)
+- [De Deuil-La-Barre à la marre aux Champeaux](#de-deuil-la-barre-à-la-marre-aux-champeaux)
+- [La forêt](#la-forêt)
+- [Des vergers du Mont de Veine aux côteaux de Nézant](#des-vergers-du-mont-de-veine-aux-côteaux-de-nézant)
+- [Des côteaux de Nézant au refuge de Groslay](#des-côteaux-de-nézant-au-refuge-de-groslay)
+- [De Groslay aux sentiers de la côte de Deuil](#de-groslay-aux-sentiers-de-la-côte-de-deuil)
+
+
 # Se préparer
 
 C'est une boucle de 10.5 kilomètres, essentiellement nature et forêt sauf dans sa partie initiale, partant et revenant au centre de Deuil-La-Barre. Il passe par Deuil-la-Barre, Montmorency, Saint-Brice, Piscop et Groslay. Il y a du dénivelé, avec quelques passages un peu difficiles à plus de 20% en montée, mais on peut le faire tranquillement sans se presser. Mes conseils:
@@ -25,6 +34,8 @@ J'ai effectué ce parcours en 1h50, soit 5.8 km/h, en m'arrêtant 5 minutes pour
 # Trace GPS et étapes
 
 Je partage ici le [fichier GPX](/assets/divers/marche.gpx) du parcours.
+
+Les cartes proviennent toutes de Google Maps.
 
 Voici la carte générale du parcours.
 
