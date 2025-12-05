@@ -36,9 +36,9 @@ C'est une boucle de 10.5 ou 11.5 kilomètres selon votre choix, essentiellement 
 * Un smartphone, si on se perd.
 * Une lampe de poche, le soir.
 
-J'ai effectué le parcours "court" en 1h50, soit 5.8 km/h, en m'arrêtant 5 minutes pour une « *pause technique* ». Un bon marcheur le fera en moins de deux heures, un promeneur en 2h15 voire 2h30. Ce n'est pas une course ! Profitez des paysages, prenez le temps de regarder les animaux (écureuils, sangliers, chevreuil, renards, lapins, oiseaux, et... vaches ) !
+J'ai effectué le parcours « rapide » en 1h50, soit 5.8 km/h, en m'arrêtant 5 minutes pour une « *pause technique* ». Un bon marcheur le fera en moins de deux heures, un promeneur en 2h15 voire 2h30. Ce n'est pas une course ! Profitez des paysages, prenez le temps de regarder les animaux (écureuils, sangliers, chevreuil, renards, lapins, oiseaux, et... vaches ) !
 
-Le parcours "long" rajoute un kilomètre, effectué en un peu plus de 2h pour ma part.
+Le parcours « alternatif agréable » rajoute un kilomètre, pour un total effectué en 2h05 pour ma part.
 
 # Trace GPS et étapes
 
