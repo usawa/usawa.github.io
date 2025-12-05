@@ -22,7 +22,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 # Remerciements
 
-Je remercie ici **Hervé Beaumanoir**, secrétaire de l'association des [Sentiers de la Côte de Deuil](https://sentiers.site/), qui après avoir visité la première version de cette page, m'a proposé un trajet alternatif vers l'entrée de la forêt. Vous aurez donc le choix 
+Je remercie ici **Hervé Beaumanoir**, secrétaire de l'association des [Sentiers de la Côte de Deuil](https://sentiers.site/), qui après avoir visité la première version de cette page, m'a proposé un trajet alternatif vers l'entrée de la forêt. Vous aurez donc le choix entre deux trajets pour rejoindre la forêt de Montmorency.
 
 # Se préparer
 
