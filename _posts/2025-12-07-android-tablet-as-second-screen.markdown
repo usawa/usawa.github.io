@@ -2,16 +2,16 @@
 layout: default
 title:  "Utilisez une tablette ou tout autre ordinateur comme second écran"
 date:   2025-12-07 12:30:00 +0100
-description: Vous avez une tablette Android ou iOS, un ordinateur sous Linix, Windows, MacOS ? Même un vieux modèle ? Ne jetez pas ! Pourquoi ne pas les utiliser comme second écran ?
+description: Vous avez une tablette Android ou iOS, un ordinateur sous Linux, Windows, MacOS ? Même un vieux modèle ? Ne jetez pas ! Pourquoi ne pas les utiliser comme second écran ?
 categories: 
 - ecran
 ---
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 - [Besoin d'un second écran ?](#besoin-dun-second-écran-)
-- [Emuler un écran](#emuler-un-écran)
+- [Émuler un écran](#émuler-un-écran)
   - [Pilote dédié à l'application](#pilote-dédié-à-lapplication)
-  - [Emulateur d'affichage virtuel](#emulateur-daffichage-virtuel)
+  - [Émulateur d'affichage virtuel](#émulateur-daffichage-virtuel)
   - [Pilote d'affichage virtuel Windows](#pilote-daffichage-virtuel-windows)
   - [Affichage virtuel sous Linux](#affichage-virtuel-sous-linux)
 - [Les solutions spécifiques à Windows](#les-solutions-spécifiques-à-windows)
@@ -37,7 +37,7 @@ Les possibilités ne s'arrêtent pas à la duplication ou l'extension de l'affic
 
 Pour du gaming, où on recherchera le moins de latence possible avec la gestion des manettes ce ne sera pas la solution. Je vous conseille cet excellent journal de Bubar sur [LinuxFR](https://linuxfr.org/users/bubar/journaux/cloud-gaming-at-home-2-le-retour) qui explique comment déporter son jeu sur une tablette ou autre. On doit pouvoir faire pareil pour de la bureautique mais ça doit être « overkill ».
 
-# Emuler un écran
+# Émuler un écran
 
 Pour étendre ou dupliquer l'affichage sur un second écran, il faut que le système détecte un second écran, qu'il soit réel (physique) ou virtuel. Il existe plusieurs méthodes que je vous expose ici.
 
@@ -45,7 +45,7 @@ Pour étendre ou dupliquer l'affichage sur un second écran, il faut que le syst
 
 Sous Windows, les logiciels **spacedesk** ou **superdisplay** installent un pilote, utilisable uniquement par eux, pour étendre l'affichage. Rien à ajouter ici.
 
-## Emulateur d'affichage virtuel
+## Émulateur d'affichage virtuel
 
 Pour faire croire à l'ordinateur que vous avez un autre écran, le plus simple est un petit adaptateur matériel qui émule un écran externe. J'ai testé avec deux adaptateurs, ou dongles, en USB-C et HDMI. Une fois branchés, le système détecte un nouvel écran visible dans les paramètres d'affichage.
 
