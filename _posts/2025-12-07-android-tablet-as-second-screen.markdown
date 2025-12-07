@@ -8,6 +8,8 @@ categories:
 ---
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
+Publié aussi sur [LinuxFR](https://linuxfr.org/users/usawa/journaux/utilisez-une-tablette-ou-tout-autre-ordinateur-comme-second-ecran)
+
 - [Besoin d'un second écran ?](#besoin-dun-second-écran-)
 - [Émuler un écran](#émuler-un-écran)
   - [Pilote dédié à l'application](#pilote-dédié-à-lapplication)
