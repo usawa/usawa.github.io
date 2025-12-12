@@ -2,7 +2,7 @@
 layout: default
 title:  "Retour sur les laptops Unowhy Y13 fournis aux lycéens d'Île-de-France par la région entre 2020 et 2022"
 date:   2025-12-12 18:30:00 +0100
-description: En septembre 2021, mon fils a reçu un PC portable par la région Île-de-France à son entrée en seconde. Que peut-on faire avec aujourd’hui avec le Unowhy Y13 ? Plein de choses ! Mais pourquoi pas avec les choix de l'époque ? Retour après cinq ans d’expérience, sur un gâchis.
+description: En septembre 2021, mon fils a reçu un PC portable par la région Île-de-France à son entrée en seconde. Que peut-on faire avec aujourd’hui avec le Unowhy Y13 ? Plein de choses ! Mais pas avec les choix de l'époque. Retour après cinq ans d’expérience, sur un gâchis.
 categories: 
 - unowhy
 ---
