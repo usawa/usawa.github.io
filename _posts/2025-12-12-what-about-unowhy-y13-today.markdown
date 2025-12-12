@@ -1,12 +1,14 @@
 ---
 layout: default
-title:  "Retour sur les laptops Unowhy Y13 fournis aux lycéens d'Île-de-France par la région entre 2020 et 2022"
+title:  "Retour sur les laptops Unowhy Y13 fournis aux lycéens d'Île-de-France entre 2020 et 2022"
 date:   2025-12-12 18:30:00 +0100
 description: En septembre 2021, mon fils a reçu un PC portable par la région Île-de-France à son entrée en seconde. Que peut-on faire avec aujourd’hui avec le Unowhy Y13 ? Plein de choses ! Mais pas avec les choix de l'époque, désastreux. Retour après cinq ans d’expérience, sur un gâchis.
 categories: 
 - unowhy
 ---
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
+Aussi sur [LinuxFR](https://linuxfr.org/users/usawa/journaux/retour-sur-les-laptops-unowhy-y13-2020-2022-fournis-aux-lyceens-d-ile-de-france)
 
 - [Le Unowhy Y13](#le-unowhy-y13)
   - [Le matériel](#le-matériel)
@@ -33,6 +35,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 ## Le matériel
 
 La région Île-de-France a choisi sa machine selon un cahier des charges dont le critère principal est le prix : la machine devait coûter maximum 400 euros. Elle a choisi le [Unowhy](https://www.unowhy.com/) Y13. Mon fils a reçu le modèle 2021 :
+
 * Intel Celeron N4120, 4 coeurs 1.1 GHz (burst 2.6 GHz)
 * 4 Go de RAM non extensible
 * Ecran mate 13 pouces Full HD
