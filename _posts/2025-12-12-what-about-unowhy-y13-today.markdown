@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Retour sur un gâchis : les laptops Unowhy Y13 fournis aux lycéens par la région entre 2020 et 2022"
+title:  "Retour sur les laptops Unowhy Y13 fournis aux lycéens d'Île-de-France par la région entre 2020 et 2022"
 date:   2025-12-12 18:30:00 +0100
 description: En septembre 2021, mon fils a reçu un PC portable par la région Île-de-France à son entrée en seconde. L’intégration du système d’exploitation et des logiciel était si terrible qu’il n’a dû l’utiliser qu’une dizaine de fois. Retour après cinq ans d’expérience, sur un gâchis. Que peut-on faire avec aujourd’hui avec le Unowhy Y13 ? Plein de choses !
 categories: 
@@ -66,7 +66,7 @@ Une fois que tout est démarré, ma foi, ça reste potable. Windows 10 est fait 
 
 ## Rapidement inutilisable
 
-Très vite, les problèmes apparaissent. L’élève n’a aucun droit d’administration sur la machine. Sauf logiciels pouvant s’installer dans son profil, il ne peut pas passer outre le catalogue d’applications. C’est une machine captive. Ca peut se comprendre, j'en reparlerai plus loin.
+Très vite, les problèmes apparaissent. L’élève n’a aucun droit d’administration sur la machine. Sauf logiciels pouvant s’installer dans son profil, il ne peut pas passer outre le catalogue d’applications. C’est une machine captive. Ça peut se comprendre, j'en reparlerai plus loin.
 
 Le BIOS/UEFI est verrouillé par un mot de passe, non fourni. On ne peut donc pas lancer d’OS alternatif ou booter sur une clé USB.
 
@@ -144,7 +144,7 @@ Un mot rapide sur la capacité de cette machine à être briquée (c’est à di
 
 Par exemple, certains ont pensé que c’était une bonne idée d’ajouter le disque SSD sans avoir accès au setup de la machine, ou même en oubliant de l’éteindre. Mais parfois la machine ne se réveillait plus. Terminé, HS.
 
-Un moyen radical de briquer le laptop est, une fois le BIOS accessible, d’aller régler le type d’OS sur Linux. Ca m’a semblé une bonne idée, vu que j’installais un Linux dessus. **Erreur monumentale !** Machine briquée, passage au flash via le programmateur d’EEPROM (unique raison de mon achat), qui a sauvé cette brave machine.
+Un moyen radical de briquer le laptop est, une fois le BIOS accessible, d’aller régler le type d’OS sur Linux. Ça m’a semblé une bonne idée, vu que j’installais un Linux dessus. **Erreur monumentale !** Machine briquée, passage au flash via le programmateur d’EEPROM (unique raison de mon achat), qui a sauvé cette brave machine.
 
 ## Mot de passe administrateur Windows
 
