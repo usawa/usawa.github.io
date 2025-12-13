@@ -57,13 +57,13 @@ Une dernière note sur le clavier : il n’a pas de rétro-éclairage, dommage.
 
 ## Système d’exploitation et logiciels
 
-Là, ça fait mal. Ceux qui me connaissent savent que je ne suis pas sectaire, et je n'ai rien contre l'OS de Microsoft.
+Là, ça fait mal. Ceux qui me connaissent savent que je ne suis pas sectaire (on m'a dit que c'était disciminant de parler de secte pour la communauté libre / linux, mais je maintiens ici ce mot), et je n'ai rien contre l'OS de Microsoft.
 
 La machine est livrée avec Windows 10 Edition Pro Education (Windows 11 arrive sur les modèles 2023) et plusieurs logiciels pré-installés : la suite Office, un catalogue d’applications, etc. On a accès aux manuels en ligne, à des environnements et bibliothèques de développement (Python par exemple), et tout un tas d’applications pour les différentes matières. Je n’ai rien à redire sur ça.
 
 Vous voyez le problème petit stockage + Windows + agents divers ? **Même pas démarré, l’ensemble occupe déjà 30 Go !**
 
-La machine est liée à un domaine Microsoft, Azure AD / Entra ID (son nouveau nom). A l’allumage, il faut se connecter à un réseau Wifi et un réseau Internet pour la suite. C’est déjà un souci pour pas mal d’élèves (le COVID a montré l’énorme fracture numérique chez les élèves, j'y reviendrai). A la première connexion, l’utilisateur s’enregistre avec les identifiants fournis.
+La machine est liée à un domaine Microsoft, Azure AD / Entra ID (son nouveau nom). A l’allumage, il faut se connecter à un réseau Wifi et un réseau Internet pour la suite. C’est déjà un souci pour pas mal d’élèves (le COVID a montré l’énorme fracture numérique chez les élèves, j'y reviendrai). À la première connexion, l’utilisateur s’enregistre avec les identifiants fournis.
 
 Une fois que tout est démarré, ma foi, ça reste potable. Windows 10 est fait pour tourner sur des machines moins performantes, et les surcouches (des agents sont installés) ne ralentissent pas trop l’ensemble. Mais la suite est moins glorieuse.
 
@@ -79,7 +79,7 @@ Lors de la présentation du Y13, le patron de Unowhy avait dit :  *« Sur les
 
 Comme quoi, quand on y connaît rien, même quand on est patron de la boite qui fournit la machine, parfois on ferait mieux de se taire. Sur la carte microSD, bon, pourquoi pas, pour y mettre des documents (et pourquoi pas une clé USB). Mais ça coince ailleurs.
 
-Les 30 Go effectifs de libre sont vites remplis par les manuels, applications, et mises à jour. Ainsi, il est arrivé qu’il soit impossible d’installer un nouveau logiciel demandé par le professeur : même sans installation par les utilisateurs, **l’espace libre fond tout seul** : tout simplement par les mises à jour de Windows. Même en désinstallant des applications, il reste des artefacts (notamment des fichiers temporaires), que les droits de l’utilisateur ne permettent pas de purger. Aucune procédure n’a été prévue pour nettoyer tout ça. 
+Les 30 Go effectivement libres sont vites remplis par les manuels, applications, et mises à jour. Ainsi, il est arrivé qu’il soit impossible d’installer un nouveau logiciel demandé par le professeur : même sans installation par les utilisateurs, **l’espace libre fond tout seul** : tout simplement par les mises à jour de Windows. Même en désinstallant des applications, il reste des artefacts (notamment des fichiers temporaires), que les droits de l’utilisateur ne permettent pas de purger. Aucune procédure n’a été prévue pour nettoyer tout ça. 
 
 **Après quelques mois, l’espace est rempli et il ne reste même plus de place ni pour travailler, ni pour mettre à jour Windows ou les agents. Le système devient quasiment inutilisable, et sans correctifs de sécurité.**
 
@@ -89,7 +89,7 @@ Contribuables, c’est vous qui avez payé ! 180 millions d’euros sur deux an
 
 ## La propriété
 
-Le laptop appartient à la région, et le lycéen est supposé la rendre s’il ne poursuit pas ses études au moins un an après le bac. Ce qui explique l'absence des droits d'administration, du bios verrouillé, de la machine captive. Il devient donc la propriété de l’ancien élève. Unowhy télédistribue alors deux payloads. L’un donne les droits administrateurs, et le second le moyen de déverrouiller le BIOS. Sauf que Unowhy a arrêté l’envoi des fichiers pour déverrouiller le BIOS, voire l’a même retiré des machines où il était déjà distribué… 
+Le laptop appartient à la région, et le lycéen est supposé la rendre s’il ne poursuit pas ses études au moins un an après le bac. Ce qui explique l'absence des droits d'administration, du bios verrouillé, de la machine captive. Il devient donc la propriété de l’ancien élève au-delà. Unowhy télédistribue alors deux payloads. L’un donne les droits administrateurs, et le second le moyen de déverrouiller le BIOS. Sauf que Unowhy a arrêté l’envoi des fichiers pour déverrouiller le BIOS, voire l’a même retiré des machines où il était déjà distribué… 
 
 # Ce qu’il aurait été possible de faire
 
@@ -106,6 +106,7 @@ Peut-être aussi aurait-on pu fournir une formation aux élèves et aux étudian
 ## De meilleurs choix, un meilleur système d’exploitation ?
 
 Restons plutôt du côté technique, notamment sur les choix de système d’exploitation.
+
 Livrer les machines avec plus d’espace disque ? Réponse facile ! Oui, mais ce n’était pas obligatoire.
 
 **Remplacer Windows par Linux, oui !** Il n’y avait aucune raison technique, logicielle ou humaine de ne pas le faire. Le matériel est compatible, l’offre logicielle  était là. Côté « captif », l’utilisation de Azure AD était (est toujours) parfaitement possible (sssd-ad), l’application de règles de sécurité aussi (GPO via sssd-ad et samba, utilisation de règles distribuées pour Polkit, etc.), tout comme les mises à jour. Tout aurait très bien fonctionné avec Ubuntu, que ce soit avec Gnome ou KDE.
@@ -122,7 +123,7 @@ Je n’ai pas attendu la fin des trois ans pour débrider le Y13 de mon fils. Je
 
 ## Mot de passe du BIOS
 
-Le graal n’est pas forcément d’obtenir le mot de passe de l’administrateur, mais de celui du BIOS afin de démarrer sur autre chose, ce qui est la base de tout. Les mots de passe du BIOS des premiers modèles ont rapidement fuité sur les forums et divers sites dont le fabuleux [sty1001.com](https://blog.sty1001.com/). 
+Le Graal n’est pas forcément d’obtenir le mot de passe de l’administrateur, mais de celui du BIOS afin de démarrer sur autre chose, ce qui est la base de tout. Les mots de passe du BIOS des premiers modèles ont rapidement fuité sur les forums et divers sites dont le fabuleux [sty1001.com](https://blog.sty1001.com/). 
 
 Pour les modèles suivants, ça a été bien plus compliqué.
 
@@ -195,13 +196,13 @@ Si le problème du stockage ne se pose pas pour les modèles de 2023 qui ont 8 G
 
 ![Un SSD SATA au format 2280](/assets/img/2025-12-12/ssd_sata.jpg)
 
-Le coût du stockage a explosé en cette fin 2025 (merci l’IA) mais on trouve encore des modèles 256 Go à 25 euros, neuf (Verbatim) qui suffisent largement. J’ai pour ma part opté pour un modèle 512 Go, bien plus que suffisant pour l’usage auquel je dédie mon Unowhy (enfin, celui de mon fils…).
+Le coût du stockage a explosé en cette fin 2025 (merci l’IA) mais on trouve encore des modèles 256 Go à 25 euros, neufs (Verbatim) qui suffisent largement. J’ai pour ma part opté pour un modèle 512 Go, bien plus que suffisant pour l’usage auquel je dédie mon Unowhy (enfin, celui de mon fils…).
 
-S’il s’agit d’y mettre un Linux, alors les 64 Go peuvent suffire. Sur Linux Mint, ce que j'ai installé , pensez à désactiver Timeshift. En Privilégiez quand c’est possible les packages natifs plutôt que du Flatpak, Snap ou AppImage.
+S’il s’agit d’y mettre un Linux, alors les 64 Go peuvent suffire. Sur Linux Mint, ce que j'ai installé , pensez à désactiver Timeshift. Privilégiez quand c’est possible les packages natifs plutôt que du Flatpak, Snap ou AppImage.
 
 ## Ajouter de la mémoire
 
-A moins de jouer du fer à souder et d’avoir les compétences, **on ne peut pas rajouter de RAM sur les modèles de première génération**. Est-ce un souci pour l’usage prévu pour le Unowhy ? Non. Les 4 Go suffisent tant pour sous Windows que sous Linux. Sous Linux, c’est même l’abondance !
+À moins de jouer du fer à souder et d’avoir les compétences, **on ne peut pas rajouter de RAM sur les modèles de première génération**. Est-ce un souci pour l’usage prévu pour le Unowhy ? Non. Les 4 Go suffisent tant pour sous Windows que sous Linux. Sous Linux, c’est même l’abondance !
 
 ## Installer Windows 11
 
@@ -222,7 +223,7 @@ J’ai pu tester différentes distributions depuis des années : Fedora, Ubuntu
 
 # Conclusion
 
-La livraison d’une machine aux lycéens avec si peu de stockage qu'elle en devient inutilisable en quelques mois juste en suivant les mises à jour  est clairement scandaleuse. Le lycée, c'est trois ans. Qu'espéraient les gens ayant fait ces choix ? Quel est l’andouille qui a pensé que 64 Go de stockage pouvait suffire quand le système prend déjà 30 Go d’office ? Bill Gates ? (vous avez la ref?) D’autant plus qu’au même moment, d’autres régions fournissaient des machines bien plus performantes, notamment côté stockage et ram ! De vrais modèles HP par exemple. Incroyable.
+La livraison d’une machine aux lycéens avec si peu de stockage qu'elle en devient inutilisable en quelques mois juste en suivant les mises à jour est clairement scandaleuse. Le lycée, c'est trois ans. Qu'espéraient les gens ayant fait ces choix ? Quel est l’andouille qui a pensé que 64 Go de stockage pouvait suffire quand le système prend déjà 30 Go d’office ? Bill Gates ? (vous avez la ref?) D’autant plus qu’au même moment, d’autres régions fournissaient des machines bien plus performantes, notamment côté stockage et ram ! De vrais modèles HP par exemple. Incroyable.
 
 Le bridage, qui reste compréhensible dans certaines limites pour une machine appartenant à la région et pour une utilisation donnée, rend certaines tâches élémentaires impossibles, y compris le nettoyage nécessaire aux mises à jour, qui deviennent impossibles. On peut supposer que nombre de personnes, une fois le lycée terminé, n’ont même pas cherché à débrider leur Y13, même lorsque ça leur a été proposé.
 
