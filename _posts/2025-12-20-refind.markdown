@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "ReFind, un bootloader graphique (et tactile)"
+title:  "rEFInd, un bootloader graphique (et tactile)"
 date:   2025-12-20 12:30:00 +0100
 description: "L'achat d'un Dell 5290 2-in-1, qui s'utilise aussi sans clavier, m'a posé une colle: impossible de naviguer dans Grub avec l'écran tactile. Heureusement rEFInd est là."
 categories: 
