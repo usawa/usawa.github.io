@@ -12,7 +12,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 On va faire court pour une fois.
 
-Suite à mon article sur l'utilisation d'une tablette où tout autre machine comme second écran, plutôt que d'acheter un petit moniteur externe j'ai investi 85 euros dans un Dell 5290 2-in-1 d'occasion. Ce vrai PC (Intel Core i5 8ème génération, 8 Go de RAM, écran de 12.3 pouces 1920x1280) est un Tablet PC : le clavier est amovible et le PC devient une vraie tablette. 
+Suite à mon article sur l'utilisation d'une tablette ou toute autre machine comme second écran, plutôt que d'acheter un petit moniteur externe j'ai investi 85 euros dans un Dell 5290 2-in-1 d'occasion. Ce vrai PC (Intel Core i5 8ème génération, 8 Go de RAM, écran de 12.3 pouces 1920x1280) est un Tablet PC : le clavier est amovible et le PC devient une vraie tablette. 
 
 ![Tablet PC](/assets/img/2025-12-20/tabletpc.jpg)
 
