@@ -1,0 +1,69 @@
+---
+layout: default
+title:  "ReFind, un bootloader graphique"
+date:   2025-12-20 12:30:00 +0100
+description: "L'achat d'un Dell 5290 2-in-1, qui s'utilise aussi sans clavier, m'a posé une colle: impossible de naviguer dans Grub avec l'écran tactile. Heureusement rEFInd est là."
+categories: 
+- bootloader
+---
+Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
+# Le souci
+
+Suite à mon article sur l'utilisation d'une tablette où tout autre machine comme second écran, plutôt que d'acheter un petit moniteur externe j'ai investi 85 euros dans un Dell 5290 2-in-1 d'occasion. Ce vrai PC (Intel Core i5 8èeme génération, 8 Go de RAM, écran de 12.3 pouces 1920x1280) et un Tablet PC : le clavier est amovible et le PC devient une vraie tablette. 
+
+![Tablet PC](/assets/img/2025-12-20/tabletpc.jpg)
+
+J'y ai mis un double boot Windows / Linux  (Fedora). Tout est ok sous Linux sauf la webcam (je n'ai pas encore eu le temps de chercher). Sauf que sans clavier, je ne peux pas choisir mon OS avec le bootloader GRUB : rien ne fonctionne.
+
+En cherchant une solution, j'ai trouvé [rEFInd](https://www.rodsbooks.com/refind/). Non seulement graphique, il permet d'utiliser l'écran tactile. J'ai testé, et ça fonctionne.
+
+# Installation 
+
+Je n'ai pas activé le Secure Boot sur ma machine. Dans le cas du Secure boot la commande d'installation doit être modifiée.
+
+> **Note** : Avec Secure Boot, ajoutez --localkeys -- /boot/efi/EFI/refind/shimx64.efi
+
+```
+$ sudo dnf install rEFInd rEFIind-tools
+
+...
+
+$ sudo refind-install
+Installing rEFInd on Linux....
+ESP was found at /boot/efi using vfat
+Installing driver for ext4 (ext4_x64.efi)
+Copied rEFInd binary files
+
+Copying sample configuration file as refind.conf; edit this file to configure
+rEFInd.
+
+Installation has completed successfully.
+```
+
+Maintenant, éditez le fichier **/boot/efi/EFI/refind/refind.conf**, et décommentez la ligne **enable_touch**, ligne 201 chez moi.
+
+Un petit reboot, et hop !
+
+# Un thème sombre
+
+J'ai préféré modifier le thème par défaut par un thème léger, sombre. J'ai trouvé le thème [darkmini](https://github.com/LightAir/darkmini).
+
+L'installation est simple, décrite dans le README.md du thème. J'ai uniquement commenté la ligne **banner** du thème pour laisser le fond noir (image background.png).
+
+Le résultat est simple et efficace. Désolé pour la qualité, mais vous voyez le résultat.
+
+![rEFInd](/assets/img/2025-12-20/refind.jpg)
+
+# Désinstallation
+
+Facile, supprimez le dossier de l'EFI et désinstallez les packages :
+
+```bash
+sudo rm -r /boot/efi/EFI/refind
+dnf remove rEFInd rEFIind-tools
+```
+
+# Sauvé
+
+Sympa, non ?
