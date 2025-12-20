@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "ReFind, un bootloader graphique"
+title:  "ReFind, un bootloader graphique (et tactile)"
 date:   2025-12-20 12:30:00 +0100
 description: "L'achat d'un Dell 5290 2-in-1, qui s'utilise aussi sans clavier, m'a posé une colle: impossible de naviguer dans Grub avec l'écran tactile. Heureusement rEFInd est là."
 categories: 
@@ -10,7 +10,9 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 # Le souci
 
-Suite à mon article sur l'utilisation d'une tablette où tout autre machine comme second écran, plutôt que d'acheter un petit moniteur externe j'ai investi 85 euros dans un Dell 5290 2-in-1 d'occasion. Ce vrai PC (Intel Core i5 8èeme génération, 8 Go de RAM, écran de 12.3 pouces 1920x1280) et un Tablet PC : le clavier est amovible et le PC devient une vraie tablette. 
+On va faire court pour une fois.
+
+Suite à mon article sur l'utilisation d'une tablette où tout autre machine comme second écran, plutôt que d'acheter un petit moniteur externe j'ai investi 85 euros dans un Dell 5290 2-in-1 d'occasion. Ce vrai PC (Intel Core i5 8ème génération, 8 Go de RAM, écran de 12.3 pouces 1920x1280) est un Tablet PC : le clavier est amovible et le PC devient une vraie tablette. 
 
 ![Tablet PC](/assets/img/2025-12-20/tabletpc.jpg)
 
