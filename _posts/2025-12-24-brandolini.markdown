@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Loi de Brandolini, infox et victimisation"
+title:  "Loi de Brandolini, infox et victimisation : un exemple local"
 date:   2025-12-24 07:30:00 +0100
 description: "Les fake news sont un fléau, et s'infiltrent même au niveau communal. Laissez-moi vous conter une drôle d'histoire."
 categories: 
