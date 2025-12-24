@@ -307,7 +307,7 @@ Sans parler du pouvoir de police du Maire, remis en cause, ainsi que des contrai
 
 Cette famille demande à être traitée comme n'importe quels citoyens, brandit et installe des affiches, banderoles et panneaux, demandant l'application de la Loi. Mais elle refuse elle-même de la suivre, et réclame de fait un traitement d'exception, des avantages, du fait de ses origines. Or, nous sommes tous égaux face à la Loi (on a même mis un ancien président en prison...), indépendamment de nos origines.
 
-Les journalistes ont été partiaux et à charge. Le travail d'investigation n'a pas été mené. De populaire, on passe au populisme. On juge la forme dans s'intéresser au fond. Et je me dis, qu'ayant été témoin d'une partie de l'affaire, je peux maintenant douter de l'honnêteté de tout article qui m'est présenté : en quelles proportions sont-ils vrais, honnêtes et exhaustifs ? Je ne peux plus avoir confiance dans ces médias qui ont déformé la vérité face à leurs lecteurs.
+Les journalistes ont été partiaux et à charge. Le travail d'investigation n'a pas été mené. De populaire, on passe au populisme. On juge la forme sans s'intéresser au fond. Et je me dis, qu'ayant été témoin d'une partie de l'affaire, je peux maintenant douter de l'honnêteté de tout article qui m'est présenté : en quelles proportions sont-ils vrais, honnêtes et exhaustifs ? Je ne peux plus avoir confiance dans ces médias qui ont déformé la vérité face à leurs lecteurs.
 
 Pourtant, j'ai confiance dans l'avenir. 
 
