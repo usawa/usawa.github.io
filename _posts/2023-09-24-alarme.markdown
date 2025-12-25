@@ -1,0 +1,222 @@
+---
+layout: default
+title:  "Avoir l'alarme à l'œil"
+date:   2023-06-24 01:00 +0100
+description: "Quand la découverte d'une faille de sécurité fout la frousse à Monsieur Petit. Histoire d'une découverte et de sa correction."
+categories: 
+- securité
+---
+
+Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
+Publié aussi sur LinuxFR.
+
+- [Ville dortoir, Covid et sécurité](#ville-dortoir-covid-et-sécurité)
+- [Se sentir plus en sécurité avec une alarme](#se-sentir-plus-en-sécurité-avec-une-alarme)
+- [La curiosité serait un vilain défaut ?](#la-curiosité-serait-un-vilain-défaut-)
+- [La découverte qui fait peur ...](#la-découverte-qui-fait-peur-)
+- [... Très peur ...](#-très-peur-)
+- [... Trop peur ! Allo le support ?](#-trop-peur--allo-le-support-)
+- [Prouver l'exploit de la faille](#prouver-lexploit-de-la-faille)
+- [Allo la Sécurité ?](#allo-la-sécurité-)
+- [J'y pense et puis j'oublie](#jy-pense-et-puis-joublie)
+
+Avant-propos: Les personnages et sociétés citées dans ce récit sont fictives. L'auteur ne connait pas Martin Petit, ni la société d'assurances La Forestière, et non plus la société de télésurveillance Alarm&moi. Mais ils se pourrait, dans une réalité alternative, ou pas, que les faits se soient réellement déroulés comme raconté ici...
+
+# Ville dortoir, Covid et sécurité #
+
+M. Martin Petit habite le centre-ville d’une ville moyenne de banlieue. C’est ce qu’on pourrait appeler une ville-dortoir. On y habite, il y a quelques commerces, des écoles, collèges et un lycée, des zones pavillonnaires, des maisons de ville, quelques ensembles de logements sociaux composés d’immeubles pas très jolis, le tout avec une population variée, des plus populaires jusqu’aux riches bourgeois, selon les quartiers. Le gros avantage de cette ville, c’est la présence de gares qui desservent la grand métropole proche, et des lignes de bus. Martin (appelons le par son prénom), habite ici depuis une vingtaine d’année. Il a vu cependant son quartier changer, loin de se gentrifier, il se paupérise lentement, progressivement, avec les problèmes qui vont avec. Une mairie dynamique, notamment son adjoint à la sécurité, travaille très honorablement, mais les moyens, comme c’est le cas de beaucoup de villes, sont réduits.
+
+Lors des confinements liés au covid, les gens étaient chez eux : les travailleurs qui le pouvaient télétravaillaient, ceux qui ne pouvaient pas tremblaient dans le train, le métro et leur lieu de travail avec leurs masques s’ils en trouvaient, les élèves et étudiants apprenaient en distanciel. Personne dans les rues, presque pas de voitures, pas d’avions. Jamais la ville n’a été aussi calme, jamais elle n’a été aussi sûre.
+
+Puis, le Covid semblant moins dangereux, par de meilleures prises en charge, et l’arrivée des premiers vaccins, les gens sont ressortis : travail, loisirs, écoles. Les maisons habitées en permanence, sont pour certaines redevenues vides en soirée. Un certain type de travailleurs clandestins de l’ombre, frustrés durant des mois de n’avoir pu vaquer à leurs tâches habituelles, en ont profité pour tenter de rattraper le temps perdu : les voleurs. 
+
+En l’espace de quelques semaines, certaines rues ont été ratissées par ces indésirables peu scrupuleux. En plein jour, quel que soit le jour, des portes étaient fracturées, des maisons et appartements se faisaient dépouiller. Ce fut le cas de la rue de Martin. C’est pourtant une rue assez passante, tout au moins en heure de pointe. C’est telle voisine qui s’est fait cambrioler deux fois en six mois, c’est tel autre voisin dont tous les bijoux ont été volés. Martin s’en veut d’ailleurs un peu, il avait bien entendu cet après-midi là comme un claquement dans la rue, mais il avait pensé à un caillou expédié par une roue de voiture alors que quelqu'un brisait le canon d'une serrure. Et après coup il se rappelle avoir vu des personnes inconnues se « reposer » à quelques endroits tranquilles de la rue. Martin est encore en télétravail, mais lui aussi va devoir revenir de temps en temps sur son lieu de travail, c’est déjà le cas de son épouse, et les enfants sont retournés à l’école. Martin est inquiet : la maison sera vide. Et s’il se faisait cambrioler, lui aussi ?
+
+# Se sentir plus en sécurité avec une alarme #
+
+Comme beaucoup tout le monde, Martin a vu les réclames publicitaires vantant les mérites de systèmes d’alarmes et de télésurveillance. Des connaissances et membres de sa famille sont déjà équipés de divers systèmes. Martin se renseigne. La télésurveillance, oui, c’est mieux. Après tout, si l’alarme se déclenche et que personne ne peut intervenir, ou l’entendre, certes c’est dissuasif, mais ça lui ferait une belle jambe… Martin contacte la société en charge de son contrat d’assurance habitation, et il est rassuré : **la Forestière**, appelons là ainsi, s’est associée avec plusieurs autres groupes pour proposer une solution d’alarme et de télésurveillance, et des avantages associés, comme le remboursement de la franchise en cas de vol si l’alarme était activée. Martin les contacte. Une semaine après, la société de télésurveillance **Alarm&moi** installe les divers boitiers (centrale, capteurs, clavier, sirène, etc.), moyennement un abonnement mensuel de cinquante euros. Le prix de la tranquillité, pense Martin. Les essais sont concluants, et les étiquettes collées sur la porte : c’est généralement dissuasif. Martin se sent rassuré.
+
+L’alarme est pilotée par une **centrale**, disposant de deux moyens de communication pour la télésurveillance : dans tous les cas c’est Internet, via une liaison entre la centrale et le switch d’un routeur ou d’une box reliée à **Internet**, ou un réseau mobile **GPRS** de type 2G. La communication avec le reste des éléments dans la maison se fait par ondes radio. On lui a expliqué que la centrale pouvait détecter les tentatives de brouillages et que l’alarme se déclencherait. En cas de perte d’Internet la liaison mobile prendrait le relais, en cas de panne de liaison mobile c’est Internet qui fonctionne. Il y a donc de la redondance. 
+
+Le temps passe. Quelques mois.
+
+# La curiosité serait un vilain défaut ? #
+
+Martin est curieux. Il se demande comment la centrale de l’alarme communique avec l’extérieur. Après tout, ça fonctionne, puisque lors des déclenchements intempestifs accidentels, il a bien été appelé quasiment immédiatement par un opérateur de Alarm&moi. C’est qu’il manque encore une information dans ce récit. Martin est informaticien, et mieux, c’est un vrai SysOps, passionné de Linux. Depuis quelques temps Martin travaille dans la cybersécurité, et sa formation l’a rendu quelque peu méfiant. On dit même que ce métier peut même rendre paranoïaque. Alors un jour, Martin prend ses outils, et se met à regarder ce qui se passe. 
+
+Martin dispose d’un ordinateur fonctionnant sur Linux. Certes, ce qu’il fait est aussi possible sous Windows et MacOS, mais bon, on ne travaille bien qu’avec les bons outils. La première chose qu’il fait, c’est de trouver l’adresse IP de la centrale. Son ordinateur est connecté au même routeur et il est probable que la centrale récupère son IP en DHCP. Il faut d’abord trouver son adresse. Il y a plusieurs moyens, le plus simple étant de se connecter sur le routeur et de lister les baux DHCP jusqu’à trouver le bon. Martin aime quand c’est plus compliqué : il se met à la place d’un éventuel hacker ou voleur qui ne pourrait pas se connecter au routeur. C’est aussi un bon moyen de s’entrainer avec les outils à disposition sur son système d’exploitation préféré. Si la centrale répond au ping, alors il va la trouver. Il utilise la commande **fping** qui va envoyer un paquet ICMP à toutes les adresses du sous-réseau fourni :
+
+```bash
+# fping -a -A -q -g -i 1 -r 0 10.0.0.0/24
+10.0.0.1
+10.0.0.2
+10.0.0.3
+10.0.0.5
+```
+
+Martin reconnait les 1, 3 et 5, ce sont celles de son routeur, de son PC et de sa machine virtuelle linux. Il reste la 10.0.0.2, celle-là il ne la connait pas. C’est sûrement la centrale de l’alarme. Il utilise une autre commande qui permet de faire à peu près la même chose mais en récupérant les adresses MAC, autrement dit l’adresse physique des adaptateurs Ethernet associés. L’avantage est que les trois premiers octets permettent de déterminer le constructeur. Il y a même un site où on peut [vérifier soi-même](https://mac-address.alldatafeeds.com/mac-address-lookup). Il met d’abord à jour la base des identifiants avec **get-oui**, puis lance la commande **arp-scan** :
+
+
+```bash
+$ sudo get-oui -u https://standards-oui.ieee.org/oui/oui.txt
+$ sudo cp ieee-oui.txt /usr/share/arp-scan/
+$ sudo  arp-scan --interface=eth0 10.0.0.0/24
+Interface: eth0, type: EN10MB, MAC: …, IPv4: 10.0.0.5
+Starting arp-scan 1.9.7 with 256 hosts (https://github.com/royhills/arp-scan)
+10.0.0.1        6c:cd:d6:xx:yy:zz       NETGEAR
+10.0.0.2        00:1d:94:xx:yy:zz       Climax Technology Co., Ltd
+10.0.0.3        d8:5e:d3:xx:yy:zz       GIGA-BYTE TECHNOLOGY CO.,LTD.`
+```
+
+Ça confirme que 10.0.0.2 est bien l’inconnue, Martin a un routeur Netgear, et une carte mère Gigabyte. Reste donc le Climax Technology. Il va maintenant tenter d’obtenir des détails sur ce qui se cache derrière cette adresse. Pour ça, il utilise un outil bien connu appelé **nmap**. C’est très puissant nmap, un véritable couteau suisse pour l’analyse des adresses, ports et tout ce qui se cache derrière. Martin décide de tester tous les ports de 1 à 65535, et il trouve des choses intéressantes, les ports 80 et 55023 sont ouverts :
+
+```bash
+$ sudo nmap -p 1-65535 10.0.0.2
+PORT      STATE    SERVICE
+80/tcp    open   http
+55023/tcp open   unknown
+```
+
+Un port qui finit par 23, c’est suspect, 23 c’est un port telnet. Martin va maintenant chercher ce qui se cache derrière ces ports, avec un navigateur web et toujours avec nmap. Le paramètre **sV** permet de tester un port ouvert pour tenter de déterminer le service qui s’y cache, et sa version. Le port 80 ne permet pas de déterminer le type de serveur. Il suffit de tenter de se connecter avec un navigateur. On arrive sur une page d’accueil reprenant le nom de la société de télésurveillance, un bouton de connexion, mais sans les identifiants. C'est une authentification HTTP de type **Basic Auth**, Martin est coincé.
+
+![Authentification Basic Auth](/assets/img/2023-06-24/r11d.png)
+
+Mais le port **55023** lui est bien plus intéressant :
+
+```bash
+$ sudo nmap -sV -p 55023 10.0.0.2
+55023/tcp open  telnet  BusyBox telnetd
+Service Info: Host: HPGW-NET6
+```
+
+Ainsi donc la centrale fonctionne avec **busybox**, un lot de commandes Unix de taille réduite qu’on installe généralement sur des systèmes embarqués. Souvent, il y a un Linux derrière. Mais ce qui surprend surtout Martin, c’est l’information sur le nom d’hôte. Ainsi donc, on a un nom de constructeur, Climax Technology, et un possible nom d'hôte qui ressemble à une référence de modèle. D’ailleurs, une tentative de connexion avec **telnet** retourne :
+
+```bash
+$ telnet 10.0.0.2 55023
+Trying 10.0.0.2...
+Connected to 10.0.0.2.
+Escape character is '^]'.
+
+HPGW-NET6 login:
+```
+
+Que ce soit les ports 80 ou 55023, ce sont des protocoles qui ne sont pas sécurisés. Toutes les communications transitent en clair, un simple **tcpdump** sur la console, ou **wireshark** sur une interface graphique, permet de récupérer le trafic en direct.  Mais pour attraper les connexions en clair, il faudrait que quelqu’un, un technicien, se connecte depuis le réseau privé de Martin. Hors, pas de technicien à l’horizon. Martin va faire ce que tout le monde ferait dans ce cas, il va chercher sur un moteur de recherche, ici Google. Un constructeur, un modèle, la bonne recherche et la surprise est de taille. La société **Climax Technology** existe, avec un [site web](https://www.climax.com.tw/) exhaustif, et il y trouve son modèle.  En cherchant sur d’autres sources il trouve aussi le mode d’emploi, avec les mots de passe par défaut. Et si les mots de passes étaient ceux par défaut ? Martin tente. Mais non, la centrale a été reconfigurée.
+
+# La découverte qui fait peur ... #
+
+Il continue à dérouler les résultats. Et là, il tombe sur un lien pointant sur une page au contenu plus qu’exhaustif, c’est la [caverne d’Ali Baba](https://wiki.elvis.science/index.php?title=Examination_of_LUPUS-Electronics_devices) ! Un revendeur appelé **Lupus propose la même alarme** et quelqu'un a tout décortiqué.
+
+Martin est épaté. Ce modèle conçu par Climax Tech est distribué et adapté par e nombreuses sociétés de télésurveillance et d’alarmes. Le lien parle de LUPUS, mais Alarm&moi utilise un même modèle au firmware adapté pour leurs besoin (probablement, d’ailleurs, juste un changement de logo). Toute la conception et le fonctionnement du système d’alarme sont décortiqués. De manière étonnante la page est assez élogieuse sur le produit, et les tests semblent le confirmer. En lisant plus bas, il trouve que la centrale fournit des informations sans même avoir à s’y connecter via une API REST et de nombreux endpoints. Il tente avec un simple **curl**.
+
+```bash
+$ curl http://10.0.0.2/action/welcomeGet
+{
+  "updates" : {
+    "version" : "HPGW-G6 <version firmware>",
+    "em_ver" : "<version firmware>",
+    …
+    "publicip" : "a.b.c.d",
+    "ip" : "10.0.0.2",
+    "mac" : "00:1D:94:xx:xx:xx"
+  }
+}
+```
+
+Donc toutes ces infos sont accessibles, comme les versions des firmwares. C’est embêtant, car la suite de la page explique clairement comment exploiter une faille découverte début 2019. Les firmwares étant téléchargeables et étant des images de système de fichier, il a été possible d’extraire diverses informations, notamment le service principal, et de trouver la méthode de génération du mot de passe root. Elle est prédictive, elle est basée sur l’adresse MAC. Martin se dit que ça a peut-être été réparé. Après tout, son alarme a été installée en 2021, deux ans après la découverte de la faille. Il essaie en modifiant le programme **Python** pour l’adapter en version 3. Puis il l’exécute avec l’adresse MAC de la centrale.
+
+```bash
+$ python.exe ./root.py
+<< mot de passe root en clair>>
+```
+
+Il n’y a plus qu’à essayer avec telnet :
+
+```bash
+$ telnet 10.0.0.2 55023
+Trying 10.0.0.2...
+Connected to 10.0.0.2.
+Escape character is '^]'.
+
+HPGW-NET6 login: root
+Password: <<mot de passe fourni ci-dessus>>
+Welcome to
+     ____   __ __                                       __
+    / ___\ / //_/                      __              / /
+   / /    / /__ _ __   __  __  __    _/ / ___   ___   / /_
+  / /    / // //    \ /  \ \ \/ /   /  _// _ \ / __\ / __ \
+ / /___ / // // / / // /  \ >  <    / / / ___// /__ / / / /
+ \____//_//_//_/_/_/ \__/\//_/\_\   \_/ \___/ \___//_/ /_/
+
+For further information check:
+http://www.climax.com.tw/
+
+
+[root@HPGW-NET6]#
+```
+
+
+# ... Très peur ... #
+
+D’après ce que Martin lit, tout ceci est censé être corrigé depuis mars 2019. Mais on est fin 2021 et ça fonctionne encore. Cette alarme ayant été adaptée pour Alarm&moi, le correctif n’a pas suivi et cette faille n’est pas corrigée. Martin est maintenant root, administrateur de son alarme. D’autres pourraient trouver ça normal, mais non. Il ne faudrait pas, surtout pas. Si Martin le peut, d’autres le peuvent ! Mais alors, il peut prendre la main sur le reste, non ? Voyons voir cette interface web. Le mot de passe est codé en Base64 avec table de correspondance. Le fichier de configuration est dans **config/config.json**, on peut le décoder :
+
+```bash
+[root@HPGW-NET6]# grep Web config/config.json
+…
+"Web_Admin_Name":"SAT",
+"Web_Admin_Passwd":"NGxxxxxxxxxxxxxxxx",
+…
+# echo "NGxxxxxxxxxxx" | base64 -d
+4xxxxxxxxxxxxxxx
+```
+
+# ... Trop peur ! Allo le support ? #
+
+La fameuse page décrivant la faille fournit la table de correspondance. Elle a été extraite, toujours, du firmware de la centrale. Un caractère en définit un autre. Martin décode avec un petit programme en **Python** et dispose maintenant d’une chaine de caractères qui serait le mot de passe administrateur de l’interface de configuration du système d’alarme. Mais peut-être que la table de correspondance a changé, non ? Alors il essaie.
+
+![La console web de l'alarme](/assets/img/2023-06-24/tg8n.png)
+
+Là, Martin commence à paniquer. Il repense à sa formation, son métier. Certains s’amuseraient à diffuser l’information, ou à la marchander, à l’ouvrir sur Twitter (« _Hey la société Alarm&moi, c’est quoi votre alarme en carton que j’ai hacké en script kiddy en trois minutes ?_ »). Mais pas Martin. Martin prend la décision la plus intelligente : il contacte par mail le support de Alarm&moi, leur demandant s'il pouvait être rappelé par un responsable de la sécurité : il a trouvé une faille publique non corrigée permettant d’accéder à l’alarme une fois entré dans un domicile. Il poste, un soir de semaine, et attend la réponse.
+
+# Prouver l'exploit de la faille #
+
+En attendant, Martin se demande comment un voleur pourrait exploiter la faille rapidement une fois entré dans la maison. Le voleur aurait 30 secondes pour déconnecter l’alarme avant qu’elle se déclenche. Il ne suffit pas de trouver la centrale : essayer de la détruire déclencherait un appel immédiat (ou alors d’un coup avec une très grosse masse). Il faudrait donc que le voleur :
+
+1. sache de quel modèle dispose l’habitant. C’est facile, c’est écrit sur l’étiquette collée sur la porte,
+2. trouve la box ou le routeur. C’est facile, c’est généralement à côté de la prise fibre ou téléphonique, du téléphone ou du téléviseur, bien visible.
+3. se connecte sur un port Ethernet libre, et joue l’ensemble de la séquence.
+
+La moitié du travail est fait. Il suffit de scripter l’ensemble (shell, python) et de trouver l’appel qui va bien : il suffit de regarder ce que fait le clic sur le bouton de l’interface web. Il écrit un script shell qui lance les diverses commandes, shell ou Python : trouver l’IP associée à une adresse MAC Climax, calculer le mot de passe root, se connecter et récupérer le fichier de configuration avec un netcat, recalculer le mot de passe admin du service Web, se connecter et déconnecter l’alarme via des méthodes HTTP GET et POST. Et ça fonctionne. Durée totale : **environ 15 secondes**. Pour un voleur, c’est jouable.
+
+# Allo la Sécurité ? #
+
+Le lendemain matin, Martin reçoit un appel du support de la société Alarm&moi. Ils sont sceptiques. Martin leur explique qu’il peut prendre la main sur l’alarme et l’éteindre, sans passer par le boitier à code ou NFC, ni par l’application mobile. La réaction est intelligente, le technicien dit qu’il informe ses supérieurs. L’après-midi, Martin est en ligne avec un responsable sécurité. Il explique à nouveau. Le responsable lui demande de partager la procédure, Martin lui envoie. Le lendemain, le responsable l’appelle. Oui, la faille est là, on ne devrait pas accéder à la console et récupérer les mots de passes d’administration. Ils vont travailler sur un correctif. En attendant, Alarm&moi a désactivé le port telnet. Il le remercie, et lui demande de ne pas ébruiter. Martin tiendra sa parole, mais il prend cependant une mesure additionnelle : il déplace la centrale à un autre endroit plus compliqué à trouver, derrière un autre routeur totalement invisible, sur un autre sous-réseau non routé depuis la box internet. Même si un voleur trouve la box, il ne trouvera pas l’adresse de la centrale d’alarme.
+
+# J'y pense et puis j'oublie #
+
+Martin repense à cette histoire régulièrement. Le port telnet est désactivé, donc le risque est faible. Mais si… Mais si la centrale reboote ? De temps en temps, il teste, le port reste désactivé. Le mot de passe administrateur de l’interface web a été changé aussi. Après quelques mois, il n’y pense plus. L’exploit serait bien plus compliqué.
+
+Deux ans plus tard, septembre 2023…
+
+Ça fait un an et demi que Martin n’a pas vérifié quoi que ce soit. Un beau soir, il ressaie. Un seul port reste ouvert, le 80. Bon, toujours pas de TLS, mais bon… Le port telnet est absent. Aucun autre port TCP n’est présent. Il tente les appels aux API ouvertes. Seule un répond encore, le firmware a été mis à jour :
+
+```bash
+$ curl http://10.0.0.2/action/welcomeGET
+{
+  "updates" : {
+…
+    "em_ver" : "<version firmware n+4>",
+    …
+  }
+}
+```
+
+Mais ce qui est étonnant, c’est que si Martin appelle le même endpoint après une tentative de connexion sur l’interface web, il obtient un résultat différent. Quelque chose a changé, mais ce n’est pas encore parfait :
+
+```
+Accès refusé: nom d'utilisateur.
+```
+
+Martin peut un peu mieux dormir, les principales failles ont été corrigées. Si le risque n’est pas nul et qu’on pourrait mieux faire (du HTTPS, un certificat, une authentification forte, etc.), il est devenu bien plus faible, pour lui et pour tous les clients de cette société de télésurveillance. Et tout ça, c’est un peu grâce à lui. Si Alarm&moi l’a remercié, il n’a pas même pas eu le droit à une réduction, ça aurait été sympa, mais bon, il n’a pas fait ça pour ça. Il n’a pas été cambriolé. Pendant ce temps-là, d’autres voisins ont malheureusement été victimes d’indélicats. Le dernier pas plus tard que la semaine dernière. Martin se dit qu’il devrait peut-être aller leur parler de tout ça, un jour…
+
+Ah, au fait, comment Alarm&moi peut contrôler à distance l’alarme ? Et bien déjà c’est possible via la liaison GPRS et Martin n’a pas les moyens techniques d’analyser ça. Mais les scans des ports UDP ont révélé quelques informations intéressantes, et le fichier de configuration parle aussi de uPnP. Un jour, peut-être, Martin fera quelques tests en direct, toujours avec l’outil magique nmap.
