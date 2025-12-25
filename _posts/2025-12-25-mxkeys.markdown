@@ -10,7 +10,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 # Les capteurs
 
-J'ai un clavier Logitech MX Keys S depuis presque cinq ans. Pour l'instant, il fonctionne très bien, et j'aime bien pouvoir l'associer à trois équipements différents. Mais il y a quelques mois le rétroéclairage a commencé à l'allumer sans raison à n'importe quel moment, et notamment la nuit, jusqu'à me réveiller. J'ai pris l'habitude de l'éteindre, mais ce n'est pas normal.
+J'ai un clavier Logitech MX Keys S depuis presque cinq ans. Jusqu'à peu il fonctionnait très bien. J'aime bien pouvoir l'associer à trois équipements différents. Il y a quelques mois le rétroéclairage a commencé à l'allumer sans raison à n'importe quel moment, et notamment la nuit, jusqu'à me réveiller. J'ai pris l'habitude de l'éteindre, mais ce n'est pas normal.
 
 Les MX Keys ont deux capteurs :
 * Un capteur de proximité situé sur le bord inférieur du clavier. Il produit un léger champ magnétique qui est perturbé à l'approche des mains. Le clavier s'allume.
