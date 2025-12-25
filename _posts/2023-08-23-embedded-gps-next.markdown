@@ -4,7 +4,7 @@ title:  "Les tribulation d'un GPS embarqué, et l'avenir: android auto et carpla
 date:   2023-08-23 01:00 +0100
 description: "Voilà que ça recommence, j’ai fait quelque chose de dangereux avec le système embarqué de mon véhicule."
 categories: 
-- securité
+- gps
 ---
 
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
