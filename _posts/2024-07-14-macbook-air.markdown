@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Retour d'expérience, Ubuntu 24.04 sur un Macbook Pro 2015"
-date:   2024-07-14 00:00 +0100
+date:   2024-07-14 01:00 +0100
 description: "Pour sauver un Macbook Pro de 2015 de l'obsolescence programmée, j'ai tenté d'installer une Ubuntu 24.04 dessus"
 categories: 
 - macbook
