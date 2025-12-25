@@ -4,7 +4,7 @@ title:  "Retour d'expérience, Ubuntu 24.04 sur un Macbook Pro 2015"
 date:   2024-07-14 00:00 +0100
 description: "Pour sauver un Macbook Pro de 2015 de l'obsolescence programmée, j'ai tenté d'installer une Ubuntu 24.04 dessus"
 categories: 
-- bricolage
+- macbook
 ---
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
@@ -28,7 +28,6 @@ Publié aussi sur LinuxFR.
   - [Applications ou fonctionnalités manquantes](#applications-ou-fonctionnalités-manquantes)
   - [Crashs](#crashs)
 - [Bilan](#bilan)
-
 
 # Retour sur Linux
 
