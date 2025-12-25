@@ -8,6 +8,8 @@ categories:
 ---
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
+Publié aussi sur LinuxFR.
+
 # Les capteurs
 
 J'ai un clavier Logitech MX Keys S depuis presque cinq ans. Jusqu'à peu il fonctionnait très bien. J'aime bien pouvoir l'associer à trois équipements différents. Il y a quelques mois le rétroéclairage a commencé à l'allumer sans raison à n'importe quel moment, et notamment la nuit, jusqu'à me réveiller. J'ai pris l'habitude de l'éteindre, mais ce n'est pas normal.
