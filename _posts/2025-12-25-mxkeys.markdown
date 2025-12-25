@@ -1,0 +1,50 @@
+---
+layout: default
+title:  "Régler le souci de rétroéclairage du Logitech MX Keys" 
+date:   2025-12-25 10:30:00 +0100
+description: "Mon clavier Logitech MX Keys se transforme parfois en guirlande de Noël, le rétroéclairage s'allumant sans raison. La réparation est simple."
+categories: 
+- bricolage
+---
+Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
+# Les capteurs
+
+J'ai un clavier Logitech MX Keys S depuis presque cinq ans. Pour l'instant, il fonctionne très bien, et j'aime bien pouvoir l'associer à trois équipements différents. Mais il y a quelques mois le rétroéclairage a commencé à l'allumer sans raison à n'importe quel moment, et notamment la nuit, jusqu'à me réveiller. J'ai pris l'habitude de l'éteindre, mais ce n'est pas normal.
+
+Les MX Keys ont deux capteurs :
+* Un capteur de proximité situé sur le bord inférieur du clavier. Il produit un léger champ magnétique qui est perturbé à l'approche des mains. Le clavier s'allume.
+* Un capteur de lumière ambiante au niveau de la LED d'alimentation en haut à droite. Le clavier s'allumera dans les pièces sombres et s'éteindra en pleine lumière après un certain temps.
+
+Il semble que ce soit le capteur le luminosité qui pose problème.
+
+# Solution 1
+
+Le capteur est très sensible, et l'accumulation de poussière ou de saletés peut le détraquer. Dans ce cas la solution la plus simple consiste à tenter de nettoyer l'ensemble, avec pinceau, soufflette, tapotage et secouage de clavier. Selon diverses réponses trouvées notamment sur Reddit, secouer le clavier en le tenant verticalement (sonde / lumière vers le haut) aide à résoudre temporairement le souci: les saletés se déplacent vers le bas.
+
+Ça fonctionne un temps.
+
+# Solution 2
+
+Le capteur est trop sensible, tout court, poussière ou pas. Dans ce cas la solution est d'intercaler une petite résistance entre le capteur et la carte électronique. Ca tombe bien puisque le fil du capteur est juste vissé.
+
+J'ai pour ça utilisé une résistance de 100 Ohms (ont peut mettre plus) J'ai soudé une patte au connecteur du fil, et j'ai entortillé l'autre patte autour de la vis, en faisant en sorte que rien ne touche.
+
+![Résistance MX Keys](/assets/img/2025-12-25/mxkeys.jpg)
+
+C'est casse-pied à mettre en place avec des gros doigts (et même avec des petits), ce n'est pas beau, mais ça fonctionne. Ça réduit de 95% les occurrences.
+
+# Solutions ultimes
+
+On peut cumuler les deux solutions : résistance et nettoyage. Tous les mois par exemple.
+
+On peut aussi, mais il faut du matériel, remplacer la petite résistance (marquée 102) par une autre. 102 signifie dix suivi de deux zéros, 10x10², soit 1 kΩ. Avec la résistance de 100Ω on passe à 1.1 kΩ, soit 10% en plus, mais ça peut ne pas suffire. On trouve des valeurs plus grandes. 
+
+Je n'ai pas le matériel, donc je n'ai rien fait.
+
+On peut aussi décider de déconnecter définitivement le capteur. Juste une vis... Le capteur de proximité continue à fonctionner mais la puissance du rétroéclairage sera à régler manuellement.
+
+J'ai gardé l'habitude d'éteindre le clavier : marre de recharger le clavier toutes les deux semaines !
+
+
+
