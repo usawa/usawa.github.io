@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Les folles aventures d’une TV 4K, d’un abonnement Internet et du décodeur capricieux"
-date:   2022-12-18 01:00 +0100
+date:   2022-12-28 01:00 +0100
 description: "Je suis abonné auprès du FAI Bouygues Télécom et je suis raccordé à la fibre depuis bientôt deux ans, je découvre que leurs abonnements sont... tordus."
 categories: 
 - internet
