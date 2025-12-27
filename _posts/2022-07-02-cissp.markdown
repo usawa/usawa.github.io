@@ -45,15 +45,15 @@ Six mois, entre deux et huit heures par jour, tous les jours, même en vacances,
 
 Et après ? Durant cette étape de ma vie, j’ai abordé deux trois trucs dans mon apprentissage : les forensics et les red teams. J’aimerais bien creuser tout ça, il semble y avoir des formations sympas. Mais d’abord, quelques projets personnels. Ça à l’air bien, jouer de la guitare. On va essayer ça. Ça existe, les certifications en guitare ?
 
-[CISSP, ISC²](https://www.isc2.org/Certifications/CISSP)
-[Le CISSP démystifié](https://www.amazon.fr/CISSP-D%C3%A9mystifi%C3%A9-Zakaria-Hadj/dp/179015345X)
-[Guide officiel du CISSP, Sybex, Mike Chapple](https://www.amazon.fr/gp/product/B097NHJK9Q/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
-[Questions d’entrainement officielles, Sybex](https://www.amazon.fr/gp/product/B097NJ13VQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2)
-[All-In-One CISSP Exam guide, de Shon Harris, McGraw-Hill](https://www.amazon.fr/gp/product/B093XV42N1/ref=dbs_a_def_rwt_bibl_vppi_i0)
-[CISSP Practice exams, do Shon Harris et Jonathan Ham](https://www.amazon.fr/gp/product/B07K42H9CC/ref=dbs_a_def_rwt_bibl_vppi_i0)
-[How to think like a manager, Luke Ahmed](https://www.amazon.fr/gp/product/B08D9L1BTF/ref=dbs_a_def_rwt_bibl_vppi_i0)
-[Study Notes and Theory, Luke Ahmed, A CISSP study guide](https://www.studynotesandtheory.com/)
-[Examtopics, CISSP](https://www.examtopics.com/exams/isc/cissp/view/)
-[Diapositives du CISSP Boot camp, Michael J Shannon](https://github.com/Skillsoft-Content/CISSP_Bootcamp) 
+- [CISSP, ISC²](https://www.isc2.org/Certifications/CISSP)
+- [Le CISSP démystifié](https://www.amazon.fr/CISSP-D%C3%A9mystifi%C3%A9-Zakaria-Hadj/dp/179015345X)
+- [Guide officiel du CISSP, Sybex, Mike Chapple](https://www.amazon.fr/gp/product/B097NHJK9Q/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
+- [Questions d’entrainement officielles, Sybex](https://www.amazon.fr/gp/product/B097NJ13VQ/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2)
+- [All-In-One CISSP Exam guide, de Shon Harris, McGraw-Hill](https://www.amazon.fr/gp/product/B093XV42N1/ref=dbs_a_def_rwt_bibl_vppi_i0)
+- [CISSP Practice exams, do Shon Harris et Jonathan Ham](https://www.amazon.fr/gp/product/B07K42H9CC/ref=dbs_a_def_rwt_bibl_vppi_i0)
+- [How to think like a manager, Luke Ahmed](https://www.amazon.fr/gp/product/B08D9L1BTF/ref=dbs_a_def_rwt_bibl_vppi_i0)
+- [Study Notes and Theory, Luke Ahmed, A CISSP study guide](https://www.studynotesandtheory.com/)
+- [Examtopics, CISSP](https://www.examtopics.com/exams/isc/cissp/view/)
+- [Diapositives du CISSP Boot camp, Michael J Shannon](https://github.com/Skillsoft-Content/CISSP_Bootcamp) 
 
 PS: Une dernière chose. Merci LinuxFR, et mes camarade de la Tribune. C'est tout bête, mais les petites conversations sympas, tout comme les grands débats qui y ont lieu, m'ont détendu. Merci à toutes et tous. J'avais promis un retour d'expérience, c'est fait.
