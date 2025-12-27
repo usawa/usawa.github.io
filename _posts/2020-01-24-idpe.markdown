@@ -1,0 +1,73 @@
+---
+layout: default
+title:  "Partage d’expérience : comment je suis devenu ingénieur diplômé par l’État à 44 ans"
+date:   2020-01-24 21:49 +0100
+description: "Je viens d’obtenir d’Ingénieur Diplômé Par l’État. À 44 ans. Enfin, en tout cas j’ai reçu l’avis positif du Ministère de l’Enseignement Supérieur, je dois encore attendre l’attestation officielle. Peut-être vous demandez-vous : c’est quoi ce truc ? C’est qui lui ? Et alors ?"
+categories: 
+- formation
+
+---
+
+Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
+Publié aussi sur LinuxFR.
+
+- [Un titre officiel](#un-titre-officiel)
+- [Mais pourquoi faire ça ?](#mais-pourquoi-faire-ça-)
+- [VAE ou IDPE ?](#vae-ou-idpe-)
+- [La démarche initiale](#la-démarche-initiale)
+- [Les étapes stressantes](#les-étapes-stressantes)
+- [Sautez le pas](#sautez-le-pas)
+- [Ça vous intéresse ?](#ça-vous-intéresse)
+
+# Un titre officiel
+
+En France, l’utilisation du titre ou du mot ingénieur, en tant que profession, est libre et non réglementée. Par contre le titre d’ingénieur diplômé est réglementé, et ne peut être obtenu qu’auprès d’une école d’enseignement supérieure ou d’un institut de formation professionnel habilités par l’État, par l’agrément de la Commission des Titres d’Ingénieur. Tout ça depuis 1934. Obtenir ce diplôme, c’est obtenir le grade de Master (ou Mastaire, en France), Niveau I (ancienne nomenclature, niveau 7 aujourd’hui). Et il est interdit de dire qu’on est ingénieur diplômé si on ne l’est pas, c’est même puni par la loi, comme dire qu’on est docteur.
+
+# Mais pourquoi faire ça ?
+
+Mais pourquoi j’ai fait ça ? J’ai obtenu en 1999 un titre d’« Expert en ingénierie Informatique et Réseaux », de l’ESGI, formation bac+5, titre qui était homologué niveau II à l’époque (niveau 6 aujourd’hui). Et vous comprenez que ce titre n’est pas un titre d’ingénieur diplômé. Des démarches étaient en cours pour le faire homologuer au niveau I, qui ont abouti trois ans après, mais malheureusement avec un effet rétroactif limité pile à l’année 2000. Pas de chance ! Quant à savoir pourquoi j’ai choisi cette école, c’est une autre histoire.
+
+J’avais postulé en sortant de l’école au service R & D d’un groupe Télécoms, appelons-le Pamplemousse : les entretiens et les tests techniques s’étant bien passés, quand un coup de fil des RH m’a informé que mon école n’entrait pas dans leurs grilles, merci quand même et au revoir. C’était vexant. J’ai roulé ma bosse: éditeur de logiciel, SSII, avec des missions diverses d’ingénieur, j’ai écris des livres et des articles sur Linux, j’ai enseigné à des futurs ingénieurs. J’ai fini par être embauché en interne dans une grosse boite, où durant presque six ans, j’ai conçu et géré une plateforme dite digitale, en tant que Tech Lead des Ops.
+
+Mais, depuis plusieurs années, l’idée d’une VAE me titillait, un vieux complexe, une vieille rancœur, quelque chose à prouver, un sentiment d’imposture, peut-être : qu’est-ce qu’un ingénieur, suis-je vraiment un ingénieur ? Voilà qu’en septembre 2018, je reçois un mail du service formation : Devenez Ingénieur Diplômé par l’État. Et je me suis lancé.
+
+# VAE ou IDPE ?
+
+Une Validation des Acquis par l’Expérience, c’est capitaliser sur votre expérience dans le but d’obtenir un titre, une diplôme ou une certification. Un jury va valider les connaissances déjà acquises et proposer une formation, des unités de valeurs à compléter, des tests à passer, pour combler l’écart entre votre expérience actuelle et ce que vous visez. Puis vous passerez un jury final, qui validera totalement ou partiellement vos acquis. SI c’est partiellement, vous pouvez de nouveau compléter, et repasser. Ce processus peut prendre plusieurs années.
+
+Un IDPE, c’est « Deviens qui tu es » : si vous pensez que vous avez occupé les fonctions d’un véritable ingénieur durant les cinq dernières années au moins, vous pouvez demander à le faire acter et obtenir le titre d’Ingénieur Diplômé Par l’État par le Ministère de l’Enseignement Supérieur. Le « vrai ». Et ceci quelque soit votre formation initiale, même sans le bac. Mais, pour le prouver, il va falloir s’accrocher. Et c’est du « _one shot_ » : si vous ratez, vous devrez tout recommencer à zéro l’année suivante. Ça existe depuis 1934, et pourtant tout le monde l’a oublié : il n’y a environ que 30 reçus par an, toutes spécialités confondues.
+
+# La démarche initiale
+
+Voici comment ça se passe :
+    
+* vous choisissez la spécialité concernée (par exemple, informatique) ;
+* vous trouvez une école habilitée à organiser les épreuves dans cette spécialité (le CNAM, par exemple) ;
+* vous remplissez un énorme dossier : CV, diplômes, documents CERFA, attestations des employeurs, où vous apparaissez dans l’organigramme de votre entreprise, vos fiches de paies, certificats de travail, relevés de carrière, description détaillée de tous vos travaux des dernières années, de toutes vos compétences, etc. (pour moi, ça représentait plus de 40 feuilles) ;
+* vous envoyez le tout à l’école (contactez les avant) avant la date butoir, avec des frais de dossier (80 euros).
+
+# Les étapes stressantes
+
+Il se passe ensuite Quatre grandes étapes suivant un calendrier précis :
+    
+1. En octobre, le jury particulier, constitué du directeur, de professeurs et d’ingénieurs DPE,  examine la recevabilité du dossier et vous informe des suites données. Si c’est recevable, vous serez convoqué à un entretien avec le jury.
+2. En janvier ou février, Le premier entretien avec le jury consiste en l’évaluation de l’expérience et des acquis professionnels. Vous allez avoir au moins une heure pour convaincre le jury du bien fondé de votre demande, en appuyant notamment sur vos grandes réalisations des cinq dernières années, au moins. Vous devrez aussi préparer un sujet et un plan de mémoire. Si vous réussissez l’entretien, vous présenterez ce sujet et ce plan au jury, qui pourra l’accepter, vous conseiller, ou vous demander d’en proposer un autre. Ce mémoire doit être basé sur l’une de vos réalisations, un peu comme un gros rapport de stage. Le jury m’a demandé de modifier mon sujet de mémoire, qui était trop axé recherche…
+3. En mars, à l’issue de l’entretien, vous recevrez la décision du jury qui vous autorise (ou pas) à présenter votre mémoire, et la convocation. Vous avez plusieurs mois pour réaliser votre mémoire qui doit suivre un formalisme bien précis : 90 pages maximum, en français (sauf un résumé en anglais), une notice, etc. Et répondre à un référentiel de compétences. début septembre au plus tard,  vous remettez votre mémoire relié en six exemplaires. 
+4. En octobre, vous passez votre soutenance devant le jury particulier. Les modalités peuvent changer selon l’école. Pour ma part, ce furent 20 minutes de présentation et 40 minutes de questions. Certains y passent plus de temps. C’est un moment assez stressant, évidemment. Quand j’en suis sorti, je n’aurais même plus su refaire mes lacets, persuadé d’avoir raté…
+
+Et enfin, vous attendez, attendez… Le jury délibère et décide d’envoyer ou non votre dossier au jury national. Vous pouvez être aussi recalé dès ce moment. Votre dossier arrive au ministère, avec l’avis du jury particulier. En décembre, le jury délibère et émet son avis final. Vous êtes notifié quelques jours après par l’école. Sauf que cette année, le jury avait été déplacé en janvier à cause des grèves, et personne ne m’avait informé. Imaginez l’angoisse… Il reste à attendre l’attestation définitive du ministère et le passage au Journal Officiel. Vous pourrez fièrement aller à la remise des diplômes.
+
+# Sautez le pas
+
+Bref, si vous occupez des fonctions d’ingénieur depuis plusieurs années, que vous avez eu à traiter de problèmes techniques complexes, que vous en avez conçu une solution, que vous avez innové, que vous avez dirigé sa réalisation, et qu’il s’agit réellement de votre travail, vous pouvez vous lancer. Par contre, et je l’ai vu l’année dernière, une expérience de chef de projet ne fait pas de vous un ingénieur, recalé ! Il faut une réalisation technique. Soyez conscient aussi que la préparation du dossier, l’écriture du mémoire et la préparation des soutenances prennent énormément de temps, en sus de votre travail et de votre vie de famille.
+
+# Ça vous intéresse ?
+
+La notice est [là](https://cache.media.enseignementsup-recherche.gouv.fr/file/Formations_et_diplomes/09/9/PLAQUETTE_IDPE_2019_1055099.pdf)
+
+Pour s’inscrire, les détails sont [ici](https://www.enseignementsup-recherche.gouv.fr/cid23746/formulaire-de-candidature-au-titre-d-ingenieur-diplome-par-l-etat-i.d.p.e.html)
+
+Des exemples [ici](https://www.joret.org/34/)
+
+La société des [ingénieurs DPE](https://www.sidpe.fr/)
