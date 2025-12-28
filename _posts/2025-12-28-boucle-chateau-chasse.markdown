@@ -13,15 +13,15 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 Je partage ici le tracé GPX d'une belle marche matinale, 12 kms, environ 2h30, en forêt de Montmorency. Départ et retour au parking du Château de la Chasse.
 
 
-Points admirables :
-
+**Points admirables :**
 - La tour du Plumet
 - L'étang Godard
 - La Tourbière de la Cailleuse
 - La Fontaine Sainte Radegonde
 - Le Château de la Chasse
 
-Détails techniques :
+**Détails techniques :**
+
 - Distance : 11,9 km
 - Durée : 2 heures, 31 minutes et 14 secondes
 - Vitesse moyenne : 4,7 km/h
