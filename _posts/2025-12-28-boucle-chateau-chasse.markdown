@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Une boucle de 12 kms autour du Château de la Chasse"
-date:   2025-12-28 17:00 +0100
+date:   2025-12-28 15:00 +0100
 description: "Une belle marche en ce froid dimanche matin, qui passe devant des sites intéressants."
 categories: 
 - marche
@@ -36,7 +36,7 @@ Je partage ici le tracé GPX d'une belle marche matinale, 12 kms, environ 2h30, 
 
 Quelques endroits boueux, mais il faisait encore moins de 2° et la terre était gelée, donc ça passe, et une petite erreur de parcours qui m'a obligé à marcher une centaine de mètres sur la D192 (j'ai raté le chemin sur la gauche avant la route). 
 
-Quelques notes sur la tourbière de la Cailleuse. Traversée par un ru du même nom, c'est une zone naturelle protégée d'environ 100 hectares, qu'une partie du trajet longe. Endroit frais (voire froid), humide, sol argileux, tout ceci favorise la présence de tourbe formée depuis des millénaires. L'été la zone est recouverte de sphaignes et bruyère à quatre angles, et c'est aussi le paradis des moustiques (prévoyez un répulsif). La zone est protégée, l'extraction est interdite (vous vous chaufferez autrement).
+Quelques notes sur la **tourbière de la Cailleuse**. Traversée par un ru du même nom, c'est une zone naturelle protégée d'environ 100 hectares, qu'une partie du trajet longe. Endroit frais (voire froid), humide, sol argileux, tout ceci favorise la présence de tourbe formée depuis des millénaires. L'été la zone est recouverte de sphaignes et bruyère à quatre angles, et c'est aussi le paradis des moustiques (prévoyez un répulsif). La zone est protégée, l'extraction est interdite (vous vous chaufferez autrement).
 
 Quelques photos :
 
