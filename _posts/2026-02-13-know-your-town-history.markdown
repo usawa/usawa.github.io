@@ -31,6 +31,8 @@ Quand je suis arrivé en 2005, je me souviens qu'il y avait une librairie et une
 
 ![Recueil de photos de 1900](/assets/img/2026-02-13/Histoire_2.jpg)
 
+*Recueil de photos de Deuil-La Barre en 1900*
+
 La lecture de ces livres m'a fait découvrir un passé riche que je ne soupçonnais pas. L'histoire s'étend de la préhistoire à nos jours, en passant par les légendes du Lac Marchais et de Saint-Eugène, les châteaux, dont celui de la Chevrette (aujourd'hui disparu), les journées glorieuses de Août 1944, et terribles d'Octobre de cette même année, la fusion des communes de Deuil et du hameau de la Barre, et l'urbanisation post-seconde guerre mondiale à aujourd'hui, sous l'impulsion de plusieurs maires, plus ou moins visionnaires. 
 
 # Comprendre aujourd'hui, pour anticiper demain
@@ -38,6 +40,8 @@ La lecture de ces livres m'a fait découvrir un passé riche que je ne soupçonn
 Tout ceci permet de comprendre l'évolution de ma ville, pourquoi et comment elle est devenue ce qu'elle est aujourd'hui. Comprendre des choix aujourd'hui devenus discutables, comprendre les actions entreprises par la Municipalité actuelle pour réparer certaines erreurs du passé, redonner son lustre à une commune souvent assimilée avec erreur à une cité dortoir (il n'y a rien de plus faux), préparer et anticiper l'avenir.
 
 Un grand regret partagé par une partie de la population est la perte du Château de la Chevrette, dont il ne reste que la Conciergerie, à la fin du XVIIIème siècle (1786), un château qui était magnifique, qui a connu de grandes heures sous Mme d'Epinay, ayant accueilli dans ses salons Jean-Jacques Rousseau ou Diderot. Si les derniers bâtiments comme l'Orangerie, détruite en 1960, ont disparu, il en reste encore des traces. Saviez-vous part exemple que la rue Jean Boin était l'axe du Jardin / grand canal de ce château ? Que le quartier de la Galathée, où siège aujourd'hui une monumentale statue, vient d'une statue situé au fond des jardins ?
+
+![1900](/assets/img/2026-02-13/Histoire_3.jpg)
 
 Comment un événement dramatique peut-il forger tout le destin d'un quartier ? Lorsque le 4 octobre 1944 un missile V2 allemand détruit tout le quartier du centre-ville et une bonne partie de l'église, qui peut alors imaginer que ce terrible événement meurtrier va redessiner le visage du centre-ville ? Une avenue Charles de Gaulle très large, une grande place, d'abord parking, devenue parc et fontaine, une église désenclavée remise en valeur... Finies les rues étroites et engorgées, place à la lumière !
 
@@ -55,6 +59,8 @@ J'ai aujourd'hui la chance de disposer de l'ensemble (enfin, je suppose) des ouv
 
 ![Une belle collection](/assets/img/2026-02-13/Histoire_1.jpg)
 
+*Une partie d'une collection sur ma ville*
+
 Cette mémoire ne doit surtout pas être perdue, ne pas tomber dans l'oubli. Oublier son passé, c'est risquer de commettre à nouveau ses erreurs. Pour ça, on peut compter sur un petit nombre, qu'on peut espérer grandissant, de curieux et passionnés, qui partagent cette histoire. Ainsi, participer à une conférence au Musée de la Chevrette avec M. Alain Chabanel, est une grande source d'enrichissement historique et culturelle. Je repense aussi à l'ouvrage sur Deuil en 44, écrit plus de 50 ans après, où déjà la Mémoire s'efface et les souvenirs ne sont plus aussi vifs, au désespoir de l'Auteur tentant de compiler ces derniers souvenirs.
 
 Il faut entretenir l'Histoire de notre ville. Il nous faut des passeurs d'Histoire.
@@ -66,5 +72,3 @@ Chaque ville, village, hameau de France, a une histoire. Renseignez-vous, conser
 En ces temps de choix (article écrit en février 2026, un mois avant les élections municipales), il est important aussi, pour l'avenir, de choisir qui, quelle équipe, pourra le mieux incarner l'avenir de ma ville. Ceux qui me suivent sur les réseaux sociaux savent que mon choix est fait, tant le travail accompli ces dernières années a reflété ma vision d'une ville qui avance tout en chérissant son histoire, son passé. 
 
 Dans tous les cas, je souhaite fermement que les futures municipalités, quelles qu'elles soient, continuent ce travail de Mémoire.
-
-
