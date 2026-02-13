@@ -31,7 +31,7 @@ Quand je suis arrivé en 2005, je me souviens qu'il y avait une librairie et une
 
 ![Recueil de photos de 1900](/assets/img/2026-02-13/Histoire_2.jpg)
 
-La lecture de ces livres m'a fait découvrir un passé riche que je ne soupçonnait pas. L'histoire s'étend de la préhistoire à nos jours, en passant par les légendes du Lac Marchais et de Saint-Eugène, les châteaux, dont celui de la Chevrette (aujourd'hui disparu), les journées glorieuses de Août 1944, et terribles d'Octobre de cette même année, la fusion des communes de Deuil et du hameau de la Barre, et l'urbanisation post-seconde guerre mondiale à aujourd'hui, sous l'impulsion de plusieurs maires, plus ou moins visionnaires. 
+La lecture de ces livres m'a fait découvrir un passé riche que je ne soupçonnais pas. L'histoire s'étend de la préhistoire à nos jours, en passant par les légendes du Lac Marchais et de Saint-Eugène, les châteaux, dont celui de la Chevrette (aujourd'hui disparu), les journées glorieuses de Août 1944, et terribles d'Octobre de cette même année, la fusion des communes de Deuil et du hameau de la Barre, et l'urbanisation post-seconde guerre mondiale à aujourd'hui, sous l'impulsion de plusieurs maires, plus ou moins visionnaires. 
 
 # Comprendre aujourd'hui, pour anticiper demain
 
@@ -41,11 +41,11 @@ Un grand regret partagé par une partie de la population est la perte du Châtea
 
 Comment un événement dramatique peut-il forger tout le destin d'un quartier ? Lorsque le 4 octobre 1944 un missile V2 allemand détruit tout le quartier du centre-ville et une bonne partie de l'église, qui peut alors imaginer que ce terrible événement meurtrier va redessiner le visage du centre-ville ? Une avenue Charles de Gaulle très large, une grande place, d'abord parking, devenue parc et fontaine, une église désenclavée remise en valeur... Finies les rues étroites et engorgées, place à la lumière !
 
-Certains voudraient que la ville reste statique, telle qu'ils l'ont connu lorsqu'ils étaient petits, où lorsqu'ils sont arrivés. Stopper les constructions, l'urbanisation. Un monsieur me racontait il y a quelques semaines qu'il ramassait des tritons et des tétards dans les rus et plans d'eau où les immeubles de la Galathée ont été construits.
+Certains voudraient que la ville reste statique, telle qu'ils l'ont connue lorsqu'ils étaient petits, où lorsqu'ils sont arrivés. Stopper les constructions, l'urbanisation. Un monsieur me racontait il y a quelques semaines qu'il ramassait des tritons et des têtards dans les rus et plans d'eau où les immeubles de la Galathée ont été construits. Une autre personne voulait qu'on stoppe la construction de nouveaux immeubles, ce qu'on peut comprendre si on laisse les promoteurs faire n'importe quoi, tout en habitant elle-même un immeuble récent. 
 
-Pourtant, fort de cette histoires, avec ses succès et ses erreurs, la ville avance, et tente aujourd'hui tant de remettre en valeur son patrimoine et ses espaces naturels (Côte de Deuil, coulée verte, etc.) que d'avancer dans le XXIème siècle avec une urbanisation contrôlée et réfléchie, en redynamisant la vie des quartiers (Place de la Nation, La Barre, le Centre-Ville, etc.) et en proposant de nouvelles infrastructures pour l'avenir (sport - Dojo - Piscine, culture - Maison des Arts - Salle des fêtes, etc., scolaire - réfection des écoles, réflexions sur le collège Diderot, urbanisation réfléchie - Ilôts Charcot et de la Poste, etc.).
+Fort de cette histoire, avec ses succès et ses erreurs, la ville avance, et tente aujourd'hui tant de remettre en valeur son patrimoine et ses espaces naturels (Côte de Deuil, coulée verte, etc.) que d'avancer dans le XXIème siècle avec une urbanisation contrôlée et réfléchie, en redynamisant la vie des quartiers (Place de la Nation, La Barre, le Centre-Ville, etc.) et en proposant de nouvelles infrastructures pour l'avenir (sport - Dojo - Piscine, culture - Maison des Arts - Salle des fêtes, etc., scolaire - réfection des écoles, réflexions sur le collège Diderot, urbanisation réfléchie - Ilôts Charcot et de la Poste, etc.).
 
-La ville avance, et elle avance bien sous l'impulsion d'une Municipalité dynamique pariant et investissant sur l'avenir.
+La ville avance, et elle avance bien sous l'impulsion d'une Municipalité dynamique pariant et investissant sur l'avenir sans renier son passé.
 
 # Entretenir la mémoire
 
