@@ -10,7 +10,7 @@ categories:
 
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
-- [Travaux, inaugurations : ça sent les municipales ! Vraiment ?](#travaux-inaugurations-ça-sent-les-municipales-vraiment)
+- [Travaux, inaugurations : ça sent les élections ! Vraiment ?](#travaux-inaugurations-ça-sent-les-élections--vraiment)
 - [Un mandat, c’est six ans, une politique, bien plus](#un-mandat-cest-six-ans-une-politique-bien-plus)
   - [La durée du mandat](#la-durée-du-mandat)
   - [Les « quick wins »](#les--quick-wins-)
@@ -22,7 +22,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 - [Demain on rase gratis](#demain-on-rase-gratis)
 - [Quelque sources](#quelque-sources)
 
-# Travaux, inaugurations : ça sent les municipales ! Vraiment ?
+# Travaux, inaugurations : ça sent les élections ! Vraiment ?
 
 En ces temps de campagne municipale, les commentaires sur les réseaux sociaux sont légions. Un commentaire récurrent est « ça sent les municipales » dès qu’une ville, un maire ou un de ses conseillers poste une inauguration d’un local, d’un parc, d’une nouvelle voirie, ou met en avant des travaux. Le sous-entendu de ce message est assez clair : « Comme par hasard ! », « Rien pendant cinq ans, tout la dernière année », « on est pas dupes », etc. Qu’en est-il vraiment ?
 
