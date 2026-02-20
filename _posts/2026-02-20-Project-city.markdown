@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Travaux, inaugurations : ça sent les municipales !"
+title:  "Travaux, inaugurations : ça sent les élections !"
 date:   2026-02-20 12:00 +0100
 description: "Le sous-entendu de ce message est assez clair : « Comme par hasard ! », « Rien pendant cinq ans, tout la dernière année », « on est pas dupes », etc. Qu’en est-il vraiment ?"
 categories: 
