@@ -12,10 +12,15 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 - [Travaux, inaugurations : ça sent les municipales ! Vraiment ?](#travaux-inaugurations-ça-sent-les-municipales-vraiment)
 - [Un mandat, c’est six ans, une politique, bien plus](#un-mandat-cest-six-ans-une-politique-bien-plus)
+  - [La durée du mandat](#la-durée-du-mandat)
+  - [Les « quick wins »](#les--quick-wins-)
+  - [Le temps long, cycle de vie des projets](#le-temps-long-cycle-de-vie-des-projets)
 - [Le déroulement de projets emblématiques](#le-déroulement-de-projets-emblématiques)
 - [Des contraintes et de la transparence](#des-contraintes-et-de-la-transparence)
 - [L’envie de voir ses projets aboutir](#lenvie-de-voir-ses-projets-aboutir)
+- [Perception vs vraie liste des projets](#perception-vs-vraie-liste-des-projets)
 - [Demain on rase gratis](#demain-on-rase-gratis)
+- [Quelque sources](#quelque-sources)
 
 # Travaux, inaugurations : ça sent les municipales ! Vraiment ?
 
@@ -25,13 +30,34 @@ C’est facile, nous avons tous eu ce genre de raisonnement, moi y compris. Pour
 
 # Un mandat, c’est six ans, une politique, bien plus
 
+## La durée du mandat 
+
 Un **Conseil Municipal** (le maire, ses adjoints et ses conseillers municipaux) est élu pour une durée de **six ans**. Selon le point de vue, et pour qui on a voté, c’est à la fois trop ou pas assez long. La Municipalité définit une **politique de la ville**. Par politique, on entend les choix et orientations qu’on veut donner à la ville pour ses habitants, pour son futur : les choix économiques et sociaux, l’urbanisme, la sécurité, les animations, les aménagements, l’environnement, le patrimoine, les commerces, le cadre de vie, les soins, la santé, le sport… Bref, tout ce qui touche à la ville et ses habitants. Une Municipalité est généralement élue sur **un programme**, qu’elle va s’efforcer de dérouler et faire aboutir sur la durée de son mandat de six ans.
 
-Dans un programme, il est a des choses qui peuvent parfois être faites assez rapidement. Dans mon métier, on appelle ça des « **Quick wins** » , ou « victoires rapides » : ce sont des choses qu’on peut faire rapidement, sans grand impact sur les finances, et qui vont apporter une satisfaction rapide à la population. Et puis, il y a des choses qui vont prendre beaucoup plus de temps : tout un mandat, voire même beaucoup plus : des aménagements lourds, de nouvelles constructions comme des équipements sportifs, des nouvelles voiries. La Municipalité peut voir loin : sur **dix ans, quinze ans, vingt ans** !
+## Les « quick wins »
+Dans un programme, il est a des choses qui peuvent parfois être faites assez rapidement. Dans mon métier, on appelle ça des « **Quick wins** » , ou « victoires rapides » : ce sont des choses qu’on peut faire rapidement, sans grand impact sur les finances, et qui vont apporter une satisfaction rapide à la population. Ils permettent de démontrer que la majorité « agit », car ils sont très visibles par les habitants.
+
+Evidemment, des chantiers et projets réussis en cours ou en fin de mandat sont des arguments de campagne : la mairie tient ses promesses. Et ils sont généralement plus visibles en fin de mandat.
+
+Comme le dit France Info (lien en fin d'article) :
+
+*Peut-être qu'il y a un peu d'opportunisme, ça, c'est possible, mais je n'ai pas l'impression que ce soit quelque chose qui ne soit pas planifié en avance, de toute façon, c'est quelque chose qui a été annoncé.*
+
+## Le temps long, cycle de vie des projets
+
+Et puis, il y a des choses qui vont prendre beaucoup plus de temps : tout un mandat, voire même beaucoup plus : des aménagements lourds, de nouvelles constructions comme des équipements sportifs, des nouvelles voiries. La Municipalité peut voir loin : sur **dix ans, quinze ans, vingt ans** !
 
 ![La cocotarium](/assets/img/2026-02-20/cocotarium%20(Petit).jpg)
 
 *Le cocotarium pour le bonheur des enfants et des parents*
+
+Le calendrier des travaux explique beaucoup cette impression que les aboutissent en fin de mandat. En effet un projet public suit souvent ce rythme :
+
+1. <ins>**Année 1–2**</ins> : études, concertation, budgets
+2. <ins>**Année 2–4**</ins> : appels d’offres et procédures administratives
+3. <ins>**Année 4–6**</ins> : réalisation
+
+<ins>**Résultat**</ins> : beaucoup de projets lancés en début de mandat arrivent en phase de chantier à la fin.
 
 # Le déroulement de projets emblématiques
 
@@ -72,15 +98,31 @@ Ma ville a eu des **contraintes additionnelles fortes** qui ont impacté la réa
 
 Il y a aussi une notion souvent oubliée : si une idée présentée dans un programme s’étale sur plus de six ans, il existe une probabilité non négligeable qu’elle ne voit jamais le jour si, lors de l’élection suivante, cette même idée n’est plus portée par la nouvelle liste élue. Dans ce cas, soit on essaie de le faire lors du mandat, soit le projet peut être tout bonnement annulé par la nouvelle majorité. Par exemple, il y a l’idée de créer une nouvelle voirie une fois le passage à niveau fermé, pour rejoindre la D928 : le barreau. Pas sûr que ça se fasse si on change de majorité.
 
+Comme le dit l'article de **Le Monde** dont le lien se situe en bas de ce texte:
+
+*La principale explication de ce rebond de la commande publique des collectivités est liée au « cycle électoral » ; une reprise des dépenses d’investissement en fin de mandat liée à la volonté d’achever les programmes engagés par les élus à leur arrivée.*
+
 
 Donc, on peut comprendre que beaucoup de projets annoncés et démarrés en début de mandat, n’aboutissent qu’à sa fin, donnant l’impression d’une accélération en vue des prochaines élections. **C’est l’aboutissement d’un processus souvent long s’étalant sur de nombreuses années, ou l’accélération de celui-ci pour le faire tenir dans la durée du mandat.**
 
+# Perception vs vraie liste des projets 
 
-Il y eu quelques débats sur Facebook, et un administrateur de groupe a posté toutes les réalisations et inaugurations sur les dernières années : elles s‘étalent dans le temps :
+Il y eu quelques débats sur Facebook, et un administrateur de groupe a posté toutes les réalisations et inaugurations sur les dernières années à Deuil-la-Barre, elles s‘étalent dans le temps :
 
 ![Le post en question](/assets/img/2026-02-20/post_fb%20(Petit).jpg)
 
 *Une liste probablement incomplète des projets qui ont aboutis*
+
+Pourtant, notre perception amplifie le phénomène, l'impression que tout arrive juste avant les élections :
+
+* Les chantiers sont plus visibles que les études ou décisions.
+* On remarque davantage les travaux quand ils deviennent nombreux.
+* On les associe spontanément à la politique.
+
+Et donc, notre perception peut aussi être biaisée :
+
+* Il y a évidemment une part de **stratégie politique**,
+* mais il y a surtout un **effet mécanique du cycle des projets** publics.
 
 # Demain on rase gratis
 
@@ -88,9 +130,21 @@ Il y eu quelques débats sur Facebook, et un administrateur de groupe a posté t
 
 Méfiez-vous de ceux qui vous promettent de grandes réalisations dans un temps très court : c’est impossible, techniquement, financièrement. Méfiez-vous aussi de ceux qui vous promettent des choses merveilleuses, même s’il semble s’agir de bonnes idées, très consensuelles. Gratuité de la cantine pour tous ? Belle idée, je suis d’accord, et si c’est possible, pourquoi pas. Mais si on donne d’un côté, on prend de l’autre : autres projets en moins, augmentation des impôts, endettement de la ville ? J’aime cette expression « **Déshabiller Pierre pour habiller Paul** » (l’histoire de cette expression est ancienne et intéressante). Bref, ça se réfléchit, sur un temps long, ça se calcule, et on voit si c’est faisable, ou pas.
 
+Je préfère un programme pragmatique et réalisable porté par des gens qui connaissent leur travail à un autre qui vend du rêve tout en se demandant comme ça sera possible.
+
 Et puis, si tout est réalisé sur deux ans, et tout les sous dépensés, on fait quoi les quatre ans suivants ? Petite boutade, évidemment.
 
 ![Les équipements sportifs](/assets/img/2026-02-20/victor_labarriere%20(Petit).jpg)
 
 *Sport pour tous dans le parc Victor Labarrière*
+
+# Quelque sources
+
+J'aurais bien dit "faites vos propres recherches", mais ça ferait complotiste. Voici deux sources simples et relativement neutres :
+
+[Le Monde](https://www.lemonde.fr/les-decodeurs/article/2019/11/25/y-a-t-il-vraiment-une-hausse-des-travaux-avant-les-elections-municipales_6020465_4355770.html)
+
+[France Info](https://www.franceinfo.fr/elections/municipales/municipales-des-elus-accuses-d-accelerer-des-travaux-pour-embellir-leur-bilan_7681414.html)
+
+
 
