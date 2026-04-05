@@ -157,7 +157,7 @@ Qui a merdé ? CT, vendeur, mandataire ? Je ne sais pas. Je ne suis pas mécano 
 
 Vous vous demandez peut-être combien de kms la voiture a roulé depuis mon achat ? **1100 kms** ! Dont 450 pour remonter de Macon.
 
-Le code défaut est présent sur le CT établi le 11 janvier. Comment a-t-il pu être mal interprété ? Evidemment que je n'aurais pas acheté la voiture !
+Le code défaut est présent sur le CT établi le 13 janvier. Comment a-t-il pu être mal interprété ? Evidemment que je n'aurais pas acheté la voiture !
 
 **J'ai donc une voiture utilisée 1100 kms, à peine deux mois, actuellement inutilisable.**
 
