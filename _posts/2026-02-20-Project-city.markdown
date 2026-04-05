@@ -8,7 +8,11 @@ categories:
 
 ---
 
+
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
+>**Note**
+>Les photos ont été prises par mes soins les 20 et 21 février 2026. Elles sont réutilisables si vous nommez l'auteur (Sébastien Rohaut)
 
 - [Travaux, inaugurations : ça sent les élections ! Vraiment ?](#travaux-inaugurations-ça-sent-les-élections--vraiment)
 - [Un mandat, c’est six ans, une politique, bien plus](#un-mandat-cest-six-ans-une-politique-bien-plus)
