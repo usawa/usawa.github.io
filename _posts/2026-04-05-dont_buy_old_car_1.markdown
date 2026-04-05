@@ -135,7 +135,12 @@ Le lundi 23 mars, j'emmène la voiture au garage Citroën. Même montée, même 
 
 Avant même le dépôt chez Citroën, entre le dimanche et le lundi, je me renseigne, et je tombe des nues. La boite AL4, vendue comme sans entretien (pas besoin de vidange) est en fait bien plus sensible et sujette à problèmes que prévu : soucis de capteurs de pression, d'électrovannes, sensibilité à la qualité de l'huile et à sa quantité, ... Et je découvre que le code P1167 est plus que connu, il y a des forums complets. La boite est aussi une DP0 chez Renault. Alors que Citroën dit "sans entretien", Renault dit "vidange tous les 60000". En lisant tout ça, je le sens mal, très mal...
 
-Citroën établit le diagnostic : les électrovannes qui contrôlent la boite automatique sont à changer. Le code P1167 correspond bien à ce défaut. De même, il y a bien un défaut d'antipollution, une électrovanne de distribution (déphaseur) est à changer. Montant total : **plus de 1500 euros** ! Ils demandent une prise en charge via la garantie.
+Citroën établit le diagnostic : 
+1. les électrovannes qui contrôlent la boite automatique sont à changer. Le code P1167 correspond bien à ce défaut. *
+2. De même, il y a bien un défaut d'antipollution, une électrovanne de distribution (déphaseur) est à changer. 
+
+
+Montant total : **plus de 1500 euros** ! Ils demandent une prise en charge via la garantie.
 
 Retour de l'organisme de garantie le vendredi 27 mars, ils ne prennent qu'une partie en charge, il reste 268 euros à ma charge. Je suis soulagé mais ce n'est pas normal ! Je contacte le mandataire m'ayant vendu le véhicule pour exposer tous les problèmes et en demandant des éclaircissements. Je demande à ce que le vendeur prenne en charge la différence. Je leur dis que le diagnostic lors du CT est faux, le code étant un défaut boite, et que si j'avais su je n'aurais évidemment pas acheté le véhicule.
 
