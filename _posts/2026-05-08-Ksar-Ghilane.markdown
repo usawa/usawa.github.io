@@ -1,15 +1,34 @@
 ---
 layout: default
-title:  "L'épopée du Maréchal Leclerc, entre Ksar Ghilane et Deuil-la-Barre"
-date:   2026-05-08 23:00 +0100
-description: "A l'occasion d'un voyage en Tunisie, j'ai visité un Haut Lieu de l'Histoire de la Seconde Guerre Mondiale, et pu me receuillir devant un mémorial aux troupes du Général Leclerc. C'est l'occasion de vous parler un peu de cet homme de Légende, et de ce qui s'est passé à cet endroit-là"
+title:  "L'épopée du Général Leclerc, focus sur Ksar Ghilane"
+date:   2026-05-08 07:00 +0100
+description: "A l'occasion d'un voyage en Tunisie, j'ai visité un Haut Lieu de l'Histoire de la Seconde Guerre Mondiale, et pu me recueillir devant le mémorial aux troupes du Général Leclerc, la Force L. C'est l'occasion de vous parler un peu de cet homme de Légende, et de ce qui s'est passé à cet endroit-là."
 categories: 
 - leclerc
 
 ---
 
-
 Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
+
+- [Contexte personnel](#contexte-personnel)
+- [L'épopée des forces du Général Leclerc](#lépopée-des-forces-du-général-leclerc)
+  - [Philippe Leclerc de Hautecloque](#philippe-leclerc-de-hautecloque)
+  - [Koufra, le serment](#koufra-le-serment)
+  - [Le Fezzan et la Tunisie](#le-fezzan-et-la-tunisie)
+  - [Libération de la France, de Paris](#libération-de-la-france-de-paris)
+  - [Strasbourg et l'Allemagne](#strasbourg-et-lallemagne)
+  - [L'Extrême-Orient](#lextrême-orient)
+  - [Afrique du Nord et décès](#afrique-du-nord-et-décès)
+  - [Note de l'auteur](#note-de-lauteur)
+- [Focus sur Ksar Ghilane](#focus-sur-ksar-ghilane)
+  - [L'oasis aux portes du Sahara](#loasis-aux-portes-du-sahara)
+  - [Le monument](#le-monument)
+  - [La bataille de Ksar Ghilane](#la-bataille-de-ksar-ghilane)
+  - [La ligne Mareth](#la-ligne-mareth)
+  - [Le système défensif](#le-système-défensif)
+  - [La bataille](#la-bataille)
+- [Deuil-La-Barre](#deuil-la-barre)
+- [Quelque sources](#quelque-sources)
 
 >**Note**
 >Les photos ont été prises par mes soins les 20 et 21 février 2026. Elles sont réutilisables si vous nommez l'auteur (Sébastien Rohaut)
@@ -17,168 +36,243 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 
 # Contexte personnel
 
-La Seconde Guerre a été une période terrible pour le monde entier, la France et même Deuil-la-Barre en particulier, j'ai déjà abordé le sujet du V2 dans un précédent article. Cette histoire m'a longtemps passionné, j'ai lu de grosses quantités d'ouvrage traitant cette prériode de l'histoire, et deux figures françaises m'ont particulièrement marqué : Charles de Gaulle, l'homme qui ne s'est jamais avoué vaincu, et Philippe Leclerc de Hautecloque, l'archétype du combattant, du héros. Son épopée (et celle de ses troupes) est extraordinaire et un modèle à tous points de vue.
+Cette journée du 8 mai 2026 a été particulière, c'est la première fois que je participais aux commémorations de la victoire du 8 mai 1945 à Deuil-la-Barre. C'est aussi l'occasion de vous partager une aventure personnelle.
 
-Je suis né en 1975, mais j'ai été bercé par cette histoire, notamment au travers du passé de résistant et de combattant de mes grands-parents, et je me souviens de discussions avec mon grand-père paternel, Philippe Rohaut, lorsque, dans les années 1990 devant lui je lisais l'encyclopédie de la Seconde Guerre Mondiale, et qu'il me commentait certains moments de l'occupation et de la Libération. Moment terribles et sombres, et moments glorieux et lumineux.
+La Seconde Guerre Mondiale a été une période terrible pour le monde entier, la France et même Deuil-la-Barre en particulier, j'ai déjà brièvement abordé le sujet du V2 dans un précédent article. L'histoire de cette guerre m'a longtemps passionné, j'ai lu de grosses quantités d'ouvrages, de sites web, et regardé de nombreuses vidéos traitant cette période de l'histoire, et trois figures françaises m'ont particulièrement marqué : Charles de Gaulle, le Premier des Français, Pierre-Marie Kœnig, le vainqueur de Bir Hakeim, et Philippe Leclerc de Hautecloque, l'archétype du combattant, du héros. Son épopée (et celle de ses troupes) est extraordinaire, un modèle.
 
-La figure du Général Leclerc s'est très vite imposée à moi. Sa légende s'est forgée autour de son épopée depuis les sables du Sahara jusqu'à la cathédrale de Strasbourg, via son fameux **serment de Koufra** :
+Je suis né en 1975, mais j'ai été bercé par l'histoire, notamment au travers du passé de résistant et de combattant de mes grands-parents, et je me souviens de discussions avec mon grand-père paternel, Philippe Rohaut, quand, dans les années 1990 devant lui je lisais l'encyclopédie de la Seconde Guerre Mondiale, et qu'il me commentait certains moments de l'occupation et de la Libération. Moment terribles et sombres, et moments glorieux et lumineux.
 
-**« Jurez de ne déposer les armes que lorsque nos couleurs, nos belles couleurs, flotteront sur la cathédrale de Strasbourg. »**
+La figure du Général Leclerc s'est très vite imposée à moi. Sa légende s'est forgée autour de son épopée depuis les sables du Sahara jusqu'à la cathédrale de Strasbourg, via son fameux **serment de Koufra**.
 
-Serment prononcé le 2 mars 1941, et tenu le 23 novembre 1944.
+Fin avril 2026, mon épouse et moi avons passé quelques jours de détente à Djerba, en Tunisie. Après un premier court voyage en 2025, nous n'avions pas eu la possibilité de visiter le sud et d'aller dans le désert, aussi lorsque l'occasion s'est présentée cette année, nous n'avons pas hésité. L'excursion comportait une halte d'une nuit à l'Oasis de Ksar Ghilane. Ce nom a fait tilt, j'étais certain de l'avoir lu quelque part.
 
-Fin avril 2026, mon épouse et moi avons passé une semaine de détente à Djerba, en Tunisie. Après un premier court voyage en 2025, nous n'avions pas eu la possibilité de visiter le sud et aller dans le désert, aussi lorsque l'occasion s'est présentée cette année, nous n'avons pas hésité. L'excursion comportait une halte d'une nuit à l'Oasis de Ksar Ghilane. Ce nom a fait tilt, j'étais certain de l'avoir lu quelque part.
-
+![moi](/assets/img/2026-05-08/memorial_seb.jpg)
 
 # L'épopée des forces du Général Leclerc
 
-## Philippe de Hautecloque
+## Philippe Leclerc de Hautecloque
 
-Je vais juste faire un rappel biographique rapide de Leclerc. Philippe François Marie de Hautecloque est né le 22 novembre 1902 au chateau de Belloy-Saint-Leonard, dans la Somme, en Picardie. Il est de famille de noblesse chevalresque. Il sort cinquième de Saint-Cyer en 1924, et major de Saumur, en 1925. Capitaine, il est instructeur à l'Ecole Spéciale Militaire. Il se ditingue au Maroc, notamment lors de la guere du Rif. Il sort major de l'Ecole de Guerre en 1939. Longtemps partisan de "L'action Française" (extrème droite, royaliste) il s'en détourne totalement en 1940 estimant que ces mouvement trahissent leurs idéaux et se fourvoient.
+![Le Général Philippe Leclerc de Hautecloque](/assets/img/2026-05-08/general_leclerc.jpg)
 
-Durant la Campagne de France, faisant mouvement vers la Belgique, échappant à l'encerclement, il traverse les lignes allemandes pour tenter d'échapper à la captivité. Capturé et reconnu, il ment et est libéré par l'officier allemand qui se moque de lui. Il rejoint une unité combattant et participe à une contre-offensive en Champagne où il est blessé mais continue le combat, puis est capturé à nouveau.
+Je vais faire un rappel biographique résumé, mais pas rapide, du Général Leclerc. 
 
-Le 17 juin 1940 il s'échappe de l'hôpital d'Avallon, le 21 juin il est à Paris, le 27 il fait faire de faux papiers au nom de Philippe Leclerc. Après un pépriple compliqué où il retrouve sa famille, il tente d'obtenir des Visa pour le Portugal et l'Espagne. Le 13 juillet il se fait arrêter à Port Bou en Espagne (pour un motif futile), et arrive enocre à s'échapper. Le 17 juillet il est à Lisbonne, le 20 il embarque sur le SS Hilary, et le 24 juillet, il est à Londres.
+Philippe François Marie de Hautecloque est né le 22 novembre 1902 au château de Belloy-Saint-Leonard, dans la Somme, en Picardie. Il est de famille de noblesse chevaleresque. Il sort cinquième de **Saint-Cyr** en 1924, et major de Saumur, en 1925. Capitaine, il est instructeur à l'Ecole Spéciale Militaire. Il se distingue au Maroc, notamment lors de la **Guerre du Rif**. Il sort major de l'Ecole de Guerre en 1939. Longtemps partisan de "L'action Française" (extrême droite, royaliste) il s'en détourne totalement en 1940 estimant que ces mouvement trahissent leurs idéaux et se fourvoient.
 
-Le 25 juillet, il se présente au Général de Gaulle sous le pseudonyme de François Leclerc. C'est là que la Légende démarre, événement qui lui a changé sa vie, et celle de la France. De Gaulle le promeut Chef d'Escadron (Commandant), et l'envoie en Afrique Equatoriale Française (AEF) pour la rallier à la France Libre.
+Durant la Campagne de France, faisant mouvement vers la Belgique, échappant à l'encerclement, il traverse les lignes allemandes pour tenter d'échapper à la captivité. Capturé et reconnu, il ment et est libéré par l'officier allemand qui se moque de lui. Il rejoint une unité combattante et participe à une contre-offensive en Champagne où il est blessé mais continue le combat, puis est capturé à nouveau.
 
-Il part le 6 août pour le Cameroun, avec des figures comme René Pleven, André Parant, Claude Hettier de Boislambert, le  commandant Louis Dio, et rallie le Cameroun, le Tchad et le Congo, avec Félix Eboué et le colonel de Larminat.
+Le 17 juin 1940 il s'échappe de l'hôpital d'Avallon, le 21 juin il est à Paris, le 27 il fait faire de faux papiers au nom de Philippe Leclerc. Après un périple compliqué où il retrouve sa famille, il tente d'obtenir des visas pour le Portugal et l'Espagne. Le 13 juillet il se fait arrêter à Portbou en Espagne et arrive encore à s'échapper. Le 17 juillet il est à Lisbonne, le 20 il embarque sur le **SS Hilary**, et le 24 juillet, il est à Londres.
 
-Le culot: estimant son grade insuffisant, il arrache ses quatre galons de sa manche gauche et en recoud cinq sur sa manche droite, pour devenir Colonel ! Ceci afin de donner le change face au commandant des troupes de Douala. Nommé Commissaire Général du Cameroun le 28 août , toute l'AEF sauf le Gabon, s'est ralliée à De Gaulle. Le Gabon se ralliera au FFL (Forces Françaises Libres) le 10 novembre 1940.
+Le 25 juillet, il se présente au **Général de Gaulle** sous le pseudonyme de François Leclerc. Cet événement va changer sa vie et le destin de la France. De Gaulle le promeut Chef d'Escadron (Commandant), et l'envoie en Afrique Equatoriale Française (AEF) pour la rallier à la France Libre.
 
-De Gaulle confirmera Leclerc comme Colonel (grade attribué "comme par enchantement" !). 
+Il part le 6 août pour le **Cameroun**, avec des figures comme René Pleven, André Parant, Claude Hettier de Boislambert, le  commandant Louis Dio, et rallie le Cameroun, le **Tchad** et le **Congo**, avec Félix Eboué et le colonel de Larminat.
 
-De ses bases africaines, la colonne Leclerc va alors rayonner et effectuer des raids de plusieurs milliers de kilomètres au milieu du désert, vers des places fortes tenues par les italiens
+**Le culot** : estimant son grade insuffisant, il arrache ses quatre galons de sa manche gauche et en recoud cinq sur sa manche droite, pour devenir Colonel ! Ceci afin de donner le change face au commandant des troupes de Douala. Nommé Commissaire Général du Cameroun le 28 août , toute l'AEF sauf le Gabon, s'est ralliée à De Gaulle. Le Gabon se ralliera au FFL (Forces Françaises Libres) le 10 novembre 1940.
+
+De Gaulle confirmera Leclerc comme Colonel (grade attribué « comme par enchantement » !). 
+
+De ses bases africaines, la colonne Leclerc va alors rayonner et effectuer **des raids de plusieurs milliers de kilomètres** au milieu du désert, vers des places fortes tenues par les italiens.
+
+![Le parcours de Leclerc en Afrique](/assets/img/2026-05-08/carte_afrique.jpg)
+
+*Le parcours de Leclerc en Afrique*
 
 ## Koufra, le serment
 
-Koufra, c'est le culot, l'audace et la victoire qui vont installer la Légende du Général Leclerc.
+Koufra, c'est le culot, l'audace et la victoire qui vont installer la Légende du Général Leclerc et de ses troupes.
 
-## Les « quick wins »
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10326450.418695765!2d12.60948695925439!3d26.37738269383718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x140867212820b403%3A0x887743edb9fddbc6!2sAl%20Kufrah%2C%20Libye!5e1!3m2!1sfr!2sfr!4v1778229456091!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Certains éléments d'un programme peuvent parfois être réalisés rapidement. Dans mon métier, on appelle ça des « **Quick wins** » , ou « victoires rapides ». Ils vont apporter une satisfaction rapide à la population. Ils permettent de démontrer que la majorité « agit », car ils sont très visibles.
+**Koufra** se situe en **Cyrénaïque**, en plein désert, dans la région Est de la **Libye**, autrefois colonie italienne. Venant du **Tchad**, la colonne Leclerc, constituée de **350 hommes**, de **56 véhicules** mal adaptés au désert (certains parcourront plus de un million de kilomètres durant tout la Campagne d'Afrique - Fezzan, Cyrénaïque, Tunisie), et avec un appui du **Long Range Desert Group** des Britanniques, décide de s'emparer de Koufra, et notamment du **Fort d'El-Tag**, tenu par des compagnies Italiennes.
 
-Des chantiers et projets réussis en cours ou en fin de mandat sont des arguments de campagne : la mairie tient ses promesses. Et ils sont généralement plus visibles en fin de mandat.
+La bataille s'étend du 31 janvier au 2 mars 1941. Leclerc espérait un effet de surprise, mais les britanniques se font repérer le 31 janvier et ils se font refouler par des italiens bien armés et soutenus par leur aviation. 
 
-Comme le dit France Info (lien en fin d'article) :
+Le 5 février, Leclerc fait bombarder l'Oasis de Koufra, sans succès.
 
-*Peut-être qu'il y a un peu d'opportunisme, ça, c'est possible, mais je n'ai pas l'impression que ce soit quelque chose qui ne soit pas planifié en avance, de toute façon, c'est quelque chose qui a été annoncé.*
+Le 7 février, une patrouille de reconnaissance effectue un raid vers Koufra sans rencontrer de réaction italienne, puis Leclerc effectue un raid contre l'aérodrome italien, détruisant les avions sur place.
 
-## Le temps long, cycle de vie des projets
+Le 18 février, le combat frontal s'engage contre les italiens de la **Saharia du Cufra**, à la forte puissance de feu. Leclerc encercle les italiens, les forçant à se retirer. Le 19, les italiens, soutenus par leur aviation, attaquent les français autour du fort d'El-Tag. Mais les français harcèlent les italiens notamment par des charges à la baïonnette, les obligeant à se retirer. Ils seront poursuivis jusqu'à 150 kilomètres dans le désert, par **Pierre de Hautecloque**, cousin de Leclerc.
 
-Et puis, il y a des choses qui vont prendre beaucoup plus de temps : tout un mandat, voire même beaucoup plus : des aménagements lourds, de nouvelles constructions comme des équipements sportifs, des nouvelles voiries. La Municipalité peut voir loin : sur **dix ans, quinze ans, vingt ans** !
+Leclerc va assiéger le fort d'El-Tag. Celui-ci est bien défendu et puissamment armé. Leclerc va alors montrer ses talent de stratèges. Sa colonne ne dispose que d'un seul canon de 75 mm, et de mortiers de 81 mm. Le canon tirera au maximum 30 obus par jour, mais Leclerc le fait constamment déplacer et tirer sur des objectifs différents, de jour comme de nuit, faisant croire aux italiens qu'il y en a plusieurs. Dans le même temps, les français harcèlent les italiens par des escarmouches, de fausses attaques. Les italiens ripostent inutilement et fatiguent, pensant avoir affaire à un grand nombre de combattants. Leclerc, en faisant rouler ses camions, fait croire à un ravitaillement permanent et l'arrivée de renforts, démoralisant les italiens.
 
-![La cocott'arium](/assets/img/2026-02-20/cocotarium%20(Petit).jpg)
+**L'audace, le culot, le bluff.**
 
-*Le cocott'arium pour le bonheur des enfants et des parents*
+Les italiens surestiment les forces en présence et demandent à parlementer le 28 février, ce que Leclerc refuse. Le 1er mars, les italiens sortent du fort et demandent aux français leurs conditions pour une capitulation dans l'honneur. Leclerc fait trainer les négociations, puis ordonne aux italiens de rentrer dans leur fort, tout en s'invitant avec deux officiers. Coup de bluff. Arrivé sur place, Leclerc impose ses conditions, les italiens capitulent, pourtant en supériorité.
 
-Le calendrier des travaux explique beaucoup cette impression d'aboutissement des projets en fin de mandat. Un projet public suit souvent ce rythme :
+**C'est la première victoire de la France depuis la capitulation de 1940.**
 
-1. <ins>**Année 1–2**</ins> : études, concertation, budgets
-2. <ins>**Année 2–4**</ins> : appels d’offres et procédures administratives
-3. <ins>**Année 4–6**</ins> : réalisation
+Le 2 mars, Leclerc fait jurer ses troupes : 
 
-<ins>**Résultat**</ins> : beaucoup de projets lancés en début de mandat arrivent en phase de chantier en fin de mandature.
+**« Jurez de ne déposer les armes que lorsque nos couleurs, nos belles couleurs, flotteront sur la cathédrale de Strasbourg. »**
 
-# Le déroulement de projets emblématiques
+Il sera tenu.
 
-Dans la ville où je vis, **Deuil-La Barre**, il y a par exemple un projet qui existe depuis tellement longtemps qu’on ne sait plus exactement quand. Depuis l’arrivée du train, peut-être. Depuis les années 1980, chacun tente **la fermeture d’un passage à niveau, le PN4**, le plus dangereux d’Ile-de-France. Très mal placé, trop fréquenté. Il m’impacte directement puisque c’est là où je prends le train pour aller travailler, et l’important flux de voiture passe devant chez moi. Toutes les Municipalités s’y sont cassées les dents. Je me rappelle une réunion publique de M. Noyer, ancien maire de la ville, où son projet quasiment abouti est tombé à l’eau et a été annulé en plein meeting. L’équipe municipale actuelle a repris de zéro le dossier en **2014** et a mis **douze ans**, pour le faire aboutir. Il sera fermé en fin d’année (article écrit en 2026). Il est même possible, en fonction des résultats du 15 mars, que l’équipe actuelle n’assiste pas à la fin de son propre projet.
+En août 1941, Leclerc et nommé Général de Brigade (deux étoiles). Il trouve cette nomination prématurée et refuse de porter ses galons et son képi. Il l'acceptera seulement après que ses hommes lui offriront un képi dont les étoiles ont été brodées à la main.
 
-![Deviation PN4](/assets/img/2026-02-20/fermeture_pn4%20(Petit).jpg)
+## Le Fezzan et la Tunisie
 
-*Déviation du passage à niveau, il a fallu plus de douze ans*
+![Campagne de Tunisie](/assets/img/2026-05-08/Campagne_tunisie-1942_1943.jpg)
 
-Un second exemple, c’est la **Coulée Verte**. C’est un projet très ancien, imaginé dans son principe par M. Alain Chabanel et Mme Scolan (aujour'hui maire) avant 2014. Considéré comme un projet négligeable par le maire précédent, il est devenu une réalisation majeure très appréciée par les habitants. Il concerne trois communes : Deuil-La Barre, Montmorency et Epinay sur Seine. C'est une voie de circulation douce (piétons, vélos) et naturelle qui s’étendra de la Seine à la forêt de Montmorency. Ici, deux tronçons ont déjà été réalisées, traversant la ville du nord au sud. Le premier, durant le premier Mandat de Mme Scolan. Le second, durant le second mandat. Un troisième, en cours, va ouvrir au printemps. C’est vraiment une belle idée, bien réalisée. Là encore, ça s’est étalé sur des années, alors qu’on se dit que ça pourrait être rapide, à tort : sans même parler des études nécessaires, il a fallu acheter des terrains privés (et retrouver les propriétaires ou leurs descendants) pour y faire passer les nouvelles voies, calculer les budgets, etc. C’est long, et pourtant, **c’est là**. Et c’est loin d’être fini, puisqu’il va falloir continuer à racheter des terrains, se concerter avec les autres communes, etc.
+*Campagne de Tunisie - Via Wikipedia - Domaine Publique*
 
-![La coulee verte](/assets/img/2026-02-20/coulee_verte%20(Petit).jpg)
+De février 1942 à mai 1943, Leclerc mène sa campagne au **Fezzan**. En novembre, De Gaulle ordonne à Leclerc de conquérir le Fezzan jusqu'à Tripoli. Le Fezzan est une région désertique située au sud de la Lybie. Le 16 décembre, Leclerc démarre sa campagne, avec 4000 Africains et 600 Européens, appuyé par l'aviation. De nombreux raids et batailles sont engagés : Sebha, Mourzouk, Ghadamès, ... Il participe ensuite, remontant vers le nord, à la **campagne du Tunisie**, avec la 8ème armée britannique, contre l'**Afrikakorps** de **Rommel** : Ksar Ghilane, Gabès, Kairouan, défilé de la victoire à Tunis le 20 avril 1943.
 
-*La coulée verte est appréciée des habitants*
+Dès lors, Leclerc se consacre à la renaissance de l'Armée Française.
 
-Un dernier exemple m'a été rappelé par des habitants du sud de la ville alors que je baladais en ville en prenant les photos pour cet article : le **bassin de stockage d'eau pluviales** de la SIARE, rue Jean Bouin. Des centaines d'habitants subissaient des inondations lors des fortes pluies, et un bassin de 15000 m3 a été construit. Le projet a débuté en 2020 et sa construction a duré 2 ans, de 2021 à 2023. C'est **une cathédrale** de béton enterrée, nécessitant une **ingénierie titanesque**. Pour la joie retrouvée des habitants..
+## Libération de la France, de Paris
 
-# Des contraintes et de la transparence
+![Libération de la France](/assets/img/2026-05-08/leclerc_france.jpg)
 
-Une politique de la ville, les projets, **ça se construit sur des années, avec des contraintes importantes** : études de faisabilité, financements, subventions, achat des terrains, contrats avec les entreprises, etc. Comment savoir quand ces projets ont été commencés, et connaître les différentes étapes ? En allant voir les compte-rendus des conseils municipaux : tout y est discuté, et voté. Ainsi, **tout le monde est au courant, y compris les conseillers municipaux de l’opposition, qui siègent d’ailleurs dans diverses commissions**. On y retrouve par exemple les achats des parcelles (terrains, foncier, immobilier) lorsqu’il s’agit de construire un parc, une voirie, etc., ou les commandes d’études pour certaines réalisations auprès d’entreprises spécialisées, puis des appels d’offres auprès d’entreprises pour la réalisation, etc. Et ainsi, on peut prendre la mesure du travail et du temps qui passe, sur la durée d’un mandat. C’est long, bien plus que pour un particulier, car il y a de nombreuses règles supplémentaires à respecter.
+*Le parcours de Leclerc en France*
 
-![Politique de la ville](/assets/img/2026-02-20/commerces_centre_ville%20(Petit).jpg)
+Nommé Général de Division (trois étoiles) le 23 mai 1943, sa **Force L** devient la 2ème Division Française Libre le 30 mai, renommée **2ème Division Blindée** le 24 août 1943. Rejointe par des évadées et des anciennes troupes vichistes, elle se réorganise sur un modèle américain et stationne au Maroc jusqu'en avril 1944. Leclerc reçoit un régiment de chars tant réclamé.
 
-*La politique de la ville, c'est aussi redynamiser un quartier par les commerces*
+![Insigne 2eme DB](/assets/img/2026-05-08/2eDB-insigne.jpg)
 
-Ma ville a eu des **contraintes additionnelles fortes** qui ont impacté la réalisation de certains projets, comme le malheur des emprunts toxiques avec une **situation financière** très compliquée en 2014 et sur le premier mandat. Il a fallu trouver des solutions, faire des économies, et ça a malheureusement ralenti plusieurs réalisations, qui n’ont pu avoir eu lieu sur le premier mandat de Mme Scolan. Bien heureusement, **la situation est maintenant saine**, et nous constatons tous que les investissements vont bon train.
+*Insigne de la 2ème DB*
 
-# Des projets aux cycles plus court 
+Le 10 avril 1944, La 2ème DB embarque pour l'Angleterre et est affectée à la 3ème Armée américaine du **Général Patton**, sous commandement américain.
 
-Il y a aussi des projets sur un temps plus court, réalisés plus vite. Il existe par exemple un budget participatif, voté tous les ans, et des habitants peuvent venir proposer des idées, leur projet, qui pourra être, ou non, accepté, puis réalisé. Ou des **concertations** avec les habitants de certains quartiers. Par exemple, il y a un nouveau parc au Lac Marchais : concerté avec les habitants du quartier, voté en budget l’année dernière, il a pu être réalisé assez rapidement. Ou encore, l’entente avec une association sur la mise en valeur de la Côte de Deuil, poumon vert de ma ville. Là encore, tout est **transparent**, via le Conseil Municipal.
+Leclerc débarque le 1er août 1944 dans la Manche, puis fait route vers Argentan et Alençon, en ayant prêté main forte à la fermeture de la poche de Falaise. La « **Division Croix de Lorraine** », comme on l'appelle, joue régulièrement le rôle de fer de lance de la 3ème Armée. Butant sur Argentan, Leclerc souhaite quitter le théâtre des opérations pour se concentrer sur la **Libération de Paris**.
 
-![Côte de Deuil](/assets/img/2026-02-20/cote-de-deuil%20(Petit).jpg)
+Alors que les alliés font la sourde oreille aux demandes répétées de De Gaulle aux américains de libérer **Paris**, celui-ci force le destin et ordonne le 22 août à Leclerc de marcher sur la capitale, en insurrection depuis le 19 août. Mis au pied du mur, le généraux **Bradley** et **Eisenhower** donneront finalement leur accord. Une attaque audacieuse libère Paris les journées des **24 et 25 août 1944** (via La N10 et la N20), et Leclerc reçoit la reddition du Général allemand **Von Choltitz**. Leclerc et De Gaulle descendent les **Champs-Elysées** le 26 août.
 
-*Un de mes endroits préférés, la partie sauvage de la ville*
+## Strasbourg et l'Allemagne
 
-Une habitante de l'avenue Baudoin (sud de la ville, donnant sur la départementale D928) m'a expliqué que les riverains subissaient des **nuisances liées au stationnement anarchique**. Ils ont contacté l'APECD (Association de Protection de l'Environnement et Cadre de Vie) de la ville, qui a organisé des rendez-vous avec l'adjointe concernée, Mme Bringer, et la Police Municipale. Ce travail a permis la matérialisation des places, la mise en place d'une signalétique claire, une surveillance et une constatation des infractions. Tout ceci dans un temps court de quelques mois en premier trimestre 2023. Il ne faut pas hésiter à contacter les services de la mairie lorsqu'on constate un souci !
+Leclerc et la 2ème DB partent de Paris le 8 septembre vers l'est, où il écrase la **112ème Panzer Brigade du général Von Manteuffel**, à **Dompaire**, le 13 septembre. Apprenant de nombreuses exactions allemandes et une possibilité de déportation de la population, il pose un ultimatum aux forces présentes à Baccarat et Raon-l'Etape. Le général Allemand Feuchtinger plie et quitte **Baccarat**, qui est libérée le 31 octobre.
 
-![Odyssee](/assets/img/2026-02-20/odyssee%20(Petit).jpg)
+De là, Leclerc fonce sur **Strasbourg**, traverse les Vosges et libère Strasbourg le 23 novembre. Lors d'une prise d'armes, Leclerc rappelle que **le serment de Koufra a été tenu**.
 
-*L'odyssée, un investissement pour l'avenir des jeunes*
+La 2ème DB restant bloquée en Alsace, en position défensive, Leclerc travaille à la réduction de la **poche de Colmar** et celle de Royan. Leclerc trépigne, souhaitant traverser le Rhin.
 
-# L’envie de voir ses projets aboutir
+Il est nommé Général de Corps d'Armée (4 étoiles).
 
-Si une idée présentée dans un programme s’étale sur plus de six ans, il existe une probabilité non négligeable qu’elle ne voit jamais le jour, ou ne soit jamais terminée si, lors de l’élection suivante, cette même idée n’est plus portée par la nouvelle liste élue. On essaie de le faire lors du mandat, ou il y a un risque : par exemple, il y a l’idée de créer une nouvelle voirie une fois le passage à niveau fermé, pour rejoindre la D928 : le barreau, créant une troisième liaison routière nord-sud. Pas sûr que ça se fasse si on change de majorité.
+En mai 1945, De Gaulle souhaite un coup d'éclat et Leclerc est autorisé à pénétrer en Allemagne. Il découvre, horrifié, les camps de concentration et les soldats portent secours aux français rescapés de **Dachau**. La 2ème DB fonce ensuite vers le **Nid d'Aigle de Hitler à Bertchtesgaden**, pris dans la nuit du 4 au 5 mai 1945.
 
-Comme le dit l'article de **Le Monde** dont le lien se situe en bas de ce texte:
+## L'Extrême-Orient
 
-*La principale explication de ce rebond de la commande publique des collectivités est liée au « cycle électoral » ; une reprise des dépenses d’investissement en fin de mandat liée à la volonté d’achever les programmes engagés par les élus à leur arrivée.*
+En juin 1945 Leclerc quitte sa Division et rejoint le **Corps expéditionnaire français en Extrême-Orient** afin de reprendre l'**Indochine** aux Japonais qui l'occupent depuis 1940. Mais ceux-ci capitulent en août, et plusieurs mouvements indépendantistes prennent le pouvoir, alors que de nombreux français restent prisonniers de japonais. Leclerc est empêché de pénétrer en Indochine par les anglais et les chinois, suite aux **accords de Potsdam**. Leclerc reste bloqué à Ceylan.
 
+Le 2 septembre 1945, Leclerc, à bord du cuirassé américain **USS Missouri**, signe l'acte de capitulation du Japon au nom de la France, en rade de Tokyo. Il sera présent à l'acte de reddition à **Singapour** le 12 septembre.
 
-On peut comprendre que beaucoup de projets annoncés et démarrés en début de mandat, n’aboutissent qu’à sa fin, donnant l’impression d’une accélération en vue des prochaines élections. **C’est l’aboutissement d’un processus souvent long s’étalant sur de nombreuses années, ou l’accélération de celui-ci pour le faire tenir dans la durée du mandat.**
+Il peut enfin débarquer en Indochine le 5 octobre et commence la reconquête et le désarmement des troupes japonaises. Or les japonais ont détruit l'ensemble de l'administration coloniale, et le territoire est en plein chaos, laissant le champ libre aux indépendantistes vietnamiens, cambodgiens et laotiens. **Hô Chi Minh**, communiste, a déclaré l'indépendance du **Viêt Nam** le 2 septembre 1945.
 
-# Perception versus vraie liste des projets 
+Si le **Cambodge** ne pose pas de problème, la situation au Viêt Nam est compliquée, bien que Leclerc arrive à rétablir la souveraineté de la France avec les **accords Hô-Sainteny**, en lançant un processus de négociations avec les indépendantistes communistes. Leclerc rentre dans Hanoï le 18 mars 1946, il y rencontre Hô Chi Minh le 26. Les deux hommes s'apprécient, le tout sous de bons hospices. Enfin, en mai 1946, Leclerc reprend le contrôle du **Laos**, finalisant le contrôle de toute l'Indochine.
 
-Il y eu quelques débats sur Facebook, et un administrateur de groupe a posté toutes les réalisations et inaugurations sur les dernières années à Deuil-la-Barre, elles s‘étalent dans le temps :
+## Afrique du Nord et décès
 
-![Le post en question](/assets/img/2026-02-20/post_fb%20(Petit).jpg)
+Le 12 juillet 1946 Leclerc est promu Général d'Armée (5 étoiles) et devient inspecteur des forces terrestres en Afrique du Nord. 
 
-*Une liste probablement incomplète des projets qui ont aboutis*
+Le **28 novembre 1947**, Leclerc est en chemin pour une inspection. Son avion, un B-25 Mitchell, est pris dans une tempête de sable. Le pilote vole bas afin de trouver un repère au sol, et percute un remblai de la voie ferrée près de **Colomb-Béchar**. Les douze occupants sont tués sur le coup. Un monument Leclerc y sera édifié en 1948. Ce décès a provoqué de nombreuses controverses, avec notamment l'idée d'un complot, d'un attentat des britanniques pour éliminer Leclerc afin de mettre la main sur le pétrole dans le Fezzan. 
 
-Pourtant, notre perception amplifie le phénomène, l'impression que tout arrive juste avant les élections :
+Plus prosaïquement, l'avion volait trop bas et était déséquilibré par une modification à l'arrière (ajout d'une couchette). L'avion a simplement décroché. Leclerc était un casse-coup et coutumier des incidents voire accidents d'avions. Leclerc avait ordonné le décollage malgré le mauvais temps...
 
-* Les chantiers sont plus visibles que les études ou décisions.
-* On remarque davantage les travaux quand ils deviennent nombreux.
-* On les associe spontanément à la politique.
+Le décès de Philippe Leclerc de Hautecloque est un **drame national**, un choc pour la France et les Français. Il était celui qui avait relevé l'honneur militaire de la France après l'affront de la défaite de 1940. Après des obsèques nationales, il est inhumé dans la crypte des Invalides, le 8 décembre 1947.
 
-Et donc, notre perception peut aussi être biaisée :
+Il avait 45 ans.
 
-* Il y a évidemment une part de **stratégie politique**,
-* mais il y a surtout un **effet mécanique du cycle des projets** publics.
+Le 27 juin 1952, il est élevé à la dignité de **Maréchal de France** (7 étoiles).
 
-# Demain on rase gratis
+## Note de l'auteur
 
-(Il est facile de faire des promesses, et il ne faut pas les croire aveuglément.)
+On connait la suite de l'histoire en Indochine et en Algérie. Leclerc était apprécié et avait de bonnes relations avec Hô Chi Minh. On aurait pu imaginer un dénouement bien plus heureux, notamment en Indochine si la politique de la 4ème République n'avait pas été si désastreuse, si Leclerc n'était pas décédé... *Avec des Si, on mettrait Paris en bouteille*...
 
-Méfiez-vous de ceux qui vous promettent de grandes réalisations dans un temps très court : c’est impossible, techniquement, financièrement. Méfiez-vous aussi de ceux qui vous promettent des choses merveilleuses, même s’il semble s’agir de bonnes idées, très consensuelles. Gratuité de la cantine pour tous ? Belle idée, je suis d’accord, et si c’est possible, pourquoi pas. Mais si on donne d’un côté, on prend de l’autre : autres projets en moins, augmentation des impôts, endettement de la ville ? J’aime cette expression « **Déshabiller Pierre pour habiller Paul** » (l’histoire de cette expression est ancienne et intéressante). Bref, ça se réfléchit, sur un temps long, ça se calcule, et on voit si c’est faisable, ou pas.
+# Focus sur Ksar Ghilane
 
-Je préfère un programme pragmatique et réalisable porté par des gens qui connaissent leur travail à un autre qui vend du rêve tout en se demandant comme ça sera possible.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3364838.101379316!2d8.626869123991337!3d34.34256954845009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12546bdf923ed0a9%3A0x40f9572447c428ae!2sKsar%20Ghilane%2C%20Tunisie!5e1!3m2!1sfr!2sfr!4v1778255379393!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Et puis, si tout est réalisé sur deux ans, et tout les sous dépensés, on fait quoi les quatre ans suivants ? Petite boutade, évidemment.
+## L'oasis aux portes du Sahara
 
-![Les équipements sportifs](/assets/img/2026-02-20/victor_labarriere%20(Petit).jpg)
+Ksar Ghilane est un oasis situé au sud de la Tunisie, à la limite est du **Grand Erg Oriental**. 
 
-*Sport pour tous dans le parc Victor Labarrière*
+![Oasis de Ksar Ghilane](/assets/img/2026-05-08/oasis_ksar_ghilane.jpg)
+
+*Les sources de l'oasis de Ksar Ghilane, lieu de détente*
+
+Le Grand Erg Oriental est un **erg**, un vaste désert de sable et de dunes, situé à cheval sur l'Algérie à l'ouest et la Tunisie à l'est. Il a une taille de 185000 kms². 
+
+![Le Grand Erg Oriental](/assets/img/2026-05-08/sahara_grand_erg_ksar_ghilane.jpg)
+
+*Depuis Ksar Ghilane, vue sur le Grand Erg Oriental. Le Sahara tel qu'on l'imagine*
+
+Pour les touristes, c'est un endroit privilégié : accessible en 4x4 via route en Tunisie, c'est la porte d'entrée vers le désert saharien tel qu'on l'imagine : dunes de sable à perte de vue, un sable poudreux, des paysages magnifiques, des promenades en dromadaire, en quad, en 4x4, la nuit sous tente ou bivouac. Le tout près d'un Oasis, avec ses palmiers, et ses bains d'eau chaude soufrée ! Tout en partageant un repas local : du dromadaire (ils sont élevés pour la consommation, ça ressemble à du bœuf et ça en a le goût).
+
+## Le monument 
+
+Mon épouse et moi y avons séjourné du 29 au 30 avril 2026. C'est le dépaysement garanti. Mais, comme je l'ai indiqué, ce nom résonnait dans ma tête, à un détail près. J'avais lu plusieurs livres sur le Maréchal Leclerc, et je me rappelais vaguement d'un lieu, mais l'orthographe différait : **Ksar Rhilane**. Serait-ce le même ? Mais oui ! Je ne sais pas pourquoi le nom a changé. Mais il s'agit bien de Ksar Ghilane : un mémorial au Général Leclerc et à la Force L s'y trouve. J'étais excité à l'idée d'y aller !
+
+![Mémorial Force L Ksar Ghilane](/assets/img/2026-05-08/memorial_ksar_ghilane.jpg)
+
+*Le mémorial de la Force L à Ksar Ghilane*
+
+En arrivant sur place, je vois le monument à deux cent mètres de la route principale ! Mais celui-ci n'était pas au programme, et notre chauffeur passe au large sans s'arrêter. Le séjour se passe (c'est un très bon souvenir). Le lendemain, au départ, je prends à part notre chauffeur, après avoir demandé leur autorisation aux autres occupants du 4x4, et je lui demande s'il peut faire une pause devant le mémorial, je lui montre une photo. « *Ça reste entre nous* » me répond-il !
+
+Farès nous arrête quelques minutes devant le mémorial. Je suis ému, je me recueille. C'est un lieu chargé d'histoire. Et je prends des photos, que je partage. Mes compagnons de voyage sont ravis. Farès ne connaissait pas, ne savait pas ce qui s'était passé ici. Je lui ai raconté. 
+
+**Farès, encore merci**. Tu ne pouvais pas me faire plus beau cadeau.
+
+## La bataille de Ksar Ghilane
+
+![Leclerc la veille de la bataille](/assets/img/2026-05-08/leclerc_veille_ksar_ghilane.jpg)
+
+*Le Général Leclerc la veille de la bataille*
+
+**La bataille de Ksar Ghilane** est une bataille défensive, la première où les forces du Général Leclerc combattent frontalement contre les forces allemandes, celles de l'**Afrikakorps**. La bataille se déroule du 23 février au 10 mars 1943. Elle est remporté par le Général Leclerc et ses hommes. L'inscription sur la plaque commémorative du mémorial :
+
+« _**Ici, du 23 février au 10 mars 1943, le Général Leclerc et la Force L, venus du Tchad, ont soutenu victorieusement l'assaut des forces ennemies, leur infligeant des pertes sévères**_ »
+
+![plaque commémorative](/assets/img/2026-05-08/plaque_memorial.jpg)
+
+Mais que s'est-il passé ?
+
+## La ligne Mareth
+
+La **ligne Mareth** est une ligne de défense mise en place par les français entre 1936 et 1940, s'étendant de la ville côtière tunisienne de Mareth jusqu'aux mont Matmata, sur 45 kilomètres. Elle est fortement militarisée : casemates, postes de commandement, infanterie. Elle a été construite pour défendre la Tunisie contre les italiens depuis la Libye, qui était une de leurs colonies. C'est, en gros, une **ligne Maginot du désert**.
+
+Suite à la défaite française de 1940, la ligne est démilitarisée par les allemands et les italiens. Or, étrange destin, suite à la défaite germano-italienne lors de la **seconde bataille d'El Alamein** (en Egypte) en novembre 1942, l'Afrikakorps du **Général Rommel** réarme les ouvrages pour retarder l'avance de la 8ème Armée Britannique du **Général Montgomery**. En mars 1943, celui-ci souhaite prendre la ligne, en venant du centre et du sud-ouest de la Tunisie. Pour ça, une grande concentration de troupes est nécessaire.
+
+## Le système défensif
+
+Afin de prévenir la découverte du regroupement des troupes Néo-Zélandaises en vue de cette attaque, il faut bloquer la remontée de l'Afrikakorps qui se dirige vers Ksar Ghilane. Le Général Montgomery demande aux français de la Force L de Leclerc de tenir la position. Or les allemands disposent de nombreux Panzers et envoient des éléments des 15èmes et 21èmes Panzerdivisions en soutien de la 90ème Panzer Granadier Division, face à Leclerc retranché, camouflé, mais disposant d'un soutien aérien de la Royal Air Force.
+
+## La bataille
+
+La 23 février, les français arrivent à Ksar Ghilane, occupé par les allemands, qui se replient après un premier combat. Comme il l'a si souvent fait, Leclerc adopte une stratégie de patrouilles, d'avant postes, de recherche, et de camouflage, formant une position solide associée à une excellente reconnaissance du terrain. 
+
+Le 9 mars, le Général Montgomery apprend à Leclerc que la **90ème Panzer Grenadier Division** allemande attaquera le lendemain. Une force redoutable, les troupes françaises en faible effectif et mal équipées à cette époque ne pourraient tenir. Montgomery propose à Leclerc d'abandonner ses positions. Leclerc, sûr de son organisation et de ses positions, refuse : la position est bonne et peut être défendue.
+
+![bataille de Ksar Ghilane](https://www.2edb-leclerc.fr/wp-content/uploads/2023/02/Bataille-de-Ksar-Rhilane.jpg)
+
+*La bataille de Ksar Ghilane - Depuis https://www.2edb-leclerc.fr/*
+
+Le 10 mars, c'est le choc avec les allemands. Le Général Montgomery ne pensait pas que Leclerc pouvait tenir. Il dira, à midi « _**Ca doit chauffer à Ksar Ghilane. Ce brave Leclerc, il était bien sympathique... Mais maintenant c'est fini, nous ne le reverrons plus !**_ ». Pourtant, la Force L va repousser trois attaques des Panzers, résister aux assauts des chasseurs et bombardiers allemands, qui tomberont dans les griffes de la Royal Air Force. A 18 heures, les allemands se replient et font retraite après avoir perdu 60 véhicules, 10 canons, sans avoir jamais pu pénétrer aucune position française.
+
+C'est la victoire.
+
+Montgomery, pourtant connu pour son flegme, n'en revient pas et envoie un télégramme de félicitations trahissant sa marque suprême de satisfaction : « _**Well done !**_ ».
+
+Voici l'ordre du jour adressé par le Général Leclerc à ses troupes :
+
+« _**Les boches voulaient prendre Ksar-Rhilane. Ils ont attaqué avec environ cinquante engins blindés. Les troupes du Tchad, aidées de leurs camarades britanniques et grecs, leur ont infligé un échec certain et fait subir des pertes sérieuses. Le premier contact avec le boche a été une victoire, les autres le seront aussi ! Vive le général de Gaulle! Vive la France !**_ »
+
+![livre source extraordinaire](/assets/img/2026-05-08/super_livre.jpg)
+
+*Pages du livre « Le Général Leclerc vu par ses compagnons de combat, une livre magnifique*
+
+Leclerc participera à la prise de la ligne Mareth, non sans difficulté. Elle tombera le 26 mars sous les coups d'un gigantesque assaut allié lancé le 18 mars.
+
+# Deuil-La-Barre
+
+17 mois plus tard, la 2ème DB aidée de la Résistance, libérait Deuil-La-Barre. Un mémorial se dresse devant la mairie. Mais c'est une autre histoire, que je raconterai un autre jour.
+
+![Leclerc à Deuil](/assets/img/2026-05-08/memorial_leclerc_deuil.jpg)
 
 # Quelque sources
 
-J'aurais bien dit "faites vos propres recherches", mais ça ferait complotiste. Voici quelques sources simples et relativement neutres :
+J'ai eu la chance, il y a une vingtaine d'années, d'acheter à un bouquiniste un magnifique livre sur le Général Leclerc, raconté par ses hommes, avec un nombre incroyable de détails, d'anecdotes, de photos et de cartes d'opérations.
 
-[Le Monde](https://www.lemonde.fr/les-decodeurs/article/2019/11/25/y-a-t-il-vraiment-une-hausse-des-travaux-avant-les-elections-municipales_6020465_4355770.html)
-
-[France Info](https://www.franceinfo.fr/elections/municipales/municipales-des-elus-accuses-d-accelerer-des-travaux-pour-embellir-leur-bilan_7681414.html)
-
-[Le bassin de stockage SIARE](https://siare95.fr/siare-vous-informe/actualites/creation-dun-bassin-de-stockage-deaux-pluviales-a-deuil-la-barre-2.html#:~:text=Deuil%2DLa%20Barre-,Cr%C3%A9ation%20d'un%20bassin%20de%20stockage%20d'eaux,pluviales%20%C3%A0%20Deuil%2DLa%20Barre&text=Pour%20faire%20face%20au%20risque,2021%20et%20dureront%2019%20mois.)
-
-[Val d'Oise, le passage à niveau](https://www.valdoise.fr/actualite/2313/175-deuil-et-montmagny-les-travaux-de-suppression-du-passage-a-niveau-sont-lances.htm)
-
-[Le Parisien, coulée verte](https://actu.fr/ile-de-france/deuil-la-barre_95197/dans-cette-ville-du-val-doise-on-construit-le-poumon-vert-de-la-commune_60737260.html)
-
-[Le cocott'arium, Journal de François](https://www.journaldefrancois.fr/cocott-arium-deuil-la-barre-poulailler-urbain-participatif-aurelie-deroo.htm)
-
-[Les sentiers de la Côte de Deuil](https://sentiers.site/)
-
+- Le Général Leclerc vu par ses compagnons de combat, Editions Alsatia, Paris, 1948
+- Leclerc, Chroniques de l'histoire, 1997
+- [Wikipedia, la bataille de Ksar Ghilane](https://fr.wikipedia.org/wiki/Bataille_de_Ksar_Ghilane)
+- [Wikipedia, la ligne Mareth](https://fr.wikipedia.org/wiki/Ligne_Mareth)
+- [Wikipedia, la campagne de Tunisie](https://fr.wikipedia.org/wiki/Campagne_de_Tunisie)
+- [Wikipedia, Philippe Leclerc de Hautecloque](https://fr.wikipedia.org/wiki/Philippe_Leclerc_de_Hauteclocque)
