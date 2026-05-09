@@ -62,7 +62,7 @@ Durant la Campagne de France, faisant mouvement vers la Belgique, échappant à 
 
 Le 17 juin 1940 il s'échappe de l'hôpital d'Avallon, le 21 juin il est à Paris, le 27 il fait faire de faux papiers au nom de Philippe Leclerc. Après un périple compliqué où il retrouve sa famille, il tente d'obtenir des visas pour le Portugal et l'Espagne. Le 13 juillet il se fait arrêter à Portbou en Espagne et arrive encore à s'échapper. Le 17 juillet il est à Lisbonne, le 20 il embarque sur le **SS Hilary**, et le 24 juillet, il est à Londres.
 
-Le 25 juillet, il se présente au **Général de Gaulle** sous le pseudonyme de François Leclerc. Cet événement va changer sa vie et le destin de la France. De Gaulle le promeut Chef d'Escadron (Commandant), et l'envoie en Afrique Equatoriale Française (AEF) pour la rallier à la France Libre.
+Le 25 juillet, il se présente au **Général de Gaulle** sous le pseudonyme de François Leclerc. Cet événement va changer sa vie et le destin de la France. De Gaulle le promeut Chef d'Escadron (Commandant), et l'envoie en Afrique Équatoriale Française (AEF) pour la rallier à la France Libre.
 
 Il part le 6 août pour le **Cameroun**, avec des figures comme René Pleven, André Parant, Claude Hettier de Boislambert, le  commandant Louis Dio, et rallie le Cameroun, le **Tchad** et le **Congo**, avec Félix Eboué et le colonel de Larminat.
 
@@ -96,7 +96,7 @@ Leclerc va assiéger le fort d'El-Tag. Celui-ci est bien défendu et puissamment
 
 **L'audace, le culot, le bluff.**
 
-Les italiens surestiment les forces en présence et demandent à parlementer le 28 février, ce que Leclerc refuse. Le 1er mars, les italiens sortent du fort et demandent aux français leurs conditions pour une capitulation dans l'honneur. Leclerc fait trainer les négociations, puis ordonne aux italiens de rentrer dans leur fort, tout en s'invitant avec deux officiers. Coup de bluff. Arrivé sur place, Leclerc impose ses conditions, les italiens capitulent, pourtant en supériorité.
+Les italiens surestiment les forces en présence et demandent à parlementer le 28 février, ce que Leclerc refuse. Le 1er mars, les italiens sortent du fort et demandent aux français leurs conditions pour une capitulation dans l'honneur. Leclerc fait traîner les négociations, puis ordonne aux italiens de rentrer dans leur fort, tout en s'invitant avec deux officiers. Coup de bluff. Arrivé sur place, Leclerc impose ses conditions, les italiens capitulent, pourtant en supériorité.
 
 **C'est la première victoire de la France depuis la capitulation de 1940.**
 
@@ -174,7 +174,7 @@ Le 27 juin 1952, il est élevé à la dignité de **Maréchal de France** (7 ét
 
 ## Note de l'auteur
 
-On connait la suite de l'histoire en Indochine et en Algérie. Leclerc était apprécié et avait de bonnes relations avec Hô Chi Minh. On aurait pu imaginer un dénouement bien plus heureux, notamment en Indochine si la politique de la 4ème République n'avait pas été si désastreuse, si Leclerc n'était pas décédé... *Avec des Si, on mettrait Paris en bouteille*...
+On connaît la suite de l'histoire en Indochine et en Algérie. Leclerc était apprécié et avait de bonnes relations avec Hô Chi Minh. On aurait pu imaginer un dénouement bien plus heureux, notamment en Indochine si la politique de la 4ème République n'avait pas été si désastreuse, si Leclerc n'était pas décédé... *Avec des Si, on mettrait Paris en bouteille*...
 
 # Focus sur Ksar Ghilane
 
@@ -244,7 +244,7 @@ Le 9 mars, le Général Montgomery apprend à Leclerc que la **90ème Panzer Gre
 
 *La bataille de Ksar Ghilane - Depuis https://www.2edb-leclerc.fr/*
 
-Le 10 mars, c'est le choc avec les allemands. Le Général Montgomery ne pensait pas que Leclerc pouvait tenir. Il dira, à midi « _**Ca doit chauffer à Ksar Ghilane. Ce brave Leclerc, il était bien sympathique... Mais maintenant c'est fini, nous ne le reverrons plus !**_ ». Pourtant, la Force L va repousser trois attaques des Panzers, résister aux assauts des chasseurs et bombardiers allemands, qui tomberont dans les griffes de la Royal Air Force. A 18 heures, les allemands se replient et font retraite après avoir perdu 60 véhicules, 10 canons, sans avoir jamais pu pénétrer aucune position française.
+Le 10 mars, c'est le choc avec les allemands. Le Général Montgomery ne pensait pas que Leclerc pouvait tenir. Il dira, à midi « _**Ça doit chauffer à Ksar Ghilane. Ce brave Leclerc, il était bien sympathique... Mais maintenant c'est fini, nous ne le reverrons plus !**_ ». Pourtant, la Force L va repousser trois attaques des Panzers, résister aux assauts des chasseurs et bombardiers allemands, qui tomberont dans les griffes de la Royal Air Force. A 18 heures, les allemands se replient et font retraite après avoir perdu 60 véhicules, 10 canons, sans avoir jamais pu pénétrer aucune position française.
 
 C'est la victoire.
 
