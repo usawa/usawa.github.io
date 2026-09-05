@@ -21,7 +21,7 @@ Publié le {{ page.date | date: "%d/%m/%Y à %H:%M" }}
 - [Tristesse](#tristesse)
 
 >**Note**
->Comme déjà indiqué dans le précédent épisode, je ne nommerai ni le vendeur, ni le mandataire. On réservera ça pour la jour du jugement, s'il y a. Ces articles sont un exutoire pour mon stress de ces derniers mois.
+>Comme déjà indiqué dans le précédent épisode, je ne nommerai ni le vendeur, ni le mandataire. On réservera ça pour le jour du jugement, s'il y a. Ces articles sont un exutoire pour mon stress de ces derniers mois.
 
 # Petit rappel du premier épisode.
 
@@ -162,7 +162,7 @@ Mon prochain rendez-vous avec l'assistance juridique aura lieu la semaine procha
 - Si refus ou pas de retour: on partira en justice.
 - Ou autre ? A discuter avec le ou la conseillère.
 
-Si on part en justice, on part pour un an et demi (1 an 1/2) à deux (2) ans. L'expert me disait que même le vendeur du vendeur pourrait être impliqué: il y a une haine complète de défaillances. Avec une expertise judicaire, etc. La voiture devra être stockée durant tout ce temps (j'ai acheté une bâche, il faudra débrancher la batterie). Durant ce temps je dois continuer à payer la place de parking et l'assurance (soit environ 115 euros par mois) : plus de 2000 euros de frais inutiles pour 18 mois...
+Si on part en justice, on part pour un an et demi (1 an 1/2) à deux (2) ans. L'expert me disait que même le vendeur du vendeur pourrait être impliqué: il y a une chaine complète de défaillances. Avec une expertise judicaire, etc. La voiture devra être stockée durant tout ce temps (j'ai acheté une bâche, il faudra débrancher la batterie). Durant ce temps je dois continuer à payer la place de parking et l'assurance (soit environ 115 euros par mois) : plus de 2000 euros de frais inutiles pour 18 mois...
 
 Imaginons qu'à la fin je gagne (il parait que ce n'est même pas sûr, les avocats iraient se battre sur le rapport du CT et ce fameux code P1167), il est même possible que le vendeur ou son fils (ils étaient copropriétaires) ne soient pas/plus solvables. Et dans ce cas, bah, j'aurais perdu tout de même mon argent...
 
