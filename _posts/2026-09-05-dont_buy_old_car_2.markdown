@@ -41,7 +41,7 @@ Le garagiste (de la même marque que la voiture), après quelques tentatives (hu
 
 ![Devis boite neuve](/assets/img/2525-09-05/devis_neuf.jpg)
 
-*17100 euros pour une boite neuve. Pour un automobile à 5280 euros.*
+*17100 euros pour une boite neuve. Pour une automobile à 5280 euros.*
 
 La garantie demande aussi des informations complémentaires, comme l'historique (Journal des Défauts) du calculateur de la C3. A ce moment-là, le garagiste me dit qu'il abandonne: sans solution, il ne se fait pas payer des vannes déjà changées. Je récupère la voiture, toujours en panne: patinage, mise en sécurité, et, c'est nouveau, le passage en mode manuel ne fonctionne plus. Notez pour la suite: **les infos demandées ne sont pas transmises à l'organisme de garantie**.
 
