@@ -74,7 +74,7 @@ La suite, je la connaissais déjà, elle semblait évidente dès les demandes de
 
 Je contacte donc la garantie. Dans le même temps, j'ai tenu au courant le mandataire de toutes mes démarches. Il m'informe qu'il va tenter de négocier avec l'organisme de garantie pour une meilleure prise en charge. Ben voyons.
 
-Appel de la garantie: c'est trop cher, il faut explorer d'autres pistes. Je dit à leur expert (très sympathique et professionnel, je le souligne aussi) que personne ne réparera la boite: c'est forcément un échange. Je lui décris l'ensemble de mes démarches, et mon stress sur ce mois compliqué. Enfin, sa phrase : "au fait, le premier garagiste ne nous a jamais envoyé les pièces qu'on lui a demandé, comme le CT !". 
+Appel de la garantie: c'est trop cher, il faut explorer d'autres pistes. Je dis à leur expert (très sympathique et professionnel, je le souligne aussi) que personne ne réparera la boite: c'est forcément un échange. Je lui décris l'ensemble de mes démarches, et mon stress sur ce mois compliqué. Enfin, sa phrase : "au fait, le premier garagiste ne nous a jamais envoyé les pièces qu'on lui a demandé, comme le CT !". 
 
 Là, j'ai été comme libéré d'un poids.
 
@@ -133,7 +133,7 @@ Trois codes sont relevés:
 
 *L'erreur antipollution dans la valise*
 
-Pour passer les vitesses, le calculateur de boite de vitesse actionne des électrovannes pour laisser passer sous pression l'huile de boite, afin de débrayer / embrayer. La boite automatique est en fait une boite robotisée contrôlée via un système hydraulique (enfin, de l'huile...). En tant normal les vitesses passent en 0,8 secondes. Les valeurs attendues sont de 7,9 bars. Elles sont mesurées à 4,35 bars. Et donc ça patine, et ça finit par tomber en erreur. L'origine ? Pas les électrovannes: il y a une fuite interne à la boite. L'huile s'échappe (où, on ne sait pas), et en cas de forte accélération, elle brule, d'où l'odeur de chaud décrite dans la première partie.
+Pour passer les vitesses, le calculateur de boite de vitesse actionne des électrovannes pour laisser passer sous pression l'huile de boite, afin de débrayer / embrayer. La boite automatique est en fait une boite robotisée contrôlée via un système hydraulique (enfin, de l'huile...). En temps normal les vitesses passent en 0,8 secondes. Les valeurs attendues sont de 7,9 bars. Elles sont mesurées à 4,35 bars. Et donc ça patine, et ça finit par tomber en erreur. L'origine ? Pas les électrovannes: il y a une fuite interne à la boite. L'huile s'échappe (où, on ne sait pas), et en cas de forte accélération, elle brule, d'où l'odeur de chaud décrite dans la première partie.
 
 ![pression hydraulique](/assets/img/2525-09-05/pression_hydraulique.jpg)
 
